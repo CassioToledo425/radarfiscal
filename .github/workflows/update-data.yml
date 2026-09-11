@@ -16,13 +16,18 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: radar-fiscal-data
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Baixar repositório
@@ -37,20 +42,37 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
-      - name: Validar coletor
-        run: python -m py_compile scripts/fetch_data.py
+      - name: Validar coletores
+        run: python -m py_compile scripts/fetch_agenda.py scripts/fetch_news.py
 
-      - name: Coletar agenda e notícias
-        run: python scripts/fetch_data.py
+      - name: Atualizar agenda tributária
+        run: python scripts/fetch_agenda.py
 
-      - name: Publicar dados atualizados
+      - name: Atualizar notícias e fontes
+        run: python scripts/fetch_news.py
+
+      - name: Salvar dados no repositório
         run: |
           if git diff --quiet -- data; then
             echo "Nenhuma alteração de dados."
-            exit 0
+          else
+            git config user.name "radar-fiscal-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/
+            git commit -m "chore: atualiza radar fiscal"
+            git push
           fi
-          git config user.name "radar-fiscal-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -m "chore: atualiza radar fiscal"
-          git push
+
+      # O push feito pelo GITHUB_TOKEN não dispara outro workflow por segurança.
+      # Por isso a publicação do Pages acontece nesta mesma execução.
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar site para publicação
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Publicar Radar Fiscal
+        id: deployment
+        uses: actions/deploy-pages@v4

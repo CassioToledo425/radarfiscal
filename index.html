@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Radar Fiscal — agenda tributária federal, Reforma Tributária e notícias contábeis monitoradas automaticamente." />
+  <title>Radar Fiscal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">RF</div>
+        <div><strong>Radar Fiscal</strong><span>Inteligência tributária</span></div>
+      </div>
+      <nav class="nav" aria-label="Navegação principal">
+        <button class="nav-item active" data-view="overview"><span>⌂</span> Visão geral</button>
+        <button class="nav-item" data-view="agenda"><span>▦</span> Agenda tributária</button>
+        <button class="nav-item" data-view="reforma"><span>◈</span> Reforma Tributária</button>
+        <button class="nav-item" data-view="radar"><span>⌁</span> Radar contábil</button>
+        <button class="nav-item" data-view="sources"><span>●</span> Fontes & status</button>
+      </nav>
+      <div class="sidebar-foot">
+        <span class="live-dot"></span>
+        <div><strong>Atualização automática</strong><small id="sideUpdated">carregando…</small></div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">MONITORAMENTO FISCAL</p>
+          <h1 id="pageTitle">Visão geral</h1>
+        </div>
+        <div class="top-actions">
+          <div class="sync-pill"><span class="live-dot"></span><span id="syncText">Sincronizando dados</span></div>
+          <button class="icon-btn" id="themeBtn" title="Alternar tema" aria-label="Alternar tema">◐</button>
+        </div>
+      </header>
+
+      <section class="view active" id="view-overview">
+        <div class="hero">
+          <div>
+            <span class="hero-kicker">RADAR DO DIA</span>
+            <h2>O que exige sua atenção fiscal agora.</h2>
+            <p>Agenda oficial, publicações da Reforma Tributária e sinais relevantes do ecossistema contábil em uma única leitura.</p>
+          </div>
+          <div class="hero-date"><strong id="todayDay">--</strong><span id="todayMonth">---</span><small id="todayWeekday">---</small></div>
+        </div>
+
+        <div class="kpi-grid">
+          <article class="kpi"><span>Próximos 7 dias</span><strong id="kpiDeadlines">0</strong><small>obrigações com vencimento</small></article>
+          <article class="kpi"><span>Reforma Tributária</span><strong id="kpiOfficial">0</strong><small>publicações oficiais recentes</small></article>
+          <article class="kpi"><span>Radar contábil</span><strong id="kpiRadar">0</strong><small>novidades monitoradas</small></article>
+          <article class="kpi"><span>Fontes online</span><strong id="kpiSources">0</strong><small>canais em monitoramento</small></article>
+        </div>
+
+        <div class="overview-grid">
+          <article class="panel span-7">
+            <div class="panel-head"><div><span class="section-label">AGENDA FEDERAL</span><h3>Próximos vencimentos</h3></div><button class="link-btn" data-jump="agenda">Ver calendário →</button></div>
+            <div id="upcomingList" class="deadline-list"></div>
+          </article>
+          <article class="panel span-5">
+            <div class="panel-head"><div><span class="section-label">PRIORIDADE OFICIAL</span><h3>Reforma Tributária</h3></div><button class="link-btn" data-jump="reforma">Ver radar →</button></div>
+            <div id="officialHighlights" class="compact-news"></div>
+          </article>
+          <article class="panel span-12">
+            <div class="panel-head"><div><span class="section-label">TERMÔMETRO</span><h3>Assuntos em circulação</h3></div><span class="muted">últimas publicações coletadas</span></div>
+            <div id="topicCloud" class="topic-cloud"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="view" id="view-agenda">
+        <div class="toolbar">
+          <div class="month-nav"><button id="prevMonth">←</button><div><span>Agenda tributária federal</span><strong id="monthLabel">—</strong></div><button id="nextMonth">→</button></div>
+          <div class="toolbar-actions"><button class="soft-btn" id="todayBtn">Mês atual</button><a class="soft-btn" href="https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria" target="_blank" rel="noopener">Fonte Receita ↗</a></div>
+        </div>
+        <div class="agenda-layout">
+          <article class="calendar-panel">
+            <div class="weekday-row"><span>Dom</span><span>Seg</span><span>Ter</span><span>Qua</span><span>Qui</span><span>Sex</span><span>Sáb</span></div>
+            <div id="calendar" class="calendar"></div>
+          </article>
+          <aside class="day-panel">
+            <div class="day-panel-head"><span class="section-label">DETALHES DO DIA</span><h3 id="selectedDate">Selecione uma data</h3><p id="selectedCount">Clique em um dia destacado no calendário.</p></div>
+            <div id="dayEvents" class="day-events"></div>
+          </aside>
+        </div>
+        <p class="disclaimer">Os dados desta agenda são coletados da Agenda Tributária da Receita Federal. Confirme situações específicas e alterações diretamente na fonte oficial antes de qualquer recolhimento ou entrega.</p>
+      </section>
+
+      <section class="view" id="view-reforma">
+        <div class="section-intro"><div><span class="section-label">FONTES PRIORITÁRIAS</span><h2>Reforma Tributária</h2><p>Publicações da Receita Federal e do Comitê Gestor do IBS aparecem primeiro; fontes secundárias ficam identificadas.</p></div><div class="filter-row"><button class="filter active" data-reforma-filter="all">Tudo</button><button class="filter" data-reforma-filter="official">Oficial</button><button class="filter" data-reforma-filter="normative">Atos & normas</button></div></div>
+        <div id="reformaFeed" class="news-feed"></div>
+      </section>
+
+      <section class="view" id="view-radar">
+        <div class="section-intro"><div><span class="section-label">PORTAIS & ENTIDADES</span><h2>Radar contábil</h2><p>Leitura complementar de portais especializados e entidades do setor, sem substituir a fonte oficial.</p></div><div class="search-wrap"><input id="radarSearch" type="search" placeholder="Buscar assunto…" /></div></div>
+        <div id="radarFeed" class="news-feed"></div>
+      </section>
+
+      <section class="view" id="view-sources">
+        <div class="section-intro"><div><span class="section-label">TRANSPARÊNCIA</span><h2>Fontes & status</h2><p>Veja de onde os dados vêm, a prioridade editorial e o resultado da última coleta automática.</p></div></div>
+        <div id="sourcesGrid" class="sources-grid"></div>
+        <article class="panel methodology"><span class="section-label">METODOLOGIA</span><h3>Hierarquia de confiança</h3><p><strong>Oficial</strong> — Receita Federal, CGIBS e demais canais governamentais. <strong>Institucional</strong> — entidades profissionais e representativas. <strong>Especializada</strong> — portais contábeis usados como radar de temas e repercussões.</p><p>O painel preserva o link da publicação original e não converte conteúdo jornalístico em orientação fiscal automática.</p></article>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

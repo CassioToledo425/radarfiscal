@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:04:46+00:00",
+  "updated_at": "2026-09-11T15:07:00+00:00",
   "sources": [
     {
       "name": "Receita Federal — Agenda Tributária",
@@ -11,7 +11,7 @@
     {
       "name": "Receita Federal — Reforma Tributária",
       "level": "official",
-      "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/rtc2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/noticias",
       "description": "Notícias e orientações oficiais sobre a Reforma Tributária do Consumo.",
       "status": "ok"
     },

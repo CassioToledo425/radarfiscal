@@ -82,17 +82,44 @@ function renderActions(){
   if($('#actionKpiDocs'))$('#actionKpiDocs').textContent=docs;
   let list=all;
   if(ACTION_STATE.filter==='act')list=all.filter(x=>x.action_priority==='act');
+  if(ACTION_STATE.filter==='prepare')list=all.filter(x=>x.action_priority==='prepare');
   if(ACTION_STATE.filter==='deadline')list=all.filter(x=>x.action_deadline);
   if(['document','technical','normative'].includes(ACTION_STATE.filter))list=all.filter(x=>x.action_category===ACTION_STATE.filter);
   if($('#actionFeed'))$('#actionFeed').innerHTML=list.length?list.map(actionCardHTML).join(''):'<div class="empty">Nenhuma atualização encontrada para este filtro.</div>';
 }
 
+function setActionFilter(filter,{scroll=true}={}){
+  ACTION_STATE.filter=filter;
+  $$('[data-action-filter]').forEach(x=>x.classList.toggle('active',x.dataset.actionFilter===filter));
+  renderActions();
+  if(scroll&&$('#actionFeed'))$('#actionFeed').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+function prepareActionKpis(){
+  const config=[
+    ['.action-kpi.urgent','act','Listar itens que exigem ação imediata'],
+    ['.action-kpi.prepare','prepare','Listar itens que exigem preparação'],
+    ['.action-kpi.deadline','deadline','Listar publicações com datas-chave'],
+    ['.action-kpi.docs','document','Listar atualizações sobre documentos fiscais']
+  ];
+  config.forEach(([selector,filter,label])=>{
+    const card=$(selector);if(!card)return;
+    card.dataset.actionFilter=filter;
+    card.setAttribute('role','button');
+    card.setAttribute('tabindex','0');
+    card.setAttribute('aria-label',label);
+    card.setAttribute('title',label);
+  });
+}
+
 function bindActionSummary(){
-  $$('[data-action-filter]').forEach(b=>b.addEventListener('click',()=>{
-    ACTION_STATE.filter=b.dataset.actionFilter;
-    $$('[data-action-filter]').forEach(x=>x.classList.toggle('active',x===b));
-    renderActions();
-  }));
+  prepareActionKpis();
+  $$('[data-action-filter]').forEach(b=>{
+    b.addEventListener('click',()=>setActionFilter(b.dataset.actionFilter));
+    if(b.classList.contains('action-kpi'))b.addEventListener('keydown',e=>{
+      if(e.key==='Enter'||e.key===' '){e.preventDefault();setActionFilter(b.dataset.actionFilter)}
+    });
+  });
   const actionNav=$('.nav-item[data-view="actions"]');
   if(actionNav)actionNav.addEventListener('click',()=>{
     $('#pageTitle').textContent='Resumo de ações';

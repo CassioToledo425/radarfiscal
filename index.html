@@ -17,6 +17,7 @@
       <nav class="nav" aria-label="Navegação principal">
         <button class="nav-item active" data-view="overview"><span>⌂</span> Visão geral</button>
         <button class="nav-item" data-view="agenda"><span>▦</span> Agenda tributária</button>
+        <button class="nav-item" data-view="actions"><span>✓</span> Resumo de ações</button>
         <button class="nav-item" data-view="reforma"><span>◈</span> Reforma Tributária</button>
         <button class="nav-item" data-view="radar"><span>⌁</span> Radar contábil</button>
         <button class="nav-item" data-view="sources"><span>●</span> Fontes & status</button>
@@ -62,7 +63,7 @@
             <div id="upcomingList" class="deadline-list"></div>
           </article>
           <article class="panel span-5">
-            <div class="panel-head"><div><span class="section-label">PRIORIDADE OFICIAL</span><h3>Reforma Tributária</h3></div><button class="link-btn" data-jump="reforma">Ver radar →</button></div>
+            <div class="panel-head"><div><span class="section-label">PRIORIDADE OFICIAL</span><h3>Reforma Tributária</h3></div><button class="link-btn" data-jump="actions">Ver resumo de ações →</button></div>
             <div id="officialHighlights" class="compact-news"></div>
           </article>
           <article class="panel span-12">
@@ -88,6 +89,36 @@
           </aside>
         </div>
         <p class="disclaimer">Os dados desta agenda são coletados da Agenda Tributária da Receita Federal. Confirme situações específicas e alterações diretamente na fonte oficial antes de qualquer recolhimento ou entrega.</p>
+      </section>
+
+      <section class="view" id="view-actions">
+        <div class="section-intro action-intro">
+          <div><span class="section-label">FLUXO DE AÇÃO</span><h2>Resumo de atualizações</h2><p>Transforma as publicações da Reforma Tributária em uma leitura executiva: mudança, prazo, impacto operacional e próximo passo sugerido.</p></div>
+          <div class="filter-row action-filter-row">
+            <button class="filter active" data-action-filter="all">Tudo</button>
+            <button class="filter" data-action-filter="act">Agir agora</button>
+            <button class="filter" data-action-filter="deadline">Com prazo</button>
+            <button class="filter" data-action-filter="document">Documentos fiscais</button>
+            <button class="filter" data-action-filter="technical">Técnico / leiautes</button>
+            <button class="filter" data-action-filter="normative">Atos & normas</button>
+          </div>
+        </div>
+
+        <div class="action-kpis">
+          <article class="action-kpi urgent"><span>AGIR AGORA</span><strong id="actionKpiAct">0</strong><small>itens com prazo ou ação operacional</small></article>
+          <article class="action-kpi prepare"><span>PREPARAR</span><strong id="actionKpiPrepare">0</strong><small>mudanças técnicas e de processo</small></article>
+          <article class="action-kpi deadline"><span>DATAS-CHAVE</span><strong id="actionKpiDeadline">0</strong><small>publicações com prazo identificado</small></article>
+          <article class="action-kpi docs"><span>DOCUMENTOS</span><strong id="actionKpiDocs">0</strong><small>emissão, leiautes ou eventos fiscais</small></article>
+        </div>
+
+        <div class="action-legend">
+          <span><i class="action-dot act"></i><strong>Agir agora</strong> — há prazo, obrigatoriedade ou providência operacional.</span>
+          <span><i class="action-dot prepare"></i><strong>Preparar</strong> — exige avaliação de processo, ERP, leiaute ou integração.</span>
+          <span><i class="action-dot monitor"></i><strong>Monitorar</strong> — relevante, mas sem ação objetiva identificada na publicação coletada.</span>
+        </div>
+
+        <div id="actionFeed" class="action-feed"></div>
+        <p class="disclaimer action-disclaimer">O “próximo passo” é uma sugestão de triagem interna gerada a partir do texto coletado. Ele não substitui a leitura do ato, nota técnica ou publicação oficial nem constitui orientação jurídica ou tributária.</p>
       </section>
 
       <section class="view" id="view-reforma">

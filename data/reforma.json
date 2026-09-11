@@ -1,7 +1,602 @@
 [
-  {"date":"2026-09-09","source":"Receita Federal","level":"official","kind":"update","kind_label":"Documentação técnica","title":"DeRE - Receita Federal publica versão 1.2.0 da documentação técnica da DeRE","summary":"Atualização do pacote técnico com leiautes dos eventos transacionais, deduções e reabertura de competência.","url":"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro"},
-  {"date":"2026-09-01","source":"Receita Federal","level":"official","kind":"update","kind_label":"Simples Nacional / IBS-CBS","title":"Receita Federal alerta sobre a opção pelo Simples Nacional e o modelo de recolhimento do IBS e da CBS em 2027","summary":"A janela informada pela Receita vai de 1º a 30 de setembro de 2026, com efeitos para 2027.","url":"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027/"},
-  {"date":"2026-08-28","source":"CGIBS","level":"official","kind":"normative","kind_label":"Ato conjunto","title":"Ato Conjunto RFB/CGIBS nº 6, de 28 de agosto de 2026","summary":"Novo ato conjunto disponibilizado no portal oficial do Comitê Gestor do IBS.","url":"https://www.cgibs.gov.br/atos-conjuntos"},
-  {"date":"2026-08-13","source":"Receita Federal / CGIBS","level":"official","kind":"normative","kind_label":"Conformidade tributária","title":"Receita Federal e CGIBS regulamentam Programa Nacional de Conformidade Tributária para apoiar a adaptação em 2026","summary":"O programa foi criado para apoiar a adaptação às novas obrigações relacionadas à emissão de documentos fiscais.","url":"https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-cgibs-regulamentam-programa-nacional-de-conformidade-tributaria-para-apoiar-adaptacao-a-reforma-tributaria-no-ano-de-2026"},
-  {"date":"2026-08-06","source":"CGIBS","level":"official","kind":"update","kind_label":"Documentos fiscais","title":"Receita Federal e CGIBS esclarecem adiamento das regras de validação dos documentos fiscais eletrônicos","summary":"O portal do CGIBS informou a flexibilização das validações sem afastar a necessidade de adequação ao novo modelo.","url":"https://www.cgibs.gov.br/noticias"}
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "• Reforma Tributária",
+    "summary": "Aderir ao Piloto da Reforma Tributária da Contribuição sobre Bens e Serviços (CBS) Emitir Nota Fiscal de Serviço Eletrônica (NFS-e) Consultar Nota Fiscal de Serviço Eletrônica (NFS-e) Escolher Regime de Apuração de IBS e CBS",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "• Aduana e Comércio Exterior",
+    "summary": "Acessar o portal Aduana e Comércio Exterior Acessar sistemas aduaneiros AFRMM - Adicional ao Frete para Renovação da Marinha Mercante Bagagem Carga Despachante Aduaneiro e Ajudante Despachante Aduaneiro e-DMOV - Declaração de Movimentação Internacional de Valores Exportação Habil",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "• Acordos, Pagamentos e Parcelamentos",
+    "summary": "Consultar dívidas e pendências Pagar impostos Alterar pagamentos Consultar pagamentos Parcelar dívidas Consultar parcelamentos Fazer acordo de transação Revisar débitos e pendências",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Revisar débitos e pendências",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos/revisar-debitos-e-pendencias"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Portal de Serviços",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/portal-de-servicos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Portais Relacionados",
+    "summary": "Empresas e Negócios ENAT eSocial ITR Orientações para celebração de convênios Nota Fiscal de Serviço Eletrônica (NFS-e) Nota Fiscal Eletrônica Nota Fiscal Eletrônica do Ouro (NF-e Ouro) Portal CNIR Procuradoria da Fazenda (PGFN) Registrato Simples Nacional Sinter Siscomex Sped",
+    "url": "https://www.gov.br/receitafederal/pt-br/portais"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Piloto da Reforma Tributária do Consumo",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Perguntas Frequentes",
+    "summary": "Benefícios Fiscais Cadastros Compartilhamento de Dados Concursos Públicos CAFIR e CNIR Construção Civil Declaração de Serviços Médicos e de Saúde Imposto de Renda Isenção para compra de carro Piloto da Reforma Tributária do Consumo Programa Nacional de Apoio às Microempresas e Em",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Nota Fiscal de Serviço Eletrônica (NFS-e)",
+    "summary": "",
+    "url": "https://www.gov.br/nfse/pt-br"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Nota Fiscal Eletrônica do Ouro (NF-e Ouro)",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/nfeouro"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Nota Fiscal Eletrônica",
+    "summary": "",
+    "url": "http://www.nfe.fazenda.gov.br"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Ir para o menu de Navegação 3",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/rtc2026#main-navigation"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Ir para o Conteúdo 1",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/rtc2026#wrapper"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Ir para a Página Inicial 2",
+    "summary": "",
+    "url": "https://www.gov.br/"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Intervalo personalizado",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/noticias?classificacao=&ordem=RECENTES&pagina=1&palavraschave=&publicacaodatahorafim=&publicacaodatahoraini="
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Guia Orientativo (PDF)",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/guia-orientativo-pdf"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Guia - Impactos Administrativos",
+    "summary": "Guia Orientativo (PDF) Painel Interativo",
+    "url": "https://www.cgibs.gov.br/guia-orientativo-para-impactos-administrativos-da-reforma-tributaria"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Fazer acordo de transação",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos/fazer-acordo"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Escolher Regime de Apuração de IBS e CBS",
+    "summary": "",
+    "url": "https://www.gov.br/pt-br/servicos/escolher-regime-de-apuracao-de-bens-e-servicos-ibs-e-da-contribuicao-sobre-bens-e-servicos-cbs"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Emitir Nota Fiscal de Serviço Eletrônica (NFS-e)",
+    "summary": "",
+    "url": "https://www.gov.br/pt-br/servicos/emitir-nota-fiscal-de-servico-eletronica"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Editais de Chamamento Público",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/editais-de-chamamento-publico"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Documentos Técnicos",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/documentos-tecnicos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Despachante Aduaneiro e Ajudante Despachante Aduaneiro",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana/registro-de-despachante"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Consultar parcelamentos",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos/consultar-parcelamentos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Consultar pagamentos",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos/consultar-pagamentos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Consultar dívidas e pendências",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos/consultar-dividas"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Consultar Nota Fiscal de Serviço Eletrônica (NFS-e)",
+    "summary": "",
+    "url": "https://www.gov.br/pt-br/servicos/consultar-nota-fiscal-de-servico-eletronica"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Comunicados Oficiais",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/comunicados-oficiais"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Combate à sonegação",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/sonegacao"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Combate à corrupção",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/corrupcao"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Combate ao contrabando",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/contrabando"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Central de Conteúdo",
+    "summary": "Guias Cartilhas Comunicados Oficiais Documentos Técnicos Vídeos Editais de Chamamento Público",
+    "url": "https://www.cgibs.gov.br/central-de-conteudo"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Centrais de Conteúdo",
+    "summary": "Atas e Pautas Comitê Gestor do Programa de Produtividade da Receita Federal Turmas Recursais - Atas e Pautas de Julgamento Câmaras Recursais – Atas e Pautas de Julgamento Comitê de Governança Institucional Editais Editais Eletrônicos Transação Tributária Notificações e Intimações",
+    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "CGIBS - Comitê Gestor do IBS",
+    "summary": "Alterna a navegação Abrir a busca",
+    "url": "https://www.cgibs.gov.br/"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Atos Técnicos Conjuntos",
+    "summary": "",
+    "url": "https://www.cgibs.gov.br/atos-tecnicos-conjuntos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Arrecadação e Cobrança",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/arrecadacao-e-cobranca"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Alterar pagamentos",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/acordos-pagamentos-e-parcelamentos/alterar-pagamentos"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Aderir ao Piloto da Reforma Tributária da Contribuição sobre Bens e Serviços (CBS)",
+    "summary": "",
+    "url": "https://www.gov.br/pt-br/servicos/aderir-ao-piloto-da-cbs"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Acesso à Informação",
+    "summary": "Institucional Estrutura Quem é Quem Cadeia de Valor Competências História da Receita Federal Planejamento Estratégico Relações Internacionais Ações e Programas Ações, Atividades, Obras, Programas e Projetos Carta de Serviços Governança Participação Social Audiências e Consultas P",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Acessar sistemas aduaneiros",
+    "summary": "",
+    "url": "https://www.gov.br/pt-br/servicos/acessar-sistemas-aduaneiros"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Acessar o portal Aduana e Comércio Exterior",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "Abrir menu principal de navegação",
+    "summary": "Receita Federal",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/rtc2026"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Reforma Tributária",
+    "title": "AFRMM - Adicional ao Frete para Renovação da Marinha Mercante",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana/afrmm"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "DeRE - Receita Federal publica versão 1.2.0 da documentação técnica da DeRE",
+    "summary": "Serviços  Pacote técnico inclui leiautes dos eventos transacionais, controle de deduções e reabertura de competência; atualização do Manual do Usuário será disponibilizada em breve.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/dere-receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-dere"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Documentação técnica",
+    "title": "DeRE - Receita Federal publica versão 1.2.0 da documentação técnica da DeRE",
+    "summary": "Atualização do pacote técnico com leiautes dos eventos transacionais, deduções e reabertura de competência.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro"
+  },
+  {
+    "date": "2026-09-01",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Receita Federal alerta: começa hoje o prazo para opção pelo Simples Nacional e para a escolha do modelo de recolhimento do IBS e da CBS em 2027",
+    "summary": "Serviços  Empresas têm até 30 de setembro para solicitar ingresso no Simples Nacional e definir a forma de recolhimento dos novos tributos da Reforma Tributária sobre o Consumo tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027"
+  },
+  {
+    "date": "2026-08-31",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Notícia oficial",
+    "title": "Manaus sediará nesta terça-feira (1º) o Módulo 15 do Curso Reforma Tributária do Consumo",
+    "summary": "Institucional  A transmissão ao vivo abordará a tributação na Zona Franca de Manaus e nas Áreas de Livre Comércio. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/manaus-sediara-nesta-terca-feira-1o-o-modulo-15-do-curso-reforma-tributaria-do-consumo"
+  },
+  {
+    "date": "2026-08-28",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "Ato Conjunto RFB/CGIBS nº 6, de 28 de agosto de 2026",
+    "summary": "Novo ato conjunto disponibilizado no portal oficial do Comitê Gestor do IBS.",
+    "url": "https://www.cgibs.gov.br/atos-conjuntos"
+  },
+  {
+    "date": "2026-08-28",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "ADE RFB CGIBS N 6 (.pdf 854,51 KBytes)",
+    "summary": "Publicado e disponibilizado no site do CGIBS em 28/08/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202608/28193542-ade-rfb-cgibs-n-6-28-8-2026-com-paragrafo-unico-assinado.pdf"
+  },
+  {
+    "date": "2026-08-13",
+    "source": "Receita Federal / CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Conformidade tributária",
+    "title": "Receita Federal e CGIBS regulamentam Programa Nacional de Conformidade Tributária para apoiar a adaptação em 2026",
+    "summary": "O programa foi criado para apoiar a adaptação às novas obrigações relacionadas à emissão de documentos fiscais.",
+    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-cgibs-regulamentam-programa-nacional-de-conformidade-tributaria-para-apoiar-adaptacao-a-reforma-tributaria-no-ano-de-2026"
+  },
+  {
+    "date": "2026-08-13",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "Ato Conjunto RFB CGIBS n%C2%BA 5 2026 Regulamenta o Programa Nacional de Conformidade Tributaria docx assinado (.pdf 369,59 KBytes)",
+    "summary": "Publicado e disponibilizado no site do CGIBS em 13/08/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202608/13065932-ato-conjunto-rfb-cgibs-n-c2-ba-5-2026-regulamenta-o-programa-nacional-de-conformidade-tributaria-docx-assinado.pdf"
+  },
+  {
+    "date": "2026-08-06",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Documentos fiscais",
+    "title": "Receita Federal e CGIBS esclarecem adiamento das regras de validação dos documentos fiscais eletrônicos",
+    "summary": "O portal do CGIBS informou a flexibilização das validações sem afastar a necessidade de adequação ao novo modelo.",
+    "url": "https://www.cgibs.gov.br/noticias"
+  },
+  {
+    "date": "2026-07-31",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "20260730 16h30 ATO CONJUNTO RFB CGIBS NA%C2%BA 4 260731 090909 (.pdf 846,91 KBytes)",
+    "summary": "Publicado e disponibilizado no site do CGIBS em 31/07/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202607/31091735-20260730-16h30-ato-conjunto-rfb-cgibs-na-c2-ba-4-260731-090909.pdf"
+  },
+  {
+    "date": "2026-06-22",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "Ato Conjunto nro 3 DeRE (.pdf 887,74 KBytes)",
+    "summary": "Publicado e disponibilizado no site do CGIBS em 22/06/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202606/22083423-ato-conjunto-nro-3-dere.pdf"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "Ato Conjunto RFB e CIBS %2827 05%29 assinado (.pdf 715,87 KBytes)",
+    "summary": "Publicado e disponibilizado no site do CGIBS em 03/06/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202606/03111600-ato-conjunto-rfb-e-cibs-2827-05-29-assinado.pdf"
+  },
+  {
+    "date": "2026-05-26",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Resolução",
+    "title": "RESOLUÇÃO CGIBS Nº 8, DE 26 DE MAIO DE 2026",
+    "summary": "Publicada e disponibilizada no site do CGIBS em 26/05/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202605/26184150-resolucao-cgibs-n-8-de-2026-3.pdf"
+  },
+  {
+    "date": "2026-05-18",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Resolução",
+    "title": "RESOLUÇÃO CGIBS Nº 7, DE 18 DE MAIO DE 2026",
+    "summary": "Publicada e disponibilizada no site do CGIBS em 15/06/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202606/15121804-19123917-2026-05-18-min-resoluc-ao-diretrizes-orc-amento-cg-ct-tes-alterada-versa-o3-2-l.pdf"
+  },
+  {
+    "date": "2026-04-30",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "SEI MGI 60959979 Portaria Conjunta (.pdf 100,91 KBytes)",
+    "summary": "Publicado e disponibilizado no site do CGIBS em 30/04/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202604/30094136-sei-mgi-60959979-portaria-conjunta.pdf"
+  },
+  {
+    "date": "2026-04-30",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Resolução",
+    "title": "RESOLUÇÃO CGIBS Nº 6, DE 30 DE ABRIL DE 2026 - Regulamento do IBS",
+    "summary": "Publicada e disponibilizada no site do CGIBS em 30/04/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202604/30084927-res-cgibs-n-6-30-abr-2026-regulamenta-o-ibs.pdf"
+  },
+  {
+    "date": "2026-04-30",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Resolução",
+    "title": "RESOLUÇÃO CGIBS Nº 5, DE 30 DE ABRIL DE 2026",
+    "summary": "Publicada e disponibilizada no site do CGIBS em 30/04/2026",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202604/30221158-resolucao-cgibs-n-5-de-30-de-abril-de-2026.pdf"
+  }
 ]

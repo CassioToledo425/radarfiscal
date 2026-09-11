@@ -1,7 +1,470 @@
 [
-  {"date":"2026-09-10","source":"FENACON","level":"institutional","category":"Reforma Tributária","title":"CNC defende regulamentação da reforma tributária alinhada à competitividade do transporte aéreo","summary":"Atualização acompanhada no hub de Reforma Tributária da FENACON.","url":"https://fenacon.org.br/reforma-tributaria/"},
-  {"date":"2026-09-09","source":"FENACON","level":"institutional","category":"Reforma Tributária","title":"Reforma Tributária gera controvérsias","summary":"Debate setorial sobre desafios institucionais, administrativos e econômicos do novo modelo.","url":"https://fenacon.org.br/reforma-tributaria/reforma-tributaria-gera-controversias/"},
-  {"date":"2026-09-08","source":"Portal Contábeis","level":"specialized","category":"DeRE","title":"DeRE: versão 1.2.0 atualiza leiautes e regras da declaração","summary":"Cobertura especializada sobre a atualização da documentação técnica da obrigação.","url":"https://www.contabeis.com.br/conteudo/tributario"},
-  {"date":"2026-09-08","source":"Portal Contábeis","level":"specialized","category":"Reforma Tributária","title":"NFS-e passa por testes de novas funcionalidades para a Reforma Tributária","summary":"Radar especializado sobre a evolução operacional da NFS-e no contexto da transição.","url":"https://www.contabeis.com.br/conteudo/tributario"},
-  {"date":"2026-09-02","source":"CFC","level":"institutional","category":"Capacitação","title":"Zona Franca de Manaus e Áreas de Livre Comércio pautam módulo de curso sobre a Reforma Tributária","summary":"Conteúdo institucional do Conselho Federal de Contabilidade sobre a Reforma Tributária do Consumo.","url":"https://cfc.org.br/search/reforma%20tributaria"}
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Zona Franca de Manaus e Áreas de Livre Comércio pautam módulo de curso sobre a Reforma Tributária",
+    "summary": "A capital amazonense recebeu o 15º módulo do curso sobre a Reforma Tributária do Consumo (RTC) na manhã desta terça-feira (1º). O assunto abordado na edição foi “Zona Franca de Manaus (ZFM), Áreas de Livre Comércio”. Toda a programação foi transmitida pelo canal do Conselho Feder",
+    "url": "https://cfc.org.br/noticias/zona-franca-de-manaus-e-areas-de-livre-comercio-pautam-modulo-de-curso-sobre-a-reforma-tributaria/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "São Luís sediará o 16º módulo do curso sobre Reforma Tributária do Consumo",
+    "summary": "O Conselho Federal de Contabilidade (CFC) e a Receita Federal do Brasil (RFB) promovem o 16º módulo do curso sobre Reforma Tributária do Consumo (RTC) na próxima quarta-feira (9), às 9h. O Estado do Maranhão será o anfitrião da edição, que abordará combustíveis e energia elétrica",
+    "url": "https://cfc.org.br/noticias/sao-luis-sediara-o-16o-modulo-do-curso-sobre-reforma-tributaria-do-consumo/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Serviços disponíveis",
+    "summary": "",
+    "url": "https://cfc.org.br/servicos-online/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
+    "summary": "Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
+    "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Revista Brasileira de Contabilidade (RBC)",
+    "summary": "",
+    "url": "https://cfc.org.br/revista-brasileira-de-contabilidade-rbc/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Região Norte recebe mais um módulo de curso sobre a Reforma Tributária",
+    "summary": "A próxima edição do curso sobre a Reforma Tributária do Consumo (RTC) abordará um tema diretamente relacionado à Amazônia Ocidental e ao Estado do Amapá: “Zona Franca de Manaus (ZFM), Áreas de Livre Comércio”. O módulo 15 da capacitação acontece na próxima terça-feira (1º), às 9h",
+    "url": "https://cfc.org.br/noticias/regiao-norte-recebe-mais-um-modulo-de-curso-sobre-a-reforma-tributaria/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: STF analisa questionamento sobre fiscalização do IBS Ontem 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79330/stf-analisa-regras-de-fiscalizacao-do-ibs/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: Ministério propõe alíquota zero de Imposto Seletivo para aeronaves Ontem 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79334/is-mpor-propoe-imposto-zero-para-aeronaves-sustentaveis/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA RTC em São Paulo: novo arquivo da NFSe com campos de IBS/CBS é disponibilizado Ontem 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79332/sp-atualiza-nfs-e-com-alteracoes-nos-campos-de-ibs-e-cbs/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA Empresários e especialistas defendem continuidade da reforma tributária em carta a presidenciáveis Hoje 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79356/carta-manifesto-pede-compromisso-com-a-reforma-tributaria/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária “Módulo 2 – Reforma Tributária: o que muda, por que importa e como se preparar!”",
+    "summary": "Depois de entender os impactos no Simples Nacional, é hora de ampliar a visão. Vem aí o Módulo 2 do Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária. Neste encontro vamos discutir o que muda, por que importa e como se preparar para os desafios da nova real",
+    "url": "https://cfc.org.br/eventoscfc/programa-trilha-de-aprendizagem-aplicacao-pratica-da-reforma-tributaria-modulo-2-reforma-tributaria-o-que-muda-por-que-importa-e-como-se-preparar/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "NFe DANFE/CTe DACTE",
+    "summary": "Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR  Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua",
+    "url": "https://www.contabeis.com.br/conteudo/ferramentas/danfe/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "Missão Empresarial",
+    "summary": "",
+    "url": "https://fenacon.org.br/./missao-empresarial/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Maranhão recebe discussões sobre a Reforma Tributária",
+    "summary": "São Luís/MA recebeu o 16º módulo do curso sobre a Reforma Tributária do Consumo (RTC), que abordou o tema Combustíveis e Energia Elétrica no contexto do novo sistema tributário nacional. A atividade aconteceu na manhã desta quarta-feira (9), com transmissão pelo canal do Conselho",
+    "url": "https://cfc.org.br/noticias/maranhao-recebe-discussoes-sobre-a-reforma-tributaria/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Licitações – Geral",
+    "summary": "",
+    "url": "https://cfc.org.br/adm/licitacoes/?cfc-licitacoes=cfc",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "JORNADA DA REFORMA TRIBUTÁRIA – HORIZONTINA",
+    "summary": "*Lisberto Idea – Representante do CRCRS em Sananduva. *Márcio Atz – Conselheiro do CRCRS. Leia mais Sem categoria 1 setembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/jornada-da-reforma-tributaria-horizontina/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Help Desk – Suporte para sistemas",
+    "summary": "",
+    "url": "https://cfc.org.br/presidencia/gex-itec/help-desk/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "Gerenciar serviços",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Exame de Suficiência",
+    "summary": "",
+    "url": "https://cfc.org.br/exame-de-suficiencia-anteriores/2o-exame-de-suficiencia-de-2025/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Exame de Qualificação Técnica",
+    "summary": "",
+    "url": "https://cfc.org.br/desenvolvimento-profissional-e-institucional/exames/exame-de-qualificacao-tecnica/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "Entidades Filiadas",
+    "summary": "",
+    "url": "https://fenacon.org.br/entidades-filiadas/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "Diretoria – Gestão 2026/2030",
+    "summary": "",
+    "url": "https://fenacon.org.br/diretoria-gestao-2026-2030/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "Contratações relacionadas à Covid-19",
+    "summary": "",
+    "url": "https://cfc.org.br/adm/licitacoes/contratacoes-relacionadas-a-pandemia-de-covid-19/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "Calculadora INSS e IR",
+    "summary": "Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda  NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua e",
+    "url": "https://www.contabeis.com.br/conteudo/ferramentas/calculadora-ir/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "CRÉDITO TRIBUTÁRIO Quando o crédito tributário parece fácil demais, talvez o problema ainda nem tenha começado Ontem 13:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79341/credito-tributario-evite-riscos-na-recuperacao-fiscal/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "CRCSP para TODOS em Batatais apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Panorama da Reforma Tributária sobre o consumo: principais mudanças da Emenda Constitucional nº 132/2023 e da Lei Complementar nº 214/2025. Estrutura do novo sistema tributário: IBS, CBS e I",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-batatais-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "CFC",
+    "level": "institutional",
+    "title": "CRCSP em São João da Boa Vista apresenta: S E M I N Á R I O Regulamentos do IBS e da CBS: Impactos Práticos da Reforma Tributária e Oportunidades para Escalar Negócios",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Seminário Regulamentos do IBS e da CBS: Impactos Práticos da Reforma Tributária e Oportunidades para Escalar Negócios Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs,",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-sao-joao-da-boa-vista-apresenta-s-e-m-i-n-a-r-i-o-regulamentos-do-ibs-e-da-cbs-impactos-praticos-da-reforma-tributaria-e-oportunidades-para-escalar-negocios/",
+    "category": "CFC"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "Análise Imposto de Renda",
+    "summary": "Reforma Tributária Simples Nacional Anexos do Super Simples  Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empr",
+    "url": "https://www.contabeis.com.br/conteudo/ferramentas/analise-ir/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "Anexos do Super Simples",
+    "summary": "Reforma Tributária Simples Nacional  Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua emp",
+    "url": "https://www.contabeis.com.br/conteudo/ferramentas/anexos-simples/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "ANALISANDO TRIBUTOS Simples Nacional x Redução do IBS e CBS: quando usar? Ontem 10:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79333/simples-nacional-x-reducao-do-ibs-e-cbs-quando-usar/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "11 de setembro de 2026 Fenacon, CFC e Receita Federal debatem novas estratégias para apoiar contadores e empresários do Simples na transição da Reforma Tributária",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/fenacon-cfc-rfb-debatem-novas-estrategias-contadores-empresarios-simples-reforma-tributaria/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "10 de setembro de 2026 O novo cardápio tributário preocupa empresários de bares e restaurantes",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/o-novo-cardapio-tributario-preocupa-empresarios-de-bares-e-restaurantes/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "10 de setembro de 2026 Maranhão recebe discussões sobre a Reforma Tributária",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/maranhao-recebe-discussoes-sobre-a-reforma-tributaria/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "10 de setembro de 2026 CNC defende regulamentação da reforma tributária alinhada à competitividade do transporte aéreo",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/cnc-defende-regulamentacao-da-reforma-tributaria-alinhada-a-competitividade-do-transporte-aereo/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "SPLIT PAYMENT Split payment: novos manuais orientam entrada de prestadores na Plataforma Pública 09/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79293/split-payment-ganha-manuais-para-habilitacao-de-prestadores/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA TCU tem até 30 de outubro para enviar ao Senado cálculos da alíquota da CBS 09/09/2026 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79294/tcu-tem-ate-30-de-outubro-para-calcular-aliquota-da-cbs/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: A NF-e ganhou novos eventos e eles podem a apuração do IBS e da CBS 09/09/2026 19:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79308/reforma-tributaria-novos-eventos-da-nf-e-para-ibs-e-cbs/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode encarecer a expansão das empresas 09/09/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79312/reforma-tributaria-split-payment-e-o-impacto-no-caixa-das-empresas/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "title": "REFORMA TRIBUTÁRIA A Reforma Tributária deixou de ser assunto de Brasília 09/09/2026 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79302/reforma-tributaria-o-impacto-real-para-empresas-de-sp/",
+    "category": "Tributário"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "9 de setembro de 2026 “Reforma Tributária gera controvérsias”",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-gera-controversias/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "9 de setembro de 2026 Receita Federal esclarece tributação de aluguéis recebidos em atraso",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/receita-federal-esclarece-tributacao-de-alugueis-recebidos-em-atraso/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "category": "DeRE",
+    "title": "DeRE: versão 1.2.0 atualiza leiautes e regras da declaração",
+    "summary": "Cobertura especializada sobre a atualização da documentação técnica da obrigação.",
+    "url": "https://www.contabeis.com.br/conteudo/tributario"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "8 de setembro de 2026 Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da NFS-e para a Reforma Tributária",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nfs-e-para-a-reforma-tributaria/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "8 de setembro de 2026 Regime de caixa deixará de ser utilizado na apuração do Simples Nacional",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/regime-de-caixa-deixara-de-ser-utilizado-na-apuracao-do-simples-nacional/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "8 de setembro de 2026 Receita Federal e PGFN publicam novo edital de transação para controvérsia sobre IRRF de investidores não residentes",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/receita-federal-e-pgfn-publicam-novo-edital-de-transacao-para-controversia-sobre-irrf-de-investidores-nao-residentes/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "8 de setembro de 2026 CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/cgibs-e-receita-federal-publicam-versao-1-2-0-da-documentacao-tecnica-da-declaracao-de-regimes-especificos/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-07",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "7 de setembro de 2026 Simples Nacional e IBS/CBS: Impactos para fornecedor e cliente",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/simples-nacional-e-ibs-cbs-impactos-para-fornecedor-e-cliente/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-03",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "3 de setembro de 2026 São Luís sediará o 16º módulo do curso sobre Reforma Tributária do Consumo",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/sao-luis-sediara-o-16o-modulo-do-curso-sobre-reforma-tributaria-do-consumo/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-03",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "3 de setembro de 2026 Nanoempreendedor está livre do CNPJ Técnico",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/nanoempreendedor-esta-livre-do-cnpj-tecnico/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-09-02",
+    "source": "CFC",
+    "level": "institutional",
+    "category": "Capacitação",
+    "title": "Zona Franca de Manaus e Áreas de Livre Comércio pautam módulo de curso sobre a Reforma Tributária",
+    "summary": "Conteúdo institucional do Conselho Federal de Contabilidade sobre a Reforma Tributária do Consumo.",
+    "url": "https://cfc.org.br/search/reforma%20tributaria"
+  },
+  {
+    "date": "2026-09-02",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "2 de setembro de 2026 Zona Franca de Manaus e Áreas de Livre Comércio pautam módulo de curso sobre a Reforma Tributária",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/zona-franca-de-manaus-e-areas-de-livre-comercio-pautam-modulo-de-curso-sobre-a-reforma-tributaria/",
+    "category": "Reforma Tributária"
+  },
+  {
+    "date": "2026-08-20",
+    "source": "FENACON",
+    "level": "institutional",
+    "title": "20 de agosto de 2026 Votação sobre aumento do limite do MEI deve ficar para depois das eleições",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/votacao-sobre-aumento-do-limite-do-mei-deve-ficar-para-depois-das-eleicoes/",
+    "category": "Reforma Tributária"
+  }
 ]

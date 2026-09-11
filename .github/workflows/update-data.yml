@@ -1,6 +1,12 @@
 name: Atualizar Radar Fiscal
 
 on:
+  push:
+    branches: ['main']
+    paths:
+      - 'scripts/**'
+      - 'requirements.txt'
+      - '.github/workflows/update-data.yml'
   schedule:
     # 09h, 13h e 18h no horário de Brasília (UTC-3), de segunda a sexta.
     - cron: '0 12,16,21 * * 1-5'
@@ -31,6 +37,9 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
+      - name: Validar coletor
+        run: python -m py_compile scripts/fetch_data.py
+
       - name: Coletar agenda e notícias
         run: python scripts/fetch_data.py
 
@@ -43,5 +52,5 @@ jobs:
           git config user.name "radar-fiscal-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "chore: atualiza radar fiscal [skip ci]"
+          git commit -m "chore: atualiza radar fiscal"
           git push

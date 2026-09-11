@@ -1,13 +1,29 @@
 const STATE={agenda:{months:{}},reforma:[],radar:[],meta:{sources:[]},monthKey:null,selectedDate:null,reformaFilter:'all'};
 const PT_MONTHS=['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const TOPICS=[
+  {label:'IBS',patterns:[/\bibs\b/]},
+  {label:'CBS',patterns:[/\bcbs\b/]},
+  {label:'Simples Nacional',patterns:[/\bsimples\s+nacional\b/]},
+  {label:'NFS-e',patterns:[/\bnfs[\s-]?e\b/]},
+  {label:'DeRE',patterns:[/\bdere\b/]},
+  {label:'Split payment',patterns:[/\bsplit\s+payment\b/]},
+  {label:'Créditos',patterns:[/\bcreditos?\b/]},
+  {label:'DCTFWeb',patterns:[/\bdctfweb\b/]},
+  {label:'PIS/Cofins',patterns:[/\bpis\s*(?:\/|e)?\s*cofins\b/]},
+  {label:'ICMS',patterns:[/\bicms\b/]}
+];
 
 async function loadJSON(path,fallback){try{const r=await fetch(`${path}?v=${Date.now()}`);if(!r.ok)throw new Error(r.status);return await r.json()}catch(e){console.warn('Falha ao carregar',path,e);return fallback}}
-function escapeHTML(s=''){return String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
+function escapeHTML(s=''){return String(s).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[c]))}
 function safeURL(u=''){try{const x=new URL(u);return ['http:','https:'].includes(x.protocol)?x.href:'#'}catch{return '#'}}
 function fmtDate(iso,opts={day:'2-digit',month:'short',year:'numeric'}){if(!iso)return '—';const d=new Date(`${iso.slice(0,10)}T12:00:00`);return d.toLocaleDateString('pt-BR',opts)}
 function sourceClass(level='specialized'){return ['official','institutional','specialized'].includes(level)?level:'specialized'}
 function levelLabel(level){return ({official:'OFICIAL',institutional:'INSTITUCIONAL',specialized:'ESPECIALIZADA'})[level]||'FONTE'}
+function normalizeText(s=''){return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()}
+function publicationText(n){return normalizeText(`${n.title||''} ${n.summary||''} ${n.kind_label||''} ${n.category||''}`)}
+function allPublications(){const seen=new Map();[...STATE.reforma,...STATE.radar].forEach(n=>{const key=(n.url||`${n.source||''}|${n.title||''}|${n.date||''}`).trim();if(!seen.has(key))seen.set(key,n)});return [...seen.values()]}
+function topicItems(label){const topic=TOPICS.find(t=>t.label===label);if(!topic)return[];return allPublications().filter(n=>{const text=publicationText(n);return topic.patterns.some(p=>p.test(text))}).sort((a,b)=>(b.date||'').localeCompare(a.date||''))}
 
 async function init(){
   const [agenda,reforma,radar,meta]=await Promise.all([
@@ -30,10 +46,8 @@ function renderOverview(){
   const grouped={};allEvents().filter(e=>new Date(`${e.date}T12:00:00`)>=now).slice(0,80).forEach(e=>(grouped[e.date]??=[]).push(e));
   const dates=Object.keys(grouped).sort().slice(0,5);$('#upcomingList').innerHTML=dates.length?dates.map(d=>{const ev=grouped[d];const dt=new Date(`${d}T12:00:00`);return `<div class="deadline-item"><div class="date-chip"><strong>${dt.getDate()}</strong><span>${PT_MONTHS[dt.getMonth()].slice(0,3)}</span></div><div class="deadline-copy"><strong>${escapeHTML(ev[0].group||ev[0].title||'Obrigação tributária')}</strong><span>${escapeHTML(ev[0].description||ev[0].title||'Consulte os detalhes na agenda')}</span></div><span class="count-badge">${ev.length} item${ev.length>1?'s':''}</span></div>`}).join(''):'<div class="empty">Nenhum vencimento carregado para os próximos dias.</div>';
   $('#officialHighlights').innerHTML=official.slice(0,4).map(n=>`<div class="compact-item"><div class="meta"><span class="source-badge official">OFICIAL</span><span>${escapeHTML(n.source)}</span><span>•</span><span>${fmtDate(n.date,{day:'2-digit',month:'2-digit'})}</span></div><a href="${safeURL(n.url)}" target="_blank" rel="noopener">${escapeHTML(n.title)}</a></div>`).join('')||'<div class="empty">Aguardando a primeira coleta oficial.</div>';
-  const text=[...STATE.reforma,...STATE.radar].map(n=>`${n.title||''} ${n.summary||''}`).join(' ').toLowerCase();
-  const topics=['IBS','CBS','Simples Nacional','NFS-e','DeRE','Split payment','Créditos','DCTFWeb','PIS/Cofins','ICMS'];
-  const counts=topics.map(t=>[t,(text.match(new RegExp(t.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'g'))||[]).length]).filter(x=>x[1]).sort((a,b)=>b[1]-a[1]);
-  $('#topicCloud').innerHTML=(counts.length?counts:topics.slice(0,6).map(t=>[t,0])).map(([t,c])=>`<span class="topic">${escapeHTML(t)}${c?` <strong>${c}</strong>`:''}</span>`).join('');
+  const counts=TOPICS.map(t=>[t.label,topicItems(t.label).length]).filter(x=>x[1]).sort((a,b)=>b[1]-a[1]);
+  $('#topicCloud').innerHTML=(counts.length?counts:TOPICS.slice(0,6).map(t=>[t.label,0])).map(([t,c])=>`<button type="button" class="topic" data-topic="${escapeHTML(t)}" ${c?'': 'disabled'} aria-label="${c?`Ver ${c} publicações sobre ${escapeHTML(t)}`:`Nenhuma publicação sobre ${escapeHTML(t)}`}">${escapeHTML(t)}${c?` <strong>${c}</strong>`:''}</button>`).join('');
 }
 function monthParts(key){const [y,m]=key.split('-').map(Number);return {y,m}}
 function shiftMonth(key,delta){const {y,m}=monthParts(key);const d=new Date(y,m-1+delta,1);return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`}
@@ -51,9 +65,33 @@ function feedHTML(list,empty){return list.length?list.map(n=>`<article class="ne
 function renderRadar(){const q=($('#radarSearch')?.value||'').trim().toLowerCase();const list=STATE.radar.filter(n=>!q||`${n.title} ${n.summary||''} ${n.source}`.toLowerCase().includes(q));$('#radarFeed').innerHTML=feedHTML(list,'Nenhuma notícia encontrada.');}
 function renderSources(){const src=STATE.meta.sources||[];$('#sourcesGrid').innerHTML=src.length?src.map(s=>`<article class="source-card"><div class="source-card-head"><span class="source-badge ${sourceClass(s.level)}">${levelLabel(s.level)}</span><span class="status ${s.status==='ok'?'ok':'warn'}">${s.status==='ok'?'ONLINE':'ATENÇÃO'}</span></div><h3>${escapeHTML(s.name)}</h3><p>${escapeHTML(s.description||'Fonte monitorada automaticamente pelo Radar Fiscal.')}</p><a href="${safeURL(s.url)}" target="_blank" rel="noopener">Abrir fonte ↗</a></article>`).join(''):'<div class="empty">Status das fontes será exibido após a coleta automática.</div>'}
 function showView(name){$$('.view').forEach(v=>v.classList.remove('active'));$(`#view-${name}`).classList.add('active');$$('.nav-item').forEach(n=>n.classList.toggle('active',n.dataset.view===name));$('#pageTitle').textContent=({overview:'Visão geral',agenda:'Agenda tributária',reforma:'Reforma Tributária',radar:'Radar contábil',sources:'Fontes & status'})[name];window.scrollTo({top:0,behavior:'smooth'})}
+
+function ensureTopicModal(){
+  if($('#topicModal'))return;
+  const style=document.createElement('style');style.id='topicUxStyles';style.textContent=`
+    .topic{appearance:none;transition:background .16s ease,border-color .16s ease,color .16s ease,transform .16s ease}
+    .topic:not(:disabled):hover{background:#edf4ff;border-color:#b9d3f6;color:var(--blue);transform:translateY(-1px)}
+    .topic:focus-visible{outline:2px solid var(--blue);outline-offset:2px}.topic:disabled{cursor:default;opacity:.7}
+    .topic-modal-backdrop{position:fixed;inset:0;z-index:100;display:none;align-items:center;justify-content:center;padding:28px;background:rgba(4,15,30,.62);backdrop-filter:blur(4px)}
+    .topic-modal-backdrop.open{display:flex}.topic-modal{width:min(1040px,100%);max-height:calc(100vh - 56px);display:flex;flex-direction:column;overflow:hidden;background:var(--bg);border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 70px rgba(0,0,0,.28)}
+    .topic-modal-head{display:flex;align-items:flex-start;justify-content:space-between;gap:20px;padding:20px 22px 17px;background:var(--panel);border-bottom:1px solid var(--line)}
+    .topic-modal-head h2{margin:3px 0 4px;font-size:22px;letter-spacing:-.4px}.topic-modal-head p{margin:0;color:var(--muted);font-size:10px}.topic-modal-close{width:36px;height:36px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--text);font-size:22px;line-height:1}
+    .topic-modal-feed{overflow:auto;padding:18px}.topic-modal-feed .news-card{grid-template-columns:140px 1fr auto}.topic-modal-open{overflow:hidden}
+    @media(max-width:780px){.topic-modal-backdrop{padding:12px}.topic-modal{max-height:calc(100vh - 24px)}.topic-modal-head{padding:16px}.topic-modal-feed{padding:12px}.topic-modal-feed .news-card{grid-template-columns:1fr;gap:10px}.topic-modal-feed .news-actions{justify-items:start}}
+  `;document.head.appendChild(style);
+  document.body.insertAdjacentHTML('beforeend',`<div id="topicModal" class="topic-modal-backdrop" aria-hidden="true"><section class="topic-modal" role="dialog" aria-modal="true" aria-labelledby="topicModalTitle"><header class="topic-modal-head"><div><div class="section-label">TERMÔMETRO</div><h2 id="topicModalTitle">Assunto</h2><p id="topicModalSubtitle"></p></div><button type="button" id="topicModalClose" class="topic-modal-close" aria-label="Fechar">×</button></header><div id="topicModalFeed" class="news-feed topic-modal-feed"></div></section></div>`);
+  $('#topicModalClose').addEventListener('click',closeTopicModal);
+  $('#topicModal').addEventListener('click',e=>{if(e.target.id==='topicModal')closeTopicModal()});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('#topicModal')?.classList.contains('open'))closeTopicModal()});
+}
+function openTopicModal(label){ensureTopicModal();const items=topicItems(label);$('#topicModalTitle').textContent=label;$('#topicModalSubtitle').textContent=`${items.length} publicação${items.length===1?'':'ões'} encontrada${items.length===1?'':'s'} nas fontes monitoradas.`;$('#topicModalFeed').innerHTML=feedHTML(items,`Nenhuma publicação encontrada sobre ${escapeHTML(label)}.`);$('#topicModalFeed').scrollTop=0;$('#topicModal').classList.add('open');$('#topicModal').setAttribute('aria-hidden','false');document.body.classList.add('topic-modal-open');$('#topicModalClose').focus()}
+function closeTopicModal(){const modal=$('#topicModal');if(!modal)return;modal.classList.remove('open');modal.setAttribute('aria-hidden','true');document.body.classList.remove('topic-modal-open')}
+
 function bind(){
+  ensureTopicModal();
   $$('.nav-item').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.view)));$$('[data-jump]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.jump)));
   $('#prevMonth').addEventListener('click',()=>{STATE.monthKey=shiftMonth(STATE.monthKey,-1);STATE.selectedDate=null;renderCalendar()});$('#nextMonth').addEventListener('click',()=>{STATE.monthKey=shiftMonth(STATE.monthKey,1);STATE.selectedDate=null;renderCalendar()});$('#todayBtn').addEventListener('click',()=>{const d=new Date();STATE.monthKey=`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;STATE.selectedDate=null;renderCalendar()});
   $$('[data-reforma-filter]').forEach(b=>b.addEventListener('click',()=>{STATE.reformaFilter=b.dataset.reformaFilter;$$('[data-reforma-filter]').forEach(x=>x.classList.toggle('active',x===b));renderReforma()}));$('#radarSearch').addEventListener('input',renderRadar);$('#themeBtn').addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('radar-theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('radar-theme')==='dark')document.body.classList.add('dark');
+  $('#topicCloud').addEventListener('click',e=>{const button=e.target.closest('[data-topic]');if(button&&!button.disabled)openTopicModal(button.dataset.topic)});
 }
 init();

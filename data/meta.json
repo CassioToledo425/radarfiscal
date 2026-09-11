@@ -1,0 +1,11 @@
+{
+  "updated_at":"2026-09-11T11:20:00-03:00",
+  "sources":[
+    {"name":"Receita Federal — Agenda Tributária","level":"official","status":"ok","description":"Prazos e vencimentos federais, incluindo detalhes por dia.","url":"https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria"},
+    {"name":"Receita Federal — Reforma Tributária","level":"official","status":"ok","description":"Notícias e orientações oficiais sobre a Reforma Tributária do Consumo.","url":"https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/rtc2026"},
+    {"name":"CGIBS — Comitê Gestor do IBS","level":"official","status":"ok","description":"Notícias, resoluções, atos conjuntos e materiais oficiais do IBS.","url":"https://www.cgibs.gov.br/"},
+    {"name":"FENACON","level":"institutional","status":"ok","description":"Radar institucional do setor de serviços contábeis e empresariais.","url":"https://fenacon.org.br/reforma-tributaria/"},
+    {"name":"Conselho Federal de Contabilidade","level":"institutional","status":"ok","description":"Notícias e conteúdos técnicos/institucionais para profissionais contábeis.","url":"https://cfc.org.br/"},
+    {"name":"Portal Contábeis","level":"specialized","status":"ok","description":"Cobertura jornalística especializada em tributação e contabilidade.","url":"https://www.contabeis.com.br/conteudo/tributario"}
+  ]
+}

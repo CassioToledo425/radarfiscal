@@ -1,0 +1,47 @@
+name: Atualizar Radar Fiscal
+
+on:
+  schedule:
+    # 09h, 13h e 18h no horário de Brasília (UTC-3), de segunda a sexta.
+    - cron: '0 12,16,21 * * 1-5'
+    # Uma coleta aos fins de semana para capturar comunicados extraordinários.
+    - cron: '0 15 * * 0,6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-fiscal-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Coletar agenda e notícias
+        run: python scripts/fetch_data.py
+
+      - name: Publicar dados atualizados
+        run: |
+          if git diff --quiet -- data; then
+            echo "Nenhuma alteração de dados."
+            exit 0
+          fi
+          git config user.name "radar-fiscal-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: atualiza radar fiscal [skip ci]"
+          git push

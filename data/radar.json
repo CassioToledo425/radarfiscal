@@ -11,6 +11,106 @@
   },
   {
     "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: STF analisa questionamento sobre fiscalização do IBS 10/09/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79330/stf-analisa-regras-de-fiscalizacao-do-ibs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: Ministério propõe alíquota zero de Imposto Seletivo para aeronaves 10/09/2026 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79334/is-mpor-propoe-imposto-zero-para-aeronaves-sustentaveis/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA RTC em São Paulo: novo arquivo da NFSe com campos de IBS/CBS é disponibilizado 10/09/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79332/sp-atualiza-nfs-e-com-alteracoes-nos-campos-de-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "RECEITA FEDERAL Receita Federal lança novos indicadores mensais e regionais no Painel Receita 10/09/2026 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79324/receita-lanca-novos-indicadores-no-painel-receita/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS/COFINS Receita Federal cria auditoria específica para PER/DCOMP de PIS e Cofins 10/09/2026 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79328/receita-cria-equipe-para-auditar-per-dcomp-de-pis-e-cofins/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "LEGISLAÇÃO TRIBUTÁRIA Lei inclui mediação e arbitragem tributária no CTN, mas aplicação depende de regulamentação 10/09/2026 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79329/nova-lei-preve-mediacao-e-arbitragem-em-conflitos-tributarios/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "JURISPRUDÊNCIA TRIBUTÁRIA STJ nega mandado de segurança coletivo para excluir benefício de ICMS do IRPJ e CSLL 10/09/2026 16:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79331/stj-barra-mandado-coletivo-para-excluir-beneficio-de-icms-do-irpj-e-csll/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CRÉDITO TRIBUTÁRIO Quando o crédito tributário parece fácil demais, talvez o problema ainda nem tenha começado 10/09/2026 13:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79341/credito-tributario-evite-riscos-na-recuperacao-fiscal/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CFOP Nova tabela de CFOP inclui título e descrição de cada código fiscal 10/09/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79327/tabela-de-cfop-ganha-titulos-e-descricoes-dos-codigos-fiscais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ANALISANDO TRIBUTOS Simples Nacional x Redução do IBS e CBS: quando usar? 10/09/2026 10:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79333/simples-nacional-x-reducao-do-ibs-e-cbs-quando-usar/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-10",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -87,16 +187,6 @@
     "title": "REFORMA TRIBUTÁRIA A Reforma Tributária deixou de ser assunto de Brasília 09/09/2026 18:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79302/reforma-tributaria-o-impacto-real-para-empresas-de-sp/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-09",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "LEGISLAÇÃO TRIBUTÁRIA Municípios têm dois anos para atualizar regras fiscais e multas 09/09/2026 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79305/municipios-tem-dois-anos-para-adequar-regras-fiscais/",
     "category": "Radar fiscal"
   },
   {
@@ -234,7 +324,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTÁRIO STJ mantém CPRB na base de cálculo do PIS e da Cofins Hoje 14:00",
+    "title": "TRIBUTÁRIO STJ mantém CPRB na base de cálculo do PIS e da Cofins Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79365/stj-nega-exclusao-da-cprb-do-pis-e-da-cofins/",
     "category": "Radar fiscal"
@@ -274,27 +364,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: STF analisa questionamento sobre fiscalização do IBS Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79330/stf-analisa-regras-de-fiscalizacao-do-ibs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: Ministério propõe alíquota zero de Imposto Seletivo para aeronaves Ontem 15:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79334/is-mpor-propoe-imposto-zero-para-aeronaves-sustentaveis/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige revisão da operação fiscal; veja o que gestores devem priorizar Hoje 14:30",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige revisão da operação fiscal; veja o que gestores devem priorizar Ontem 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79357/reforma-tributaria-o-que-gestores-devem-priorizar-na-revisao-da-operacao-fiscal/",
     "category": "Radar fiscal"
@@ -304,17 +374,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA RTC em São Paulo: novo arquivo da NFSe com campos de IBS/CBS é disponibilizado Ontem 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79332/sp-atualiza-nfs-e-com-alteracoes-nos-campos-de-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresários e especialistas defendem continuidade da reforma tributária em carta a presidenciáveis Hoje 11:30",
+    "title": "REFORMA TRIBUTÁRIA Empresários e especialistas defendem continuidade da reforma tributária em carta a presidenciáveis Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79356/carta-manifesto-pede-compromisso-com-a-reforma-tributaria/",
     "category": "Radar fiscal"
@@ -324,9 +384,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "RECEITA FEDERAL Receita Federal lança novos indicadores mensais e regionais no Painel Receita Ontem 09:30",
+    "title": "RECURSOS HUMANOS KPIs de RH: veja quais indicadores ajudam na tomada de decisões Hoje 11:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79324/receita-lanca-novos-indicadores-no-painel-receita/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79344/kpis-de-rh-quais-indicadores-medir-na-empresa/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "RAD Recolhimento pelo adquirente: entenda as regras do RAD para IBS e CBS Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79326/rad-entenda-quando-o-adquirente-podera-recolher-ibs-e-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -341,16 +411,6 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS/COFINS Receita Federal cria auditoria específica para PER/DCOMP de PIS e Cofins Ontem 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79328/receita-cria-equipe-para-auditar-per-dcomp-de-pis-e-cofins/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -361,32 +421,22 @@
   },
   {
     "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NF-e pode ser autorizada sem IBS e NF-e: campos de IBS e CBS são obrigatórios mesmo sem rejeição 1115 Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79337/nf-e-rejeicao-1115-de-ibs-e-cbs-adiada-mas-obrigacao-permanece/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
     "title": "Maranhão recebe discussões sobre a Reforma Tributária",
     "summary": "São Luís/MA recebeu o 16º módulo do curso sobre a Reforma Tributária do Consumo (RTC), que abordou o tema Combustíveis e Energia Elétrica no contexto do novo sistema tributário nacional. A atividade aconteceu na manhã desta quarta-feira (9), com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTu",
     "url": "https://cfc.org.br/noticias/maranhao-recebe-discussoes-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "LEGISLAÇÃO TRIBUTÁRIA Lei inclui mediação e arbitragem tributária no CTN, mas aplicação depende de regulamentação Ontem 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79329/nova-lei-preve-mediacao-e-arbitragem-em-conflitos-tributarios/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "JURISPRUDÊNCIA TRIBUTÁRIA STJ nega mandado de segurança coletivo para excluir benefício de ICMS do IRPJ e CSLL Ontem 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79331/stj-barra-mandado-coletivo-para-excluir-beneficio-de-icms-do-irpj-e-csll/",
     "category": "Radar fiscal"
   },
   {
@@ -414,7 +464,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "EFD-ICMS/IPI EFD-ICMS/IPI atualiza regras para escrituração da NFGás Hoje 10:00",
+    "title": "EFD-ICMS/IPI EFD-ICMS/IPI atualiza regras para escrituração da NFGás Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79355/nova-versao-da-efd-icms-ipi-traz-orientacao-para-nfgas/",
     "category": "Radar fiscal"
@@ -427,16 +477,6 @@
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CRÉDITO TRIBUTÁRIO Quando o crédito tributário parece fácil demais, talvez o problema ainda nem tenha começado Ontem 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79341/credito-tributario-evite-riscos-na-recuperacao-fiscal/",
     "category": "Radar fiscal"
   },
   {
@@ -474,7 +514,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CONTRIBUIÇÃO E IR Receita Federal esclarece incidência de contribuições e IR sobre bônus capacitação e intervalo intrajornada Hoje 12:00",
+    "title": "CONTRIBUIÇÃO E IR Receita Federal esclarece incidência de contribuições e IR sobre bônus capacitação e intervalo intrajornada Ontem 12:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79358/bonus-capacitacao-e-intervalo-intrajornada-entram-no-radar-da-receita/",
     "category": "Radar fiscal"
@@ -497,26 +537,6 @@
     "title": "CIRCUITO CONTÁBIL em Barueri com foco na Reforma Tributária: Adaptação do seu Time, NR-1, Escalando seu Negócio, Split Payment, Fim do PIS/COFINS",
     "summary": "Pontuação AUD Norma EPC: 5.5 Pontuação CMN: 5.5 Pontuação SUSEP Res. CFC 1.377/11: 5.5 Pontuação ProGP Norma EPC: 5.5 Pontuação PER Norma EPC: 5.5 Pontuação PREVIC: 5.5 Pontuação Previc Aud: 5.5 Pontuação ProRT Norma EPC: 5.5 Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 09h0",
     "url": "https://cfc.org.br/eventoscfc/circuito-contabil-em-barueri-com-foco-na-reforma-tributaria-adaptacao-do-seu-time-nr-1-escalando-seu-negocio-split-payment-fim-do-pis-cofins/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CFOP Nova tabela de CFOP inclui título e descrição de cada código fiscal Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79327/tabela-de-cfop-ganha-titulos-e-descricoes-dos-codigos-fiscais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ANALISANDO TRIBUTOS Simples Nacional x Redução do IBS e CBS: quando usar? Ontem 10:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79333/simples-nacional-x-reducao-do-ibs-e-cbs-quando-usar/",
     "category": "Radar fiscal"
   }
 ]

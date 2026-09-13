@@ -1,6 +1,56 @@
 [
   {
     "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTÁRIO STJ mantém CPRB na base de cálculo do PIS e da Cofins 11/09/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79365/stj-nega-exclusao-da-cprb-do-pis-e-da-cofins/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige revisão da operação fiscal; veja o que gestores devem priorizar 11/09/2026 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79357/reforma-tributaria-o-que-gestores-devem-priorizar-na-revisao-da-operacao-fiscal/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Empresários e especialistas defendem continuidade da reforma tributária em carta a presidenciáveis 11/09/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79356/carta-manifesto-pede-compromisso-com-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "EFD-ICMS/IPI EFD-ICMS/IPI atualiza regras para escrituração da NFGás 11/09/2026 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79355/nova-versao-da-efd-icms-ipi-traz-orientacao-para-nfgas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-11",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CONTRIBUIÇÃO E IR Receita Federal esclarece incidência de contribuições e IR sobre bônus capacitação e intervalo intrajornada 11/09/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79358/bonus-capacitacao-e-intervalo-intrajornada-entram-no-radar-da-receita/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-11",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -300,6 +350,16 @@
     "category": "Radar fiscal"
   },
   {
+    "date": "2026-08-09",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "9 de agosto de 2026 Receita Federal divulga tabela nacional do Valor da Terra Nua 2026",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/receita-federal-divulga-tabela-nacional-do-valor-da-terra-nua-2026/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": null,
     "source": "CFC",
     "level": "institutional",
@@ -317,16 +377,6 @@
     "title": "Universo Contábil com ELAS: Emissão de Documentos Fiscais Eletrônicos – Notas de Débito e Crédito no Contexto da Reforma Tributária (ONLINE)",
     "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Bloco 1 - Cronograma de Implementação 1. Fase de testes 2026 2. Adiamento das regras de validação 3. Novas datas de emissão de documentos fiscais Bloco 2 - Base Normativa 4. Ajuste SINIEF 49/25 5. Finalidade da NF-e Bloco 3 - Nota",
     "url": "https://cfc.org.br/eventoscfc/universo-contabil-com-elas-emissao-de-documentos-fiscais-eletronicos-notas-de-debito-e-credito-no-contexto-da-reforma-tributaria-online/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTÁRIO STJ mantém CPRB na base de cálculo do PIS e da Cofins Ontem 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79365/stj-nega-exclusao-da-cprb-do-pis-e-da-cofins/",
     "category": "Radar fiscal"
   },
   {
@@ -364,27 +414,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige revisão da operação fiscal; veja o que gestores devem priorizar Ontem 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79357/reforma-tributaria-o-que-gestores-devem-priorizar-na-revisao-da-operacao-fiscal/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresários e especialistas defendem continuidade da reforma tributária em carta a presidenciáveis Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79356/carta-manifesto-pede-compromisso-com-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "RECURSOS HUMANOS KPIs de RH: veja quais indicadores ajudam na tomada de decisões Hoje 11:00",
+    "title": "RECURSOS HUMANOS KPIs de RH: veja quais indicadores ajudam na tomada de decisões Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79344/kpis-de-rh-quais-indicadores-medir-na-empresa/",
     "category": "Radar fiscal"
@@ -394,7 +424,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "RAD Recolhimento pelo adquirente: entenda as regras do RAD para IBS e CBS Hoje 09:00",
+    "title": "RAD Recolhimento pelo adquirente: entenda as regras do RAD para IBS e CBS Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79326/rad-entenda-quando-o-adquirente-podera-recolher-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -424,7 +454,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "NF-e pode ser autorizada sem IBS e NF-e: campos de IBS e CBS são obrigatórios mesmo sem rejeição 1115 Hoje 10:00",
+    "title": "NF-e pode ser autorizada sem IBS e NF-e: campos de IBS e CBS são obrigatórios mesmo sem rejeição 1115 Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79337/nf-e-rejeicao-1115-de-ibs-e-cbs-adiada-mas-obrigacao-permanece/",
     "category": "Radar fiscal"
@@ -457,16 +487,6 @@
     "title": "Fiscalização, Ética e Disciplina",
     "summary": "",
     "url": "https://cfc.org.br/fiscalizacao-etica-e-disciplina/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EFD-ICMS/IPI EFD-ICMS/IPI atualiza regras para escrituração da NFGás Ontem 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79355/nova-versao-da-efd-icms-ipi-traz-orientacao-para-nfgas/",
     "category": "Radar fiscal"
   },
   {
@@ -507,16 +527,6 @@
     "title": "CRCSP em Parceria com APC apresenta: Reforma Tributária – da Norma à Operação: repercussões sobre processos internos, mecanismos de controle e integração multidisciplinar (ONLINE)",
     "summary": "Pontuação AUD Norma EPC: 1.5 Pontuação CMN: 1.5 Pontuação SUSEP Res. CFC 1.377/11: 1.5 Pontuação ProGP Norma EPC: 1.5 Pontuação PER Norma EPC: 1.5 Pontuação PREVIC: 1.5 Pontuação Previc Aud: 1.5 Pontuação ProRT Norma EPC: 1.5 Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1. R",
     "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-apc-apresenta-reforma-tributaria-da-norma-a-operacao-repercussoes-sobre-processos-internos-mecanismos-de-controle-e-integracao-multidisciplinar-online/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONTRIBUIÇÃO E IR Receita Federal esclarece incidência de contribuições e IR sobre bônus capacitação e intervalo intrajornada Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79358/bonus-capacitacao-e-intervalo-intrajornada-entram-no-radar-da-receita/",
     "category": "Radar fiscal"
   },
   {

@@ -148,3 +148,7 @@ function bindSectorRadar(){
 }
 
 bindSectorRadar();
+ensureProfileSection();
+renderSectorProfile();
+window.addEventListener('load',()=>setTimeout(renderSector,500));
+setTimeout(renderSector,1500);

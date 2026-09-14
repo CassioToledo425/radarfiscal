@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-09-14",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "14 de setembro de 2026 Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/comite-gestor-do-ibs-publica-editais-de-chamamento-publico-para-a-celebracao-de-acordos-de-cooperacao-tecnica/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-13",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "13 de setembro de 2026 Nordeste recebe mais uma etapa do curso sobre a Reforma Tributária",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/nordeste-recebe-mais-uma-etapa-do-curso-sobre-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-12",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "RECURSOS HUMANOS KPIs de RH: veja quais indicadores ajudam na tomada de decisões 12/09/2026 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79344/kpis-de-rh-quais-indicadores-medir-na-empresa/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-12",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "RAD Recolhimento pelo adquirente: entenda as regras do RAD para IBS e CBS 12/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79326/rad-entenda-quando-o-adquirente-podera-recolher-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-12",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NF-e pode ser autorizada sem IBS e NF-e: campos de IBS e CBS são obrigatórios mesmo sem rejeição 1115 12/09/2026 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79337/nf-e-rejeicao-1115-de-ibs-e-cbs-adiada-mas-obrigacao-permanece/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-09-11",
     "source": "Portal Contábeis",
     "level": "specialized",
@@ -251,16 +301,6 @@
   },
   {
     "date": "2026-09-09",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONFLITOS TRIBUTÁRIOS Lei Complementar 236/2026 é sancionada e muda regras de multas e conflitos tributários 09/09/2026 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79304/lc-236-2026-veja-as-novas-regras-para-conflitos-tributarios/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-09",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -330,26 +370,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-09-03",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "3 de setembro de 2026 São Luís sediará o 16º módulo do curso sobre Reforma Tributária do Consumo",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/sao-luis-sediara-o-16o-modulo-do-curso-sobre-reforma-tributaria-do-consumo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "2 de setembro de 2026 Zona Franca de Manaus e Áreas de Livre Comércio pautam módulo de curso sobre a Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/zona-franca-de-manaus-e-areas-de-livre-comercio-pautam-modulo-de-curso-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-08-09",
     "source": "FENACON",
     "level": "institutional",
@@ -411,26 +431,6 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "RECURSOS HUMANOS KPIs de RH: veja quais indicadores ajudam na tomada de decisões Ontem 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79344/kpis-de-rh-quais-indicadores-medir-na-empresa/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "RAD Recolhimento pelo adquirente: entenda as regras do RAD para IBS e CBS Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79326/rad-entenda-quando-o-adquirente-podera-recolher-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -447,16 +447,6 @@
     "title": "Nordeste recebe mais uma etapa do curso sobre a Reforma Tributária",
     "summary": "A cidade de João Pessoa será a anfitriã do próximo módulo do curso da Reforma Tributária do Consumo (RTC), que abordará o tema Imposto Seletivo. A 17ª edição da capacitação acontece no dia 15 de setembro, às 9h, com transmissão pelo canal do Conselho Federal de Contabilidade no YouTube. O assunto será apresentado pelos",
     "url": "https://cfc.org.br/noticias/nordeste-recebe-mais-uma-etapa-do-curso-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NF-e pode ser autorizada sem IBS e NF-e: campos de IBS e CBS são obrigatórios mesmo sem rejeição 1115 Ontem 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79337/nf-e-rejeicao-1115-de-ibs-e-cbs-adiada-mas-obrigacao-permanece/",
     "category": "Radar fiscal"
   },
   {
@@ -547,6 +537,16 @@
     "title": "CIRCUITO CONTÁBIL em Barueri com foco na Reforma Tributária: Adaptação do seu Time, NR-1, Escalando seu Negócio, Split Payment, Fim do PIS/COFINS",
     "summary": "Pontuação AUD Norma EPC: 5.5 Pontuação CMN: 5.5 Pontuação SUSEP Res. CFC 1.377/11: 5.5 Pontuação ProGP Norma EPC: 5.5 Pontuação PER Norma EPC: 5.5 Pontuação PREVIC: 5.5 Pontuação Previc Aud: 5.5 Pontuação ProRT Norma EPC: 5.5 Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 09h0",
     "url": "https://cfc.org.br/eventoscfc/circuito-contabil-em-barueri-com-foco-na-reforma-tributaria-adaptacao-do-seu-time-nr-1-escalando-seu-negocio-split-payment-fim-do-pis-cofins/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CBS 2027 CBS 2027: governo deve enviar nesta segunda-feira (14) modelo de cálculo da alíquota ao TCU Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79383/cbs-2027-tcu-recebera-ainda-hoje-14-proposta-para-calcular-aliquota/",
     "category": "Radar fiscal"
   }
 ]

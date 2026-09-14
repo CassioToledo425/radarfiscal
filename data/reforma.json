@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-14",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal publica nova documentação técnica das APIs de apuração da CBS",
+    "summary": "Serviços Nova versão permitirá consultas incrementais, reduzindo o tempo de processamento e o volume de dados trafegados. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-de-cbs"
+  },
+  {
     "date": "2026-09-09",
     "source": "Receita Federal",
     "level": "official",

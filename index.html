@@ -7,6 +7,7 @@
   <title>Radar Fiscal</title>
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="actions.css" />
+  <link rel="stylesheet" href="sector.css" />
 </head>
 <body>
   <div class="shell">
@@ -19,6 +20,7 @@
         <button class="nav-item active" data-view="overview"><span>⌂</span> Visão geral</button>
         <button class="nav-item" data-view="agenda"><span>▦</span> Agenda tributária</button>
         <button class="nav-item" data-view="actions"><span>✓</span> Resumo de ações</button>
+        <button class="nav-item" data-view="sector"><span>◎</span> Radar setorial</button>
         <button class="nav-item" data-view="reforma"><span>◈</span> Reforma Tributária</button>
         <button class="nav-item" data-view="radar"><span>⌁</span> Radar contábil</button>
         <button class="nav-item" data-view="sources"><span>●</span> Fontes & status</button>
@@ -68,7 +70,7 @@
             <div id="officialHighlights" class="compact-news"></div>
           </article>
           <article class="panel span-12">
-            <div class="panel-head"><div><span class="section-label">TERMÔMETRO</span><h3>Assuntos em circulação</h3></div><span class="muted">últimas publicações coletadas</span></div>
+            <div class="panel-head"><div><span class="section-label">TERMÔMETRO</span><h3>Assuntos em circulação</h3></div><div><button class="link-btn" data-jump="sector">Ver foco setorial →</button><span class="muted"> últimas publicações coletadas</span></div></div>
             <div id="topicCloud" class="topic-cloud"></div>
           </article>
         </div>
@@ -122,6 +124,38 @@
         <p class="disclaimer action-disclaimer">O “próximo passo” é uma sugestão de triagem interna gerada a partir do texto coletado. Ele não substitui a leitura do ato, nota técnica ou publicação oficial nem constitui orientação jurídica ou tributária.</p>
       </section>
 
+      <section class="view" id="view-sector">
+        <div class="sector-hero">
+          <div>
+            <span class="sector-chip">FOCO SETORIAL • REFORMA TRIBUTÁRIA</span>
+            <h2>Franquias & locação de equipamentos</h2>
+            <p>Uma leitura dedicada aos temas com maior potencial de impacto para redes de franquias e operações de locação de máquinas, ferramentas e outros bens móveis para construção.</p>
+          </div>
+          <button class="soft-btn" data-sector-filter="all">Mostrar tudo</button>
+        </div>
+
+        <div class="sector-grid">
+          <button class="sector-kpi" data-sector-filter="rental"><span>LOCAÇÃO</span><strong data-sector-count="rental">0</strong><small>bens móveis, equipamentos e incidência</small></button>
+          <button class="sector-kpi" data-sector-filter="franchise"><span>FRANQUIAS</span><strong data-sector-count="franchise">0</strong><small>royalties, licenciamento e rede</small></button>
+          <button class="sector-kpi" data-sector-filter="documents"><span>DOCUMENTOS</span><strong data-sector-count="documents">0</strong><small>NFS-e, emissão e leiautes</small></button>
+          <button class="sector-kpi" data-sector-filter="simple"><span>SIMPLES</span><strong data-sector-count="simple">0</strong><small>franqueados e regime tributário</small></button>
+          <button class="sector-kpi" data-sector-filter="credits"><span>CRÉDITOS</span><strong data-sector-count="credits">0</strong><small>aquisições, ativo e não cumulatividade</small></button>
+        </div>
+
+        <div class="sector-notes">
+          <article class="sector-note"><span class="section-label">POR QUE ISSO IMPORTA</span><h3>Locação deixa de ser um tema periférico</h3><p>Com IBS e CBS, operações onerosas de locação de bens móveis entram no radar central da tributação sobre consumo. Para locadoras, isso muda a relevância de documento fiscal, cadastro, preço, contratos, sistemas e crédito.</p></article>
+          <article class="sector-note"><span class="section-label">VISÃO DE REDE</span><h3>Franquias precisam olhar além da franqueadora</h3><p>Royalties, licenciamento, serviços compartilhados e o regime tributário de cada franqueado podem ter efeitos diferentes. O painel trata o tema por operação e por perfil de unidade, sem presumir um único tratamento para toda a rede.</p></article>
+          <article class="sector-note"><span class="section-label">PONTO DE ATENÇÃO</span><h3>Documento fiscal pode exigir mudança operacional</h3><p>O cronograma oficial inclui NFS-e para locações de bens móveis. Isso pode exigir adaptação de ERP, faturamento, cadastros, integrações e comunicação com unidades da rede.</p></article>
+          <article class="sector-note"><span class="section-label">PRIORIDADE</span><h3>Mapear contratos e fluxos antes da virada</h3><p>Separe locação, venda, manutenção, frete, indenizações, royalties e demais cobranças. A qualidade desse mapeamento será determinante para parametrização fiscal e análise de créditos.</p></article>
+        </div>
+
+        <div class="sector-feed-wrap">
+          <div class="sector-feed-head"><div><span class="section-label">PUBLICAÇÕES RELACIONADAS</span><h3>Radar do seu setor</h3></div><span class="muted">fontes oficiais e especializadas já monitoradas</span></div>
+          <div id="sectorFeed" class="news-feed"></div>
+        </div>
+        <p class="disclaimer sector-disclaimer">Esta seção é uma triagem setorial. Operações de franquia e locação podem envolver contratos, regimes e fatos geradores distintos; confirme o tratamento aplicável na legislação e nos atos oficiais antes de decisões fiscais.</p>
+      </section>
+
       <section class="view" id="view-reforma">
         <div class="section-intro"><div><span class="section-label">FONTES PRIORITÁRIAS</span><h2>Reforma Tributária</h2><p>Publicações da Receita Federal e do Comitê Gestor do IBS aparecem primeiro; fontes secundárias ficam identificadas.</p></div><div class="filter-row"><button class="filter active" data-reforma-filter="all">Tudo</button><button class="filter" data-reforma-filter="official">Oficial</button><button class="filter" data-reforma-filter="normative">Atos & normas</button></div></div>
         <div id="reformaFeed" class="news-feed"></div>
@@ -141,5 +175,6 @@
   </div>
   <script src="app.js"></script>
   <script src="actions.js"></script>
+  <script src="sector.js"></script>
 </body>
 </html>

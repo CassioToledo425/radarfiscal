@@ -114,16 +114,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: STF analisa questionamento sobre fiscalização do IBS 10/09/2026 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79330/stf-analisa-regras-de-fiscalizacao-do-ibs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-10",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Reforma Tributária: Ministério propõe alíquota zero de Imposto Seletivo para aeronaves 10/09/2026 15:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79334/is-mpor-propoe-imposto-zero-para-aeronaves-sustentaveis/",
@@ -137,26 +127,6 @@
     "title": "REFORMA TRIBUTÁRIA RTC em São Paulo: novo arquivo da NFSe com campos de IBS/CBS é disponibilizado 10/09/2026 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79332/sp-atualiza-nfs-e-com-alteracoes-nos-campos-de-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-10",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "RECEITA FEDERAL Receita Federal lança novos indicadores mensais e regionais no Painel Receita 10/09/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79324/receita-lanca-novos-indicadores-no-painel-receita/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-10",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS/COFINS Receita Federal cria auditoria específica para PER/DCOMP de PIS e Cofins 10/09/2026 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79328/receita-cria-equipe-para-auditar-per-dcomp-de-pis-e-cofins/",
     "category": "Radar fiscal"
   },
   {
@@ -191,26 +161,6 @@
   },
   {
     "date": "2026-09-10",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CFOP Nova tabela de CFOP inclui título e descrição de cada código fiscal 10/09/2026 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79327/tabela-de-cfop-ganha-titulos-e-descricoes-dos-codigos-fiscais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-10",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ANALISANDO TRIBUTOS Simples Nacional x Redução do IBS e CBS: quando usar? 10/09/2026 10:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79333/simples-nacional-x-reducao-do-ibs-e-cbs-quando-usar/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-10",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -237,16 +187,6 @@
     "title": "10 de setembro de 2026 CNC defende regulamentação da reforma tributária alinhada à competitividade do transporte aéreo",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/cnc-defende-regulamentacao-da-reforma-tributaria-alinhada-a-competitividade-do-transporte-aereo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-09",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode encarecer a expansão das empresas 09/09/2026 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79312/reforma-tributaria-split-payment-e-o-impacto-no-caixa-das-empresas/",
     "category": "Radar fiscal"
   },
   {
@@ -404,9 +344,29 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "REPOSITÓRIO NACIONAL CGIBS convoca entes federados para desenvolver sistema nacional de documentos fiscais eletrônicos Hoje 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79390/cgibs-abre-chamamento-para-criar-repositorio-nacional/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Split payment começa em 2027 sem vendas a pessoas físicas e pagamentos com cartão Hoje 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79382/split-payment-nao-atingira-vendas-a-pessoas-fisicas-e-cartoes-na-primeira-fase/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária muda a lógica dos centros compartilhados Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79398/reforma-tributaria-e-csc-impactos-em-centros-compartilhados/",
     "category": "Radar fiscal"
   },
   {
@@ -461,12 +421,32 @@
   },
   {
     "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO DE RENDA Receita esclarece IR sobre ganho na venda de bem comum de casal Hoje 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79391/ibs-receita-esclarece-ir-sobre-venda-de-bem-de-casal/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
     "title": "Fiscalização, Ética e Disciplina",
     "summary": "",
     "url": "https://cfc.org.br/fiscalizacao-etica-e-disciplina/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "EFD-REINF EFD-Reinf de agosto vence amanhã (15); veja como informar lucros e dividendos Hoje 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79388/efd-reinf-vence-amanha-como-informar-lucros-e-dividendos-distribuidos/",
     "category": "Radar fiscal"
   },
   {

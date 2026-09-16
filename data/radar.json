@@ -24,39 +24,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL PGFN inclui 26 municípios em convênios para cobrança de débitos do Simples Nacional 14/09/2026 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79384/simples-nacional-26-municipios-assumem-cobranca-de-debitos-em-outubro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL CFC apresenta 19 pontos de aprimoramento para a regulamentação no Simples Nacional 14/09/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79385/cfc-apresenta-19-pontos-para-aprimorar-o-simples-nacional/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REPOSITÓRIO NACIONAL CGIBS convoca entes federados para desenvolver sistema nacional de documentos fiscais eletrônicos 14/09/2026 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79390/cgibs-abre-chamamento-para-criar-repositorio-nacional/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split payment começa em 2027 sem vendas a pessoas físicas e pagamentos com cartão 14/09/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79382/split-payment-nao-atingira-vendas-a-pessoas-fisicas-e-cartoes-na-primeira-fase/",
     "category": "Radar fiscal"
   },
   {
@@ -84,16 +54,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Comitê Gestor do IBS busca parceiros para devolver créditos às empresas 14/09/2026 10:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79386/ibs-comite-busca-parceiros-para-devolver-creditos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "IMPOSTO DE RENDA Receita esclarece IR sobre ganho na venda de bem comum de casal 14/09/2026 15:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79391/ibs-receita-esclarece-ir-sobre-venda-de-bem-de-casal/",
@@ -107,16 +67,6 @@
     "title": "EFD-REINF EFD-Reinf de agosto vence amanhã (15); veja como informar lucros e dividendos 14/09/2026 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79388/efd-reinf-vence-amanha-como-informar-lucros-e-dividendos-distribuidos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CBS 2027 CBS 2027: governo deve enviar nesta segunda-feira (14) modelo de cálculo da alíquota ao TCU 14/09/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79383/cbs-2027-tcu-recebera-ainda-hoje-14-proposta-para-calcular-aliquota/",
     "category": "Radar fiscal"
   },
   {
@@ -261,12 +211,12 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "Universo Contábil com ELAS: Emissão de Documentos Fiscais Eletrônicos – Notas de Débito e Crédito no Contexto da Reforma Tributária (ONLINE)",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Bloco 1 - Cronograma de Implementação 1. Fase de testes 2026 2. Adiamento das regras de validação 3. Novas datas de emissão de documentos fiscais Bloco 2 - Base Normativa 4. Ajuste SINIEF 49/25 5. Finalidade da NF-e Bloco 3 - Nota",
-    "url": "https://cfc.org.br/eventoscfc/universo-contabil-com-elas-emissao-de-documentos-fiscais-eletronicos-notas-de-debito-e-credito-no-contexto-da-reforma-tributaria-online/",
+    "title": "TRIBUTÁRIO STJ decide em repetitivo que ICMS-Difal não compõe base do PIS e da Cofins Hoje 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79436/stj-exclui-icms-difal-da-base-de-calculo-do-pis-e-da-cofins/",
     "category": "Radar fiscal"
   },
   {
@@ -331,16 +281,6 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Região Norte recebe mais um módulo de curso sobre a Reforma Tributária",
-    "summary": "A próxima edição do curso sobre a Reforma Tributária do Consumo (RTC) abordará um tema diretamente relacionado à Amazônia Ocidental e ao Estado do Amapá: “Zona Franca de Manaus (ZFM), Áreas de Livre Comércio”. O módulo 15 da capacitação acontece na próxima terça-feira (1º), às 9h (horário de Brasília), com atividades p",
-    "url": "https://cfc.org.br/noticias/regiao-norte-recebe-mais-um-modulo-de-curso-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
@@ -377,6 +317,16 @@
     "title": "REFORMA TRIBUTÁRIA Novas regras fiscais da Reforma: sua empresa está preparada para a nova etapa da transição tributária? Hoje 08:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79426/novas-regras-fiscais-da-reforma-sua-empresa-esta-preparada-para-a-transicao-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Liminar retira CBS e IBS da base do ICMS Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79438/liminar-retira-ibs-e-cbs-da-base-do-icms/",
     "category": "Radar fiscal"
   },
   {
@@ -441,6 +391,16 @@
   },
   {
     "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NF-E CONFAZ altera regras da NF-e e estabelece mudanças para emissão do documento fiscal Hoje 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79441/nf-e-novas-regras-entram-em-vigor-apos-publicacao-de-ajuste-sinief/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -457,6 +417,26 @@
     "title": "JORNADA DA REFORMA TRIBUTÁRIA – HORIZONTINA",
     "summary": "*Lisberto Idea – Representante do CRCRS em Sananduva. *Márcio Atz – Conselheiro do CRCRS. Leia mais Sem categoria 1 setembro, 2026 Link permanente",
     "url": "https://cfc.org.br/eventoscfc/jornada-da-reforma-tributaria-horizontina/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Hoje 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79443/redata-cria-incentivos-fiscais-para-data-centers/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IBS/CBS Receita Federal abre opção pelo regime específico de IBS e CBS para cooperativas; adesão vai até outubro Hoje 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79440/cooperativas-devem-escolher-regime-de-ibs-e-cbs-ate-outubro/",
     "category": "Radar fiscal"
   },
   {
@@ -514,9 +494,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Batatais apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Panorama da Reforma Tributária sobre o consumo: principais mudanças da Emenda Constitucional nº 132/2023 e da Lei Complementar nº 214/2025. Estrutura do novo sistema tributário: IBS, CBS e Imposto Seletivo (IS). Não cumulatividade",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-batatais-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
+    "title": "CRCSP para Todos em Mauá e Ribeirão Pires apresenta: REFORMA TRIBUTÁRIA: Diminuição do mecanismo de substituição tributária do ICMS e implementação gradual do IBS (Imposto sobre bens e serviços).",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: Diminuição do mecanismo de substituição tributária do ICMS e implementação gradual do IBS (Imposto sobre bens e serviços). Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-maua-e-ribeirao-pires-apresenta-reforma-tributaria-diminuicao-do-mecanismo-de-substituicao-tributaria-do-icms-e-implementacao-gradual-do-ibs-imposto-sobre-bens-e-servicos/",
     "category": "Radar fiscal"
   },
   {
@@ -524,9 +504,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP em São João da Boa Vista apresenta: S E M I N Á R I O Regulamentos do IBS e da CBS: Impactos Práticos da Reforma Tributária e Oportunidades para Escalar Negócios",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Seminário Regulamentos do IBS e da CBS: Impactos Práticos da Reforma Tributária e Oportunidades para Escalar Negócios Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profis",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-sao-joao-da-boa-vista-apresenta-s-e-m-i-n-a-r-i-o-regulamentos-do-ibs-e-da-cbs-impactos-praticos-da-reforma-tributaria-e-oportunidades-para-escalar-negocios/",
+    "title": "CRCSP para TODOS em Cotia e Embu das Artes apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ARNOBIO ",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-cotia-e-embu-das-artes-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
     "category": "Radar fiscal"
   },
   {
@@ -534,9 +514,39 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP em Parceria com APC apresenta: Reforma Tributária – da Norma à Operação: repercussões sobre processos internos, mecanismos de controle e integração multidisciplinar (ONLINE)",
-    "summary": "Pontuação AUD Norma EPC: 1.5 Pontuação CMN: 1.5 Pontuação SUSEP Res. CFC 1.377/11: 1.5 Pontuação ProGP Norma EPC: 1.5 Pontuação PER Norma EPC: 1.5 Pontuação PREVIC: 1.5 Pontuação Previc Aud: 1.5 Pontuação ProRT Norma EPC: 1.5 Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1. R",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-apc-apresenta-reforma-tributaria-da-norma-a-operacao-repercussoes-sobre-processos-internos-mecanismos-de-controle-e-integracao-multidisciplinar-online/",
+    "title": "CRCSP para TODOS em Boituva e Porto Feliz apresenta: REFORMA TRIBUTÁRIA: Não cumulatividade e fornecedores, Split payment, Apuração Assistida, Cruzamentos e responsabilidade do Profissional de Contabilidade",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: Não cumulatividade e fornecedores, Split payment, Apuração Assistida, Cruzamentos e responsabilidade do Profissional de Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Est",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-boituva-e-porto-feliz-apresenta-reforma-tributaria-nao-cumulatividade-e-fornecedores-split-payment-apuracao-assistida-cruzamentos-e-responsabilidade-do-profissional-de-contabi/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "CRCSP em parceria com a OAB-SP apresenta: Casos Práticos “Contencioso da Reforma Tributária no Comércio Exterior”",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1.Tipos de Contencioso Tributário 2.Serviços prestados no contencioso administrativo a. Defesa contra autuações fiscais; b. Recursos em órgãos administrativos; c. Consultoria em procedimentos administrativos; 3. Serviços prestados",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-a-oab-sp-apresenta-casos-praticos-contencioso-da-reforma-tributaria-no-comercio-exterior/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "CRCSP em Piracicaba apresenta: SEMINÁRIO Reforma Tributária: Não cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas Empresas.",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: SEMINÁRIO Reforma Tributária: Não cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas Empresas. Público Alvo: Profissionais da Contabilidade com registro ati",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-piracicaba-apresenta-seminario-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servicos-pelas-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "CRCSP em Araçatuba apresenta: SEMINÁRIO Reforma Tributária sob controle: Riscos, Processos e Conformidade na virada para 2027",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: SEMINÁRIO Reforma Tributária sob controle: Riscos, Processos e Conformidade na virada para 2027 Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: L",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-aracatuba-apresenta-seminario-reforma-tributaria-sob-controle-riscos-processos-e-conformidade-na-virada-para-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -547,16 +557,6 @@
     "title": "CONTRIBUA CONOSCO Compartilhe seu conhecimento para visitantes todos os dias. ENTENDA MAIS",
     "summary": "Sobre Sobre « Voltar Regras Ajuda Anuncie Contato Conheça o nosso Portal O portal contábeis é feito para profissionais como você, que procuram informação de qualidade e uma comunidade ativa e pronta para discutir, opinar e participar de tudo o que envolve o mundo contábil.",
     "url": "https://www.contabeis.com.br/conteudo/tributario",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CIRCUITO CONTÁBIL em Barueri com foco na Reforma Tributária: Adaptação do seu Time, NR-1, Escalando seu Negócio, Split Payment, Fim do PIS/COFINS",
-    "summary": "Pontuação AUD Norma EPC: 5.5 Pontuação CMN: 5.5 Pontuação SUSEP Res. CFC 1.377/11: 5.5 Pontuação ProGP Norma EPC: 5.5 Pontuação PER Norma EPC: 5.5 Pontuação PREVIC: 5.5 Pontuação Previc Aud: 5.5 Pontuação ProRT Norma EPC: 5.5 Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 09h0",
-    "url": "https://cfc.org.br/eventoscfc/circuito-contabil-em-barueri-com-foco-na-reforma-tributaria-adaptacao-do-seu-time-nr-1-escalando-seu-negocio-split-payment-fim-do-pis-cofins/",
     "category": "Radar fiscal"
   }
 ]

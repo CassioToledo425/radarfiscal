@@ -24,16 +24,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTÁRIO Carf aprova súmulas sobre Cide, IOF e mais seis matérias 15/09/2026 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79414/carf-aprova-sumulas-sobre-cide-iof-e-outros-temas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "SIMPLES NACIONAL STJ julgará se gorjetas repassadas entram no cálculo do Simples Nacional 15/09/2026 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79415/stj-vai-definir-em-repetitivo-se-gorjetas-entram-na-base-do-simples-nacional/",
@@ -54,26 +44,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Faltam 15 dias: empresas precisam definir Simples Nacional e recolhimento de IBS e CBS 15/09/2026 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79412/simples-nacional-empresas-tem-15-dias-para-definir-tributacao-de-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Simples Nacional: opção pelo regime híbrido exige cálculos 15/09/2026 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79422/simples-nacional-e-a-opcao-pelo-hibrido/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA A Circular Ibracon nº 02/2026 e o disclosure da Reforma Tributária nas Demonstrações Financeiras Padronizadas 15/09/2026 21:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79428/reforma-tributaria-nas-dfps-2025-analise-dos-impactos/",
@@ -87,16 +57,6 @@
     "title": "NOTA FISCAL Novas regras para recusa e não localização na entrega de mercadorias entram em vigor 15/09/2026 16:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79419/novas-regras-para-recusa-de-mercadorias-entram-em-vigor/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL ELETRÔNICA NF-e passa a aceitar CFOPs 1.949 e 2.949 em mais casos de retorno de mercadorias 15/09/2026 10:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79410/nf-e-amplia-uso-dos-cfops-1-949-e-2-949-em-devolucoes-e-retornos/",
     "category": "Radar fiscal"
   },
   {
@@ -240,16 +200,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-08-09",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "9 de agosto de 2026 Receita Federal divulga tabela nacional do Valor da Terra Nua 2026",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/receita-federal-divulga-tabela-nacional-do-valor-da-terra-nua-2026/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": null,
     "source": "CFC",
     "level": "institutional",
@@ -344,6 +294,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige revisão de contratos entre empresas e escritórios de contabilidade Hoje 16:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79483/reforma-tributaria-como-adaptar-contratos-de-escritorios-contabeis/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Novas regras fiscais da Reforma: sua empresa está preparada para a nova etapa da transição tributária? Ontem 08:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79426/novas-regras-fiscais-da-reforma-sua-empresa-esta-preparada-para-a-transicao-tributaria/",
@@ -431,12 +391,12 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "JORNADA DA REFORMA TRIBUTÁRIA – HORIZONTINA",
-    "summary": "*Lisberto Idea – Representante do CRCRS em Sananduva. *Márcio Atz – Conselheiro do CRCRS. Leia mais Sem categoria 1 setembro, 2026 Link permanente",
-    "url": "https://cfc.org.br/eventoscfc/jornada-da-reforma-tributaria-horizontina/",
+    "title": "INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Ontem 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79443/redata-cria-incentivos-fiscais-para-data-centers/",
     "category": "Radar fiscal"
   },
   {
@@ -444,9 +404,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Ontem 12:00",
+    "title": "IMPOSTO SELETIVO “Temos que ter cuidado com alíquota do IS”, diz subprocurador da PGFN Hoje 17:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79443/redata-cria-incentivos-fiscais-para-data-centers/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79482/pgfn-alerta-sobre-aliquota-do-imposto-seletivo/",
     "category": "Radar fiscal"
   },
   {
@@ -557,6 +517,26 @@
     "title": "CONTRIBUA CONOSCO Compartilhe seu conhecimento para visitantes todos os dias. ENTENDA MAIS",
     "summary": "Sobre Sobre « Voltar Regras Ajuda Anuncie Contato Conheça o nosso Portal O portal contábeis é feito para profissionais como você, que procuram informação de qualidade e uma comunidade ativa e pronta para discutir, opinar e participar de tudo o que envolve o mundo contábil.",
     "url": "https://www.contabeis.com.br/conteudo/tributario",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CONTENCIOSO TRIBUTÁRIO Mediação e arbitragem tributária: o papel da prova contábil na nova fase do CTN Hoje 13:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79479/arbitragem-e-mediacao-tributaria-o-papel-da-contabilidade/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Aviso de Pauta: CFC, Receita Federal, Sebrae e Fenacon anunciam força-tarefa para orientar sobre a Reforma Tributária",
+    "summary": "O Conselho Federal de Contabilidade (CFC), a Receita Federal do Brasil, o Sebrae e a Fenacon anunciam, nesta sexta-feira (18), uma força-tarefa conjunta para ampliar o acesso a informações confiáveis, combater a desinformação e apoiar a adaptação às novas regras. A iniciativa será apresentada durante coletiva de impren",
+    "url": "https://cfc.org.br/noticias/aviso-de-pauta-cfc-receita-federal-sebrae-e-fenacon-anunciam-forca-tarefa-para-orientar-sobre-a-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {

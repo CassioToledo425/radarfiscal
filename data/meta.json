@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:01:40+00:00",
+  "updated_at": "2026-09-17T12:03:18+00:00",
   "sources": [
     {
       "name": "Receita Federal — Agenda Tributária",
@@ -20,7 +20,7 @@
       "level": "official",
       "url": "https://www.cgibs.gov.br/",
       "description": "Notícias, resoluções, atos conjuntos e materiais oficiais do IBS.",
-      "status": "ok"
+      "status": "error"
     },
     {
       "name": "FENACON",

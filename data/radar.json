@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-17",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "17 de setembro de 2026 Novo cálculo da receita bruta apurada no Simples Nacional",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/novo-calculo-da-receita-bruta-apurada-no-simples-nacional/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-09-16",
     "source": "FENACON",
     "level": "institutional",
@@ -7,6 +17,136 @@
     "title": "16 de setembro de 2026 Fenacon acompanha curso sobre Reforma Tributária do Consumo focado no Imposto Seletivo",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/fenacon-acompanha-curso-sobre-reforma-tributaria-do-consumo-focado-no-imposto-seletivo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTÁRIO Carf aprova súmulas sobre Cide, IOF e mais seis matérias 15/09/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79414/carf-aprova-sumulas-sobre-cide-iof-e-outros-temas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL STJ julgará se gorjetas repassadas entram no cálculo do Simples Nacional 15/09/2026 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79415/stj-vai-definir-em-repetitivo-se-gorjetas-entram-na-base-do-simples-nacional/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL MEI deve regularizar débitos para não ser excluído do Simples Nacional em 2027 15/09/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79424/mei-deve-regularizar-debitos-para-evitar-exclusao-em-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Faltam 15 dias: empresas precisam definir Simples Nacional e recolhimento de IBS e CBS 15/09/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79412/simples-nacional-empresas-tem-15-dias-para-definir-tributacao-de-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Simples Nacional: opção pelo regime híbrido exige cálculos 15/09/2026 13:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79422/simples-nacional-e-a-opcao-pelo-hibrido/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Receita entrega cálculo da CBS ao TCU, mas alíquota para 2027 segue indefinida 15/09/2026 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79408/receita-apresenta-modelo-de-calculo-da-cbs-ao-tcu-sem-estimar-aliquota/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Receita Federal publica nova documentação técnica das APIs de apuração da CBS 15/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79409/receita-publica-apis-para-apuracao-da-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA A Circular Ibracon nº 02/2026 e o disclosure da Reforma Tributária nas Demonstrações Financeiras Padronizadas 15/09/2026 21:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79428/reforma-tributaria-nas-dfps-2025-analise-dos-impactos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NOTA FISCAL Novas regras para recusa e não localização na entrega de mercadorias entram em vigor 15/09/2026 16:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79419/novas-regras-para-recusa-de-mercadorias-entram-em-vigor/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NOTA FISCAL ELETRÔNICA NF-e passa a aceitar CFOPs 1.949 e 2.949 em mais casos de retorno de mercadorias 15/09/2026 10:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79410/nf-e-amplia-uso-dos-cfops-1-949-e-2-949-em-devolucoes-e-retornos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "FISCALIZAÇÃO Empresa do Simples que omitir receita pode pagar a alíquota máxima: o que muda para quem ainda vende ou presta serviço sem nota 15/09/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79407/fiscalizacao-de-receita-omitida-no-simples-nacional-em-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DOCUMENTOS FISCAIS NF-e com referência a NFC-e: vedação é adiada para 14 de dezembro 15/09/2026 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79411/empresas-ganham-novo-prazo-para-adequar-emissao-de-nf-e-e-nfc-e/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CRÉDITOS TRIBUTÁRIOS STF valida limite para compensação de créditos tributários acima de R$ 10 milhões 15/09/2026 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79417/stf-valida-limite-para-compensacao-de-creditos-tributarios/",
     "category": "Radar fiscal"
   },
   {
@@ -27,16 +167,6 @@
     "title": "15 de setembro de 2026 Receita Federal publica nova documentação técnica das APIs de apuração da CBS",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-da-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA ISS: entenda a origem do imposto e como será sua extinção com a Reforma Tributária 14/09/2026 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79380/extincao-do-iss-entenda-o-fim-do-imposto-pela-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {
@@ -124,16 +254,6 @@
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
-    "title": "8 de setembro de 2026 Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da NFS-e para a Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nfs-e-para-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-08",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
     "title": "8 de setembro de 2026 Regime de caixa deixará de ser utilizado na apuração do Simples Nacional",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/regime-de-caixa-deixara-de-ser-utilizado-na-apuracao-do-simples-nacional/",
@@ -174,19 +294,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTÁRIO STJ decide em repetitivo que ICMS-Difal não compõe base do PIS e da Cofins Hoje 11:00",
+    "title": "TRIBUTÁRIO STJ decide em repetitivo que ICMS-Difal não compõe base do PIS e da Cofins Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79436/stj-exclui-icms-difal-da-base-de-calculo-do-pis-e-da-cofins/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTÁRIO Carf aprova súmulas sobre Cide, IOF e mais seis matérias Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79414/carf-aprova-sumulas-sobre-cide-iof-e-outros-temas/",
     "category": "Radar fiscal"
   },
   {
@@ -204,7 +314,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "Simples Nacional: regime regular ou Simples Nacional: regime regular ou híbrido? Hoje 15:00",
+    "title": "Simples Nacional: regime regular ou Simples Nacional: regime regular ou híbrido? Ontem 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79427/simples-nacional-regime-regular-ou-hibrido/",
     "category": "Radar fiscal"
@@ -214,39 +324,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SUBSTITUIÇÃO TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Hoje 14:00",
+    "title": "SUBSTITUIÇÃO TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79437/confaz-publica-34-protocolos-com-mudancas-no-icms-st-veja-o-que-muda/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL STJ julgará se gorjetas repassadas entram no cálculo do Simples Nacional Ontem 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79415/stj-vai-definir-em-repetitivo-se-gorjetas-entram-na-base-do-simples-nacional/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL MEI deve regularizar débitos para não ser excluído do Simples Nacional em 2027 Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79424/mei-deve-regularizar-debitos-para-evitar-exclusao-em-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Faltam 15 dias: empresas precisam definir Simples Nacional e recolhimento de IBS e CBS Ontem 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79412/simples-nacional-empresas-tem-15-dias-para-definir-tributacao-de-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -264,9 +344,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Simples Nacional: opção pelo regime híbrido exige cálculos Ontem 13:30",
+    "title": "REFORMA TRIBUTÁRIA Os mecanismos de extinção dos débitos na Reforma Tributária Ontem 20:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79422/simples-nacional-e-a-opcao-pelo-hibrido/",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79433/reforma-tributaria-extincao-de-debitos-e-impacto-no-fluxo-de-caixa/",
     "category": "Radar fiscal"
   },
   {
@@ -274,27 +354,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita entrega cálculo da CBS ao TCU, mas alíquota para 2027 segue indefinida Ontem 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79408/receita-apresenta-modelo-de-calculo-da-cbs-ao-tcu-sem-estimar-aliquota/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita Federal publica nova documentação técnica das APIs de apuração da CBS Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79409/receita-publica-apis-para-apuracao-da-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Novas regras fiscais da Reforma: sua empresa está preparada para a nova etapa da transição tributária? Hoje 08:30",
+    "title": "REFORMA TRIBUTÁRIA Novas regras fiscais da Reforma: sua empresa está preparada para a nova etapa da transição tributária? Ontem 08:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79426/novas-regras-fiscais-da-reforma-sua-empresa-esta-preparada-para-a-transicao-tributaria/",
     "category": "Radar fiscal"
@@ -304,7 +364,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Liminar retira CBS e IBS da base do ICMS Hoje 10:00",
+    "title": "REFORMA TRIBUTÁRIA Liminar retira CBS e IBS da base do ICMS Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79438/liminar-retira-ibs-e-cbs-da-base-do-icms/",
     "category": "Radar fiscal"
@@ -314,7 +374,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Lançamentos reflexos de CBS podem ocorrer em 2027, diz adjunta da Receita Hoje 16:30",
+    "title": "REFORMA TRIBUTÁRIA Lançamentos reflexos de CBS podem ocorrer em 2027, diz adjunta da Receita Ontem 16:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79451/cbs-lancamentos-reflexos-podem-ocorrer-em-2027/",
     "category": "Radar fiscal"
@@ -324,19 +384,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Hoje 15:30",
+    "title": "REFORMA TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Ontem 15:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79439/creditos-de-pis-e-cofins-poderao-ser-usados-na-apuracao-da-cbs-entenda/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA A Circular Ibracon nº 02/2026 e o disclosure da Reforma Tributária nas Demonstrações Financeiras Padronizadas Ontem 21:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79428/reforma-tributaria-nas-dfps-2025-analise-dos-impactos/",
     "category": "Radar fiscal"
   },
   {
@@ -354,7 +404,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS/COFINS Receita alerta empresas sobre R$ 1,3 bilhão em créditos de PIS e Cofins; prazo termina em novembro Hoje 09:00",
+    "title": "PIS/COFINS Receita alerta empresas sobre R$ 1,3 bilhão em créditos de PIS e Cofins; prazo termina em novembro Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79435/receita-identifica-r-1-3-bi-em-creditos-de-pis-e-cofins-com-inconsistencias/",
     "category": "Radar fiscal"
@@ -374,27 +424,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "NOTA FISCAL Novas regras para recusa e não localização na entrega de mercadorias entram em vigor Ontem 16:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79419/novas-regras-para-recusa-de-mercadorias-entram-em-vigor/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL ELETRÔNICA NF-e passa a aceitar CFOPs 1.949 e 2.949 em mais casos de retorno de mercadorias Ontem 10:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79410/nf-e-amplia-uso-dos-cfops-1-949-e-2-949-em-devolucoes-e-retornos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NF-E CONFAZ altera regras da NF-e e estabelece mudanças para emissão do documento fiscal Hoje 11:30",
+    "title": "NF-E CONFAZ altera regras da NF-e e estabelece mudanças para emissão do documento fiscal Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79441/nf-e-novas-regras-entram-em-vigor-apos-publicacao-de-ajuste-sinief/",
     "category": "Radar fiscal"
@@ -424,7 +454,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Hoje 12:00",
+    "title": "INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Ontem 12:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79443/redata-cria-incentivos-fiscais-para-data-centers/",
     "category": "Radar fiscal"
@@ -434,7 +464,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IBS/CBS Receita Federal abre opção pelo regime específico de IBS e CBS para cooperativas; adesão vai até outubro Hoje 09:30",
+    "title": "IBS/CBS Receita Federal abre opção pelo regime específico de IBS e CBS para cooperativas; adesão vai até outubro Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79440/cooperativas-devem-escolher-regime-de-ibs-e-cbs-ate-outubro/",
     "category": "Radar fiscal"
@@ -454,17 +484,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "FISCALIZAÇÃO Empresa do Simples que omitir receita pode pagar a alíquota máxima: o que muda para quem ainda vende ou presta serviço sem nota Ontem 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79407/fiscalizacao-de-receita-omitida-no-simples-nacional-em-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "DÉBITOS MUNICIPAIS Mutirão Fiscal de Cuiabá permite negociar débitos até 25 de setembro Hoje 17:00",
+    "title": "DÉBITOS MUNICIPAIS Mutirão Fiscal de Cuiabá permite negociar débitos até 25 de setembro Ontem 17:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79447/cuiaba-reabre-prazo-para-contribuintes-negociarem-debitos-municipais/",
     "category": "Radar fiscal"
@@ -477,26 +497,6 @@
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "DOCUMENTOS FISCAIS NF-e com referência a NFC-e: vedação é adiada para 14 de dezembro Ontem 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79411/empresas-ganham-novo-prazo-para-adequar-emissao-de-nf-e-e-nfc-e/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CRÉDITOS TRIBUTÁRIOS STF valida limite para compensação de créditos tributários acima de R$ 10 milhões Ontem 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79417/stf-valida-limite-para-compensacao-de-creditos-tributarios/",
     "category": "Radar fiscal"
   },
   {
@@ -574,7 +574,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ARTIGO TRIBUTÁRIO Lei Complementar 236 e os avanços do Código Tributário Nacional Hoje 13:30",
+    "title": "ARTIGO TRIBUTÁRIO Lei Complementar 236 e os avanços do Código Tributário Nacional Ontem 13:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79452/lei-complementar-236-e-os-avancos-do-ctn/",
     "category": "Radar fiscal"

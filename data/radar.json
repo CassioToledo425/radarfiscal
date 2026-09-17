@@ -74,26 +74,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita entrega cálculo da CBS ao TCU, mas alíquota para 2027 segue indefinida 15/09/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79408/receita-apresenta-modelo-de-calculo-da-cbs-ao-tcu-sem-estimar-aliquota/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita Federal publica nova documentação técnica das APIs de apuração da CBS 15/09/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79409/receita-publica-apis-para-apuracao-da-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA A Circular Ibracon nº 02/2026 e o disclosure da Reforma Tributária nas Demonstrações Financeiras Padronizadas 15/09/2026 21:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79428/reforma-tributaria-nas-dfps-2025-analise-dos-impactos/",
@@ -127,16 +107,6 @@
     "title": "FISCALIZAÇÃO Empresa do Simples que omitir receita pode pagar a alíquota máxima: o que muda para quem ainda vende ou presta serviço sem nota 15/09/2026 20:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79407/fiscalizacao-de-receita-omitida-no-simples-nacional-em-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "DOCUMENTOS FISCAIS NF-e com referência a NFC-e: vedação é adiada para 14 de dezembro 15/09/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79411/empresas-ganham-novo-prazo-para-adequar-emissao-de-nf-e-e-nfc-e/",
     "category": "Radar fiscal"
   },
   {
@@ -284,6 +254,16 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
+    "title": "Último módulo do curso sobre a Reforma Tributária acontece na próxima semana",
+    "summary": "Após quatro meses de capacitação, o curso sobre a Reforma Tributária do Consumo (RTC) chega ao último módulo. O assunto que fecha a sequência de 18 edições é “Temas complementares e aplicação prática (casos especiais)”. O evento acontece na próxima terça-feira (22), na modalidade virtual, com transmissão pelo canal do ",
+    "url": "https://cfc.org.br/noticias/ultimo-modulo-do-curso-sobre-a-reforma-tributaria-acontece-na-proxima-semana/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
     "title": "Zona Franca de Manaus e Áreas de Livre Comércio pautam módulo de curso sobre a Reforma Tributária",
     "summary": "A capital amazonense recebeu o 15º módulo do curso sobre a Reforma Tributária do Consumo (RTC) na manhã desta terça-feira (1º). O assunto abordado na edição foi “Zona Franca de Manaus (ZFM), Áreas de Livre Comércio”. Toda a programação foi transmitida pelo canal do Conselho Federal de Contabilidade (CFC) no YouTube. A ",
     "url": "https://cfc.org.br/noticias/zona-franca-de-manaus-e-areas-de-livre-comercio-pautam-modulo-de-curso-sobre-a-reforma-tributaria/",
@@ -297,6 +277,16 @@
     "title": "TRIBUTÁRIO STJ decide em repetitivo que ICMS-Difal não compõe base do PIS e da Cofins Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79436/stj-exclui-icms-difal-da-base-de-calculo-do-pis-e-da-cofins/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTÁRIO STF tem cinco votos por imunidade de ITBI para imobiliárias, mas julgamento é suspenso Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79458/itbi-pedido-de-vista-suspende-julgamento-sobre-capital-de-imobiliarias/",
     "category": "Radar fiscal"
   },
   {
@@ -334,9 +324,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
-    "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
-    "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
+    "title": "SIMPLES NACIONAL STJ julgará se gorjetas repassadas entram no cálculo do Simples Nacional Hoje 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79459/stj-vai-definir-em-repetitivo-se-gorjetas-entram-na-base-do-simples-nacional/",
     "category": "Radar fiscal"
   },
   {
@@ -344,9 +334,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Os mecanismos de extinção dos débitos na Reforma Tributária Ontem 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79433/reforma-tributaria-extincao-de-debitos-e-impacto-no-fluxo-de-caixa/",
+    "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
+    "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
+    "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
     "category": "Radar fiscal"
   },
   {
@@ -391,16 +381,6 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária “Módulo 2 – Reforma Tributária: o que muda, por que importa e como se preparar!”",
-    "summary": "Depois de entender os impactos no Simples Nacional, é hora de ampliar a visão. Vem aí o Módulo 2 do Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária. Neste encontro vamos discutir o que muda, por que importa e como se preparar para os desafios da nova realidade tributária. Palestrante: Carla Tas",
-    "url": "https://cfc.org.br/eventoscfc/programa-trilha-de-aprendizagem-aplicacao-pratica-da-reforma-tributaria-modulo-2-reforma-tributaria-o-que-muda-por-que-importa-e-como-se-preparar/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
@@ -437,6 +417,16 @@
     "title": "Maranhão recebe discussões sobre a Reforma Tributária",
     "summary": "São Luís/MA recebeu o 16º módulo do curso sobre a Reforma Tributária do Consumo (RTC), que abordou o tema Combustíveis e Energia Elétrica no contexto do novo sistema tributário nacional. A atividade aconteceu na manhã desta quarta-feira (9), com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTu",
     "url": "https://cfc.org.br/noticias/maranhao-recebe-discussoes-sobre-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "LEGISLAÇÃO FISCAL Lei que cria exceções a regras fiscais em 2026 é sancionada com veto Hoje 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79460/sancionada-lei-que-cria-excecoes-a-regras-fiscais-em-2026/",
     "category": "Radar fiscal"
   },
   {

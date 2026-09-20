@@ -1,6 +1,86 @@
 [
   {
     "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTÁRIO A consulta tributária ganhou força? O que a LC 236/2026 mudou no CTN 18/09/2026 19:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79497/consulta-tributaria-entenda-os-novos-efeitos-no-ctn-e-fisco/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Último módulo do curso sobre a Reforma Tributária acontece na próxima semana 18/09/2026 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79509/reforma-tributaria-ultimo-modulo-do-curso-sera-dia-22/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: NFS-e autorizada sem IBS e CBS poderá ficar em desconformidade 18/09/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79499/nfs-e-sem-ibs-e-cbs-entenda-a-desconformidade/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Receita, CFC, Sebrae e Fenacon anunciam força-tarefa com orientações sobre Reforma Tributária 18/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79493/reforma-tributaria-entidades-criam-forca-tarefa-para-preparar-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Extinção de débitos na Reforma Tributária: impactos para empresas 18/09/2026 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79489/os-mecanismos-de-extincao-dos-debitos-na-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Comitê Gestor autoriza reforço emergencial de servidores para cumprir cronograma do IBS 18/09/2026 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79492/comite-gestor-amplia-forca-de-trabalho-para-implementar-ibs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CONSELHO FEDERAL CONTABILIDADE Plenária do CFC reúne avanços em fiscalização, tecnologia, qualificação e valorização da profissão 18/09/2026 16:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79508/plenaria-do-cfc-destaca-fiscalizacao-tecnologia-e-qualificacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "AJUSTES SINIEF Confaz publica 13 Ajustes Sinief com alterações em documentos fiscais 18/09/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79502/documentos-fiscais-confaz-publica-13-novos-ajustes-sinief/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-18",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -174,16 +254,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters 16/09/2026 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79443/redata-cria-incentivos-fiscais-para-data-centers/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "DÉBITOS MUNICIPAIS Mutirão Fiscal de Cuiabá permite negociar débitos até 25 de setembro 16/09/2026 17:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79447/cuiaba-reabre-prazo-para-contribuintes-negociarem-debitos-municipais/",
@@ -311,16 +381,6 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTÁRIO A consulta tributária ganhou força? O que a LC 236/2026 mudou no CTN Ontem 19:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79497/consulta-tributaria-entenda-os-novos-efeitos-no-ctn-e-fisco/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -337,56 +397,6 @@
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Último módulo do curso sobre a Reforma Tributária acontece na próxima semana Ontem 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79509/reforma-tributaria-ultimo-modulo-do-curso-sera-dia-22/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: NFS-e autorizada sem IBS e CBS poderá ficar em desconformidade Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79499/nfs-e-sem-ibs-e-cbs-entenda-a-desconformidade/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita, CFC, Sebrae e Fenacon anunciam força-tarefa com orientações sobre Reforma Tributária Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79493/reforma-tributaria-entidades-criam-forca-tarefa-para-preparar-empresas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Extinção de débitos na Reforma Tributária: impactos para empresas Ontem 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79489/os-mecanismos-de-extincao-dos-debitos-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Comitê Gestor autoriza reforço emergencial de servidores para cumprir cronograma do IBS Ontem 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79492/comite-gestor-amplia-forca-de-trabalho-para-implementar-ibs/",
     "category": "Radar fiscal"
   },
   {
@@ -434,6 +444,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "FRAUDE TRIBUTÁRIA Operação Pay Back apura esquema com falsos comprovantes de pagamentos tributários Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79463/contador-e-investigado-por-fraude-tributaria-milionaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
@@ -444,7 +464,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CRÉDITO TRIBUTÁRIO Crédito tributário ganha peso nas negociações entre indústria e distribuição com IBS e CBS Hoje 09:00",
+    "title": "CRÉDITO TRIBUTÁRIO Crédito tributário ganha peso nas negociações entre indústria e distribuição com IBS e CBS Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79464/reforma-tributaria-muda-formacao-de-precos-entre-industria-e-distribuicao/",
     "category": "Radar fiscal"
@@ -521,32 +541,12 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONSELHO FEDERAL CONTABILIDADE Plenária do CFC reúne avanços em fiscalização, tecnologia, qualificação e valorização da profissão Ontem 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79508/plenaria-do-cfc-destaca-fiscalizacao-tecnologia-e-qualificacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
     "title": "Aviso de Pauta: CFC, Receita Federal, Sebrae e Fenacon anunciam força-tarefa para orientar sobre a Reforma Tributária",
     "summary": "O Conselho Federal de Contabilidade (CFC), a Receita Federal do Brasil, o Sebrae e a Fenacon anunciam, nesta sexta-feira (18), uma força-tarefa conjunta para ampliar o acesso a informações confiáveis, combater a desinformação e apoiar a adaptação às novas regras. A iniciativa será apresentada durante coletiva de impren",
     "url": "https://cfc.org.br/noticias/aviso-de-pauta-cfc-receita-federal-sebrae-e-fenacon-anunciam-forca-tarefa-para-orientar-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTES SINIEF Confaz publica 13 Ajustes Sinief com alterações em documentos fiscais Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79502/documentos-fiscais-confaz-publica-13-novos-ajustes-sinief/",
     "category": "Radar fiscal"
   }
 ]

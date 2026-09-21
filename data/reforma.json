@@ -54,20 +54,10 @@
     "source": "Receita Federal",
     "level": "official",
     "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal alerta: começa hoje o prazo para opção pelo Simples Nacional e para a escolha do modelo de recolhimento do IBS e da CBS em 2027",
-    "summary": "Serviços Empresas têm até 30 de setembro para solicitar ingresso no Simples Nacional e definir a forma de recolhimento dos novos tributos da Reforma Tributária sobre o Consumo tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027"
-  },
-  {
-    "date": "2026-08-31",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Manaus sediará nesta terça-feira (1º) o Módulo 15 do Curso Reforma Tributária do Consumo",
-    "summary": "Institucional A transmissão ao vivo abordará a tributação na Zona Franca de Manaus e nas Áreas de Livre Comércio. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/manaus-sediara-nesta-terca-feira-1o-o-modulo-15-do-curso-reforma-tributaria-do-consumo"
+    "kind_label": "Simples Nacional / IBS / CBS",
+    "title": "Receita Federal alerta sobre opção pelo Simples Nacional e modelo de recolhimento do IBS e da CBS em 2027",
+    "summary": "Empresas têm até 30 de setembro para solicitar ingresso no Simples Nacional e definir a forma de recolhimento dos novos tributos.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027/"
   },
   {
     "date": "2026-08-28",
@@ -90,36 +80,6 @@
     "url": "https://cgibs.gov.br/cgibs-e-rfb-esclarecem-prazos-de-cumprimento-das-obrigacoes-relativas-a-dere-estabelecidos-pelo-ato-conjunto-n-4"
   },
   {
-    "date": "2026-08-21",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal destaca agronegócio e cooperativismo agrícola em novo módulo do Curso Reforma Tributária do Consumo",
-    "summary": "Tributação Módulo abordará as novas regras aplicáveis ao setor, com foco nos impactos da Reforma Tributária do Consumo para produtores rurais e cooperativas agrícolas. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-destaca-agronegocio-e-cooperativismo-agricola-em-novo-modulo-do-curso-reforma-tributaria-do-consumo"
-  },
-  {
-    "date": "2026-08-14",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Simples Nacional: NFS-e Nacional será obrigatória para ME e EPP a partir de 1º de novembro de 2026",
-    "summary": "Tributação A Resolução CGSN nº 191/2026 prorroga o prazo de obrigatoriedade para 1º de novembro de 2026 e esclarece que as regras relativas à CBS e ao IBS para os optantes do Simples Nacional passam a produzir efeitos somente a partir de 1º de janeiro de 2027. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026"
-  },
-  {
-    "date": "2026-08-14",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Regime de caixa deixa de ser utilizado na apuração do Simples Nacional",
-    "summary": "Tributação A nova regra regulamenta o reconhecimento da receita pelo faturamento da operação, extingue a opção pelo regime de caixa para a apuração mensal e revoga dispositivos da Resolução CGSN nº 140/2018. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/regime-de-caixa-deixa-de-ser-utilizado-na-apuracao-do-simples-nacional"
-  },
-  {
     "date": "2026-08-14",
     "source": "CGIBS",
     "level": "official",
@@ -128,36 +88,6 @@
     "title": "Receita Federal e Comitê Gestor do IBS regulamentam Programa Nacional de Conformidade Tributária",
     "summary": "Programa apoia a adaptação dos contribuintes às novas obrigações relacionadas à emissão de documentos fiscais.",
     "url": "https://www.cgibs.gov.br/receita-federal-e-cgibs-regulamentam-programa-nacional-de-conformidade-tributaria-para-apoiar-adaptacao-a-reforma-tributaria"
-  },
-  {
-    "date": "2026-08-14",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Credenciais de acesso às API da Reforma Tributária serão atualizadas",
-    "summary": "Serviços Na segunda-feira, dia 24 de agosto, será necessário atualizar as credenciais de acesso. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/credenciais-de-acesso-as-api-da-reforma-tributaria-serao-atualizadas"
-  },
-  {
-    "date": "2026-08-14",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "13º módulo do curso sobre a Reforma Tributária do Consumo aborda tributação de bens imóveis",
-    "summary": "Institucional Encontro acontece no dia 18 de agosto, a partir das 9h, e será transmitido pelo YouTube do CFC. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/13o-modulo-do-curso-sobre-a-reforma-tributaria-do-consumo-aborda-tributacao-de-bens-imoveis"
-  },
-  {
-    "date": "2026-08-13",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal e CGIBS regulamentam Programa Nacional de Conformidade Tributária para apoiar adaptação à Reforma Tributária no ano de 2026",
-    "summary": "Institucional Programa foi criado para facilitar a adaptação dos contribuintes às novas obrigações relacionadas à emissão de documentos fiscais na transição para o modelo instituído pela Reforma Tributária do Consumo. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-cgibs-regulamentam-programa-nacional-de-conformidade-tributaria-para-apoiar-adaptacao-a-reforma-tributaria-no-ano-de-2026"
   },
   {
     "date": "2026-08-12",
@@ -170,26 +100,6 @@
     "url": "https://www.cgibs.gov.br/upload/arquivos/202608/13065932-ato-conjunto-rfb-cgibs-n-c2-ba-5-2026-regulamenta-o-programa-nacional-de-conformidade-tributaria-docx-assinado.pdf"
   },
   {
-    "date": "2026-08-11",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "CGSN atualiza regras do Simples Nacional para adequação à Reforma Tributária do Consumo",
-    "summary": "Tributação Novas regras incorporam IBS e CBS ao regime, atualizam procedimentos e estabelecem novos prazos de opção para 2027 tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo"
-  },
-  {
-    "date": "2026-08-01",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal e CGIBS flexibilizarão obrigatoriedade de informações em documentos fiscais",
-    "summary": "Institucional Regras de validação que exigem informações da CBS e do IBS serão alteradas para evitar rejeição de documentos fiscais. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-cgibs-flexibilizarao-obrigatoriedade-de-informacoes-em-documentos-fiscais"
-  },
-  {
     "date": "2026-08-01",
     "source": "CGIBS",
     "level": "official",
@@ -198,16 +108,6 @@
     "title": "RFB e Comitê Gestor do IBS publicam Cronograma de Implementação dos Documentos Fiscais Eletrônicos",
     "summary": "Ato divulga cronograma de obrigatoriedade de emissão dos documentos fiscais e publicação dos leiautes.",
     "url": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos"
-  },
-  {
-    "date": "2026-07-31",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal e Comitê Gestor do IBS publicam o Cronograma de Implementação dos Documentos Fiscais Eletrônicos da Reforma Tributária do Consumo",
-    "summary": "Institucional Ato divulga o cronograma de obrigatoriedade de emissão dos documentos fiscais e de publicação dos leiautes. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo"
   },
   {
     "date": "2026-07-30",
@@ -258,26 +158,6 @@
     "title": "RESOLUÇÃO CGIBS Nº 14, DE 29 DE JULHO DE 2026",
     "summary": "Publicação normativa oficial do Comitê Gestor do IBS.",
     "url": "https://www.cgibs.gov.br/upload/arquivos/202607/31144942-resoluc-ao-cgibs-n-14-de-29-de-julho-de-2026-proposta-percentual-ibs-cgibs-2027.pdf"
-  },
-  {
-    "date": "2026-07-27",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal e Comitê Gestor do IBS divulgarão cronograma para emissão dos documentos fiscais eletrônicos da Reforma Tributária",
-    "summary": "Institucional Cronograma tem o objetivo de informar contribuintes, profissionais da área fiscal e desenvolvedores de sistemas sobre os prazos de adaptação às novas exigências relacionadas à CBS e ao IBS. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-divulgarao-cronograma-para-emissao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria"
-  },
-  {
-    "date": "2026-07-27",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Curso sobre a Reforma Tributária do Consumo aborda regimes diferenciados e específicos",
-    "summary": "Institucional Na próxima terça-feira (28), às 9h, será realizado o 10º módulo do curso Reforma Tributária do Consumo, com o tema “Regimes Diferenciados e Específicos”. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/curso-sobre-a-reforma-tributaria-do-consumo-aborda-regimes-diferenciados-e-especificos"
   },
   {
     "date": "2026-07-22",

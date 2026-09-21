@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:01:29+00:00",
+  "updated_at": "2026-09-21T20:09:20+00:00",
   "sources": [
     {
       "name": "Receita Federal — Agenda Tributária",
@@ -13,7 +13,7 @@
       "level": "official",
       "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/noticias",
       "description": "Notícias e orientações oficiais sobre a Reforma Tributária do Consumo.",
-      "status": "ok"
+      "status": "error"
     },
     {
       "name": "CGIBS — Comitê Gestor do IBS",

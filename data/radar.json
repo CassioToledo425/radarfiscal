@@ -94,16 +94,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita, CFC, Sebrae e Fenacon anunciam força-tarefa com orientações sobre Reforma Tributária 18/09/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79493/reforma-tributaria-entidades-criam-forca-tarefa-para-preparar-empresas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Extinção de débitos na Reforma Tributária: impactos para empresas 18/09/2026 18:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79489/os-mecanismos-de-extincao-dos-debitos-na-reforma-tributaria/",
@@ -167,46 +157,6 @@
     "title": "18 de setembro de 2026 Coletiva de imprensa nesta sexta-feira apresenta força-tarefa de orientação sobre a Reforma Tributária",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/coletiva-de-imprensa-nesta-sexta-feira-apresenta-forca-tarefa-de-orientacao-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige revisão de contratos entre empresas e escritórios de contabilidade 17/09/2026 16:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79483/reforma-tributaria-como-adaptar-contratos-de-escritorios-contabeis/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO SELETIVO “Temos que ter cuidado com alíquota do IS”, diz subprocurador da PGFN 17/09/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79482/pgfn-alerta-sobre-aliquota-do-imposto-seletivo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONTENCIOSO TRIBUTÁRIO Procuradorias estruturam painel de controle de ações judiciais 17/09/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79487/procuradorias-criam-painel-para-acoes-tributarias/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONTENCIOSO FISCAL Mediação e arbitragem tributária ganham espaço no Brasil 17/09/2026 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79478/mediacao-e-arbitragem-tributaria-no-ctn-o-que-muda/",
     "category": "Radar fiscal"
   },
   {
@@ -301,6 +251,16 @@
   },
   {
     "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTÁRIO Receita estende regra que pode zerar Adicional da CSLL de multinacionais Hoje 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79561/adicional-da-csll-receita-estende-regra-de-transicao-ate-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -317,6 +277,16 @@
     "title": "SIMPLES NACIONAL Simples Nacional permitirá rever opção pelo IBS e CBS após definição da alíquota Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79524/simples-nacional-podera-rever-escolha-sobre-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Modelo de negócio deve ser principal critério para escolha do Simples Nacional híbrido; entenda Hoje 16:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79564/simples-hibrido-modelo-de-negocio-orienta-escolha/",
     "category": "Radar fiscal"
   },
   {
@@ -437,6 +407,16 @@
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DIREITO TRIBUTÁRIO Carf afasta prescrição intercorrente em caso sobre interposição fraudulenta Hoje 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79557/carf-afasta-prescricao-em-caso-de-interposicao-fraudulenta/",
     "category": "Radar fiscal"
   },
   {

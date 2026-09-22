@@ -31,6 +31,16 @@
   },
   {
     "date": "2026-09-20",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "FRAUDE TRIBUTÁRIA Operação Pay Back apura esquema com falsos comprovantes de pagamentos tributários 20/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79463/contador-e-investigado-por-fraude-tributaria-milionaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-20",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -194,16 +204,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CONTENCIOSO TRIBUTÁRIO Mediação e arbitragem tributária: o papel da prova contábil na nova fase do CTN 17/09/2026 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79479/arbitragem-e-mediacao-tributaria-o-papel-da-contabilidade/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "CONTENCIOSO FISCAL Mediação e arbitragem tributária ganham espaço no Brasil 17/09/2026 18:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79478/mediacao-e-arbitragem-tributaria-no-ctn-o-que-muda/",
@@ -247,16 +247,6 @@
     "title": "15 de setembro de 2026 Reforma Tributária: talvez a maior oportunidade não esteja nos impostos",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/reforma-tributaria-talvez-a-maior-oportunidade-nao-esteja-nos-impostos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-15",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "15 de setembro de 2026 Receita Federal publica nova documentação técnica das APIs de apuração da CBS",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-da-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -304,7 +294,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTÁRIO STJ STJ mantém CPRB na base do PIS e da Cofins Hoje 18:00",
+    "title": "TRIBUTÁRIO STJ STJ mantém CPRB na base do PIS e da Cofins Ontem 18:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79513/stj-decide-sobre-cprb-na-base-do-pis-e-cofins-o-que-muda/",
     "category": "Radar fiscal"
@@ -314,9 +304,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "São Luís sediará o 16º módulo do curso sobre Reforma Tributária do Consumo",
-    "summary": "O Conselho Federal de Contabilidade (CFC) e a Receita Federal do Brasil (RFB) promovem o 16º módulo do curso sobre Reforma Tributária do Consumo (RTC) na próxima quarta-feira (9), às 9h. O Estado do Maranhão será o anfitrião da edição, que abordará combustíveis e energia elétrica no novo regime de tributação. A apresen",
-    "url": "https://cfc.org.br/noticias/sao-luis-sediara-o-16o-modulo-do-curso-sobre-reforma-tributaria-do-consumo/",
+    "title": "Seminário sobre a Reforma Tributária – presencial em Itabuna/BA",
+    "summary": "Palestrantes: Jessika Frizzo; Psicóloga Lara Paulina Ferraz Fernandes; Eldon Muniz; Thales Sena; Leia mais Sem categoria 22 setembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/seminario-sobre-a-reforma-tributaria-presencial-em-itabuna-ba/",
     "category": "Radar fiscal"
   },
   {
@@ -324,7 +314,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional permitirá rever opção pelo IBS e CBS após definição da alíquota Hoje 09:00",
+    "title": "SIMPLES NACIONAL Simples Nacional permitirá rever opção pelo IBS e CBS após definição da alíquota Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79524/simples-nacional-podera-rever-escolha-sobre-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -341,10 +331,30 @@
   },
   {
     "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "SEMINÁRIO REFORMA TRIBUTÁRIA NA PRÁTICA",
+    "summary": "Palestrantes: Gustavo Breitenbach; Ulysses Areas; Diogo Chamun; Vanessa Assis; Márcio Damasceno Leia mais Sem categoria 22 setembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/seminario-reforma-tributaria-na-pratica/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Reforma Tributária na Prática: Impactos, Transição e Preparação das Empresas – presencial em Camaçari/BA",
+    "summary": "Palestrante: Renata Cruz Leia mais Sem categoria 22 setembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/reforma-tributaria-na-pratica-impactos-transicao-e-preparacao-das-empresas-presencial-em-camacari-ba/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Parte relevante das empresas ainda não avançou na adaptação à Reforma Tributária Hoje 16:00",
+    "title": "REFORMA TRIBUTÁRIA Parte relevante das empresas ainda não avançou na adaptação à Reforma Tributária Ontem 16:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79537/empresas-ainda-avancam-pouco-na-adaptacao-a-reforma-tributaria/",
     "category": "Radar fiscal"
@@ -354,7 +364,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA O fornecedor mais barato continuará sendo a melhor escolha com a reforma tributária? Hoje 19:30",
+    "title": "REFORMA TRIBUTÁRIA O fornecedor mais barato continuará sendo a melhor escolha com a reforma tributária? Ontem 19:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79519/creditos-da-reforma-tributaria-reduza-custos-ao-escolher-fornecedores/",
     "category": "Radar fiscal"
@@ -364,7 +374,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Cooperativas têm até 31 de outubro para optar por regime específico de IBS e CBS Hoje 09:30",
+    "title": "REFORMA TRIBUTÁRIA Cooperativas têm até 31 de outubro para optar por regime específico de IBS e CBS Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79525/cooperativas-tem-ate-31-de-outubro-para-optar-por-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -374,29 +384,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA A empresa que ainda está discutindo alíquota está olhando para o problema errado Hoje 17:30",
+    "title": "REFORMA TRIBUTÁRIA A empresa que ainda está discutindo alíquota está olhando para o problema errado Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79511/reforma-tributaria-alem-da-aliquota-sua-operacao-esta-pronta/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Nordeste recebe mais uma etapa do curso sobre a Reforma Tributária",
-    "summary": "A cidade de João Pessoa será a anfitriã do próximo módulo do curso da Reforma Tributária do Consumo (RTC), que abordará o tema Imposto Seletivo. A 17ª edição da capacitação acontece no dia 15 de setembro, às 9h, com transmissão pelo canal do Conselho Federal de Contabilidade no YouTube. O assunto será apresentado pelos",
-    "url": "https://cfc.org.br/noticias/nordeste-recebe-mais-uma-etapa-do-curso-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Maranhão recebe discussões sobre a Reforma Tributária",
-    "summary": "São Luís/MA recebeu o 16º módulo do curso sobre a Reforma Tributária do Consumo (RTC), que abordou o tema Combustíveis e Energia Elétrica no contexto do novo sistema tributário nacional. A atividade aconteceu na manhã desta quarta-feira (9), com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTu",
-    "url": "https://cfc.org.br/noticias/maranhao-recebe-discussoes-sobre-a-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {
@@ -404,9 +394,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "INCENTIVOS FISCAIS Redata: novo regime tributário para data centers já está valendo Hoje 14:30",
+    "title": "INCENTIVOS FISCAIS Redata: novo regime tributário para data centers já está valendo Ontem 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79538/redata-novo-regime-tributario-para-data-centers-ja-vale/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO DE RENDA Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta quarta-feira (23) Hoje 09:05",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79550/receita-abre-consulta-ao-lote-residual-do-irpf-2026/",
     "category": "Radar fiscal"
   },
   {
@@ -434,16 +434,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "FRAUDE TRIBUTÁRIA Operação Pay Back apura esquema com falsos comprovantes de pagamentos tributários Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79463/contador-e-investigado-por-fraude-tributaria-milionaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
@@ -454,9 +444,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para Todos em Mauá e Ribeirão Pires apresenta: REFORMA TRIBUTÁRIA: Diminuição do mecanismo de substituição tributária do ICMS e implementação gradual do IBS (Imposto sobre bens e serviços).",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: Diminuição do mecanismo de substituição tributária do ICMS e implementação gradual do IBS (Imposto sobre bens e serviços). Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-maua-e-ribeirao-pires-apresenta-reforma-tributaria-diminuicao-do-mecanismo-de-substituicao-tributaria-do-icms-e-implementacao-gradual-do-ibs-imposto-sobre-bens-e-servicos/",
+    "title": "Comissão da Reforma Tributária apresenta: Simples Nacional: Híbrido ou Normal. Vamos conversar com exemplos de simulação?",
+    "summary": "Programa: Comissão da Reforma Tributária: Simples Nacional - Regime Simples ou Híbrido? Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ANA LUCIA CORSINO PICAO Contadora, Vice-Coordenadora da Comissão de Educação Profissional Continuad",
+    "url": "https://cfc.org.br/eventoscfc/comissao-da-reforma-tributaria-apresenta-simples-nacional-hibrido-ou-normal-vamos-conversar-com-exemplos-de-simulacao/",
     "category": "Radar fiscal"
   },
   {
@@ -464,9 +454,19 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Cotia e Embu das Artes apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
+    "title": "CRCSP para TODOS em Ubatuba apresenta: Reforma Tributária: Não cumulatividade, Simples Nacional e principais impactos a serem observados na formação de preço dos produtos e serviços pelas empresas.",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Reforma Tributária: Não cumulatividade, Simples Nacional e principais impactos a serem observados na formação de preço dos produtos e serviços pelas empresas Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs,",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-ubatuba-apresenta-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servicos-pelas-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "CRCSP para TODOS em Cosmópolis e Pedreira apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
     "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ARNOBIO ",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-cotia-e-embu-das-artes-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-cosmopolis-e-pedreira-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
     "category": "Radar fiscal"
   },
   {
@@ -474,9 +474,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Boituva e Porto Feliz apresenta: REFORMA TRIBUTÁRIA: Não cumulatividade e fornecedores, Split payment, Apuração Assistida, Cruzamentos e responsabilidade do Profissional de Contabilidade",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: Não cumulatividade e fornecedores, Split payment, Apuração Assistida, Cruzamentos e responsabilidade do Profissional de Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Est",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-boituva-e-porto-feliz-apresenta-reforma-tributaria-nao-cumulatividade-e-fornecedores-split-payment-apuracao-assistida-cruzamentos-e-responsabilidade-do-profissional-de-contabi/",
+    "title": "CRCSP em TODOS em Caraguatatuba e São Sebastião apresenta: REFORMA TRIBUTÁRIA: Não Cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas empresas.",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: Não Cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas empresas Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs,",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-todos-em-caraguatatuba-e-sao-sebastiao-apresenta-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servico/",
     "category": "Radar fiscal"
   },
   {
@@ -484,29 +484,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP em parceria com a OAB-SP apresenta: Casos Práticos “Contencioso da Reforma Tributária no Comércio Exterior”",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1.Tipos de Contencioso Tributário 2.Serviços prestados no contencioso administrativo a. Defesa contra autuações fiscais; b. Recursos em órgãos administrativos; c. Consultoria em procedimentos administrativos; 3. Serviços prestados",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-a-oab-sp-apresenta-casos-praticos-contencioso-da-reforma-tributaria-no-comercio-exterior/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP em Piracicaba apresenta: SEMINÁRIO Reforma Tributária: Não cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas Empresas.",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: SEMINÁRIO Reforma Tributária: Não cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas Empresas. Público Alvo: Profissionais da Contabilidade com registro ati",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-piracicaba-apresenta-seminario-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servicos-pelas-empresas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP em Araçatuba apresenta: SEMINÁRIO Reforma Tributária sob controle: Riscos, Processos e Conformidade na virada para 2027",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: SEMINÁRIO Reforma Tributária sob controle: Riscos, Processos e Conformidade na virada para 2027 Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: L",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-aracatuba-apresenta-seminario-reforma-tributaria-sob-controle-riscos-processos-e-conformidade-na-virada-para-2027/",
+    "title": "CRCSP em Campinas apresenta: SEMINÁRIO – REFORMA TRIBUTÁRIA: Não Cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas empresas.",
+    "summary": "Programa: SEMINÁRIO - REFORMA TRIBUTÁRIA: Não Cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas empresas Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: DOUGLAS",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-campinas-apresenta-seminario-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servicos-pelas-empresas/",
     "category": "Radar fiscal"
   },
   {
@@ -527,6 +507,36 @@
     "title": "Aviso de Pauta: CFC, Receita Federal, Sebrae e Fenacon anunciam força-tarefa para orientar sobre a Reforma Tributária",
     "summary": "O Conselho Federal de Contabilidade (CFC), a Receita Federal do Brasil, o Sebrae e a Fenacon anunciam, nesta sexta-feira (18), uma força-tarefa conjunta para ampliar o acesso a informações confiáveis, combater a desinformação e apoiar a adaptação às novas regras. A iniciativa será apresentada durante coletiva de impren",
     "url": "https://cfc.org.br/noticias/aviso-de-pauta-cfc-receita-federal-sebrae-e-fenacon-anunciam-forca-tarefa-para-orientar-sobre-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Artigo – Presidente do CFC destaca papel da contabilidade no aperfeiçoamento da Reforma Tributária",
+    "summary": "O papel estratégico dos profissionais da contabilidade na implementação e no aperfeiçoamento da Reforma Tributária é destaque em artigo do presidente do Conselho Federal de Contabilidade (CFC), Joaquim Bezerra, publicado pelo Congresso em Foco. No texto, ele ressalta que a experiência de quem acompanha de perto a reali",
+    "url": "https://cfc.org.br/noticias/artigo-presidente-do-cfc-destaca-papel-da-contabilidade-no-aperfeicoamento-da-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "AUDITORIA RFB Receita coloca 10,1 mil PER/DCOMP de PIS e Cofins sob auditoria específica Hoje 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79546/receita-auditara-10-1-mil-per-dcomp-de-pis-e-cofins/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ARRECADAÇÃO FEDERAL Arrecadação federal de agosto é divulgada pela Receita Federal nesta terça-feira (22) Hoje 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79547/receita-divulga-arrecadacao-federal-de-agosto-as-11h/",
     "category": "Radar fiscal"
   }
 ]

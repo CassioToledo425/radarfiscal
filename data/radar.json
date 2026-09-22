@@ -84,49 +84,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: NFS-e autorizada sem IBS e CBS poderá ficar em desconformidade 18/09/2026 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79499/nfs-e-sem-ibs-e-cbs-entenda-a-desconformidade/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Extinção de débitos na Reforma Tributária: impactos para empresas 18/09/2026 18:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79489/os-mecanismos-de-extincao-dos-debitos-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Comitê Gestor autoriza reforço emergencial de servidores para cumprir cronograma do IBS 18/09/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79492/comite-gestor-amplia-forca-de-trabalho-para-implementar-ibs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONSELHO FEDERAL CONTABILIDADE Plenária do CFC reúne avanços em fiscalização, tecnologia, qualificação e valorização da profissão 18/09/2026 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79508/plenaria-do-cfc-destaca-fiscalizacao-tecnologia-e-qualificacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTES SINIEF Confaz publica 13 Ajustes Sinief com alterações em documentos fiscais 18/09/2026 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79502/documentos-fiscais-confaz-publica-13-novos-ajustes-sinief/",
     "category": "Radar fiscal"
   },
   {
@@ -227,16 +187,6 @@
     "title": "8 de setembro de 2026 Receita Federal e PGFN publicam novo edital de transação para controvérsia sobre IRRF de investidores não residentes",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/receita-federal-e-pgfn-publicam-novo-edital-de-transacao-para-controversia-sobre-irrf-de-investidores-nao-residentes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Último módulo do curso sobre a Reforma Tributária acontece na próxima semana",
-    "summary": "Após quatro meses de capacitação, o curso sobre a Reforma Tributária do Consumo (RTC) chega ao último módulo. O assunto que fecha a sequência de 18 edições é “Temas complementares e aplicação prática (casos especiais)”. O evento acontece na próxima terça-feira (22), na modalidade virtual, com transmissão pelo canal do ",
-    "url": "https://cfc.org.br/noticias/ultimo-modulo-do-curso-sobre-a-reforma-tributaria-acontece-na-proxima-semana/",
     "category": "Radar fiscal"
   },
   {
@@ -364,6 +314,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "JURISPRUDÊNCIA TRIBUTÁRIA Precedentes tributários na rotina do contador Hoje 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79551/parecer-tributario-o-guia-para-entender-julgamentos-judiciais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "INCENTIVOS FISCAIS Redata: novo regime tributário para data centers já está valendo Ontem 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79538/redata-novo-regime-tributario-para-data-centers-ja-vale/",
@@ -374,9 +334,29 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "INCENTIVO FISCAL Redata suspende tributos para equipamentos de data centers por até cinco anos Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79543/governo-sanciona-redata-desoneracao-para-datacenters/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "IMPOSTO DE RENDA Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta quarta-feira (23) Hoje 09:05",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79550/receita-abre-consulta-ao-lote-residual-do-irpf-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ICMS STF analisa ICMS sobre energia e benefício fiscal nas Áreas de Livre Comércio Hoje 16:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79565/stf-analisa-icms-sobre-energia-e-areas-de-livre-comercio/",
     "category": "Radar fiscal"
   },
   {
@@ -431,6 +411,16 @@
   },
   {
     "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CRÉDITOS TRIBUTÁRIOS STF mantém limite para compensação de créditos tributários judiciais Hoje 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79568/stf-limites-na-compensacao-de-creditos-tributarios-judiciais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -477,6 +467,16 @@
     "title": "CONTRIBUA CONOSCO Compartilhe seu conhecimento para visitantes todos os dias. ENTENDA MAIS",
     "summary": "Sobre Sobre « Voltar Regras Ajuda Anuncie Contato Conheça o nosso Portal O portal contábeis é feito para profissionais como você, que procuram informação de qualidade e uma comunidade ativa e pronta para discutir, opinar e participar de tudo o que envolve o mundo contábil.",
     "url": "https://www.contabeis.com.br/conteudo/tributario",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "CFC, RFB e Fenacon apresentam último módulo do curso sobre Reforma Tributária",
+    "summary": "O Dia do Contador foi marcado pela conclusão do curso sobre a Reforma Tributária do Consumo (RTC). Realizado na manhã desta terça-feira (22), o último módulo da capacitação abordou “Temas complementares e aplicação prática (casos especiais)”. O evento foi transmitido pelo canal do Conselho Federal de Contabilidade (CFC",
+    "url": "https://cfc.org.br/noticias/cfc-rfb-e-fenacon-apresentam-ultimo-modulo-do-curso-sobre-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {

@@ -21,46 +21,6 @@
   },
   {
     "date": "2026-09-21",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTÁRIO STJ STJ mantém CPRB na base do PIS e da Cofins 21/09/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79513/stj-decide-sobre-cprb-na-base-do-pis-e-cofins-o-que-muda/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-21",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Parte relevante das empresas ainda não avançou na adaptação à Reforma Tributária 21/09/2026 16:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79537/empresas-ainda-avancam-pouco-na-adaptacao-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-21",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA O fornecedor mais barato continuará sendo a melhor escolha com a reforma tributária? 21/09/2026 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79519/creditos-da-reforma-tributaria-reduza-custos-ao-escolher-fornecedores/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-21",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA A empresa que ainda está discutindo alíquota está olhando para o problema errado 21/09/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79511/reforma-tributaria-alem-da-aliquota-sua-operacao-esta-pronta/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-21",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -254,6 +214,56 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Split Payment 2027 começa de forma facultativa Hoje 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79610/split-payment-2027-impactos-e-o-que-sua-empresa-deve-fazer/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: o que mudou no MEI, ME, EPP e Nanoempreendedor Hoje 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79621/reforma-tributaria-o-que-mudou-no-mei-me-epp-e-nanoempreendedor/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Projeções para Benefícios Fiscais em Santa Catarina Hoje 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79613/ttd-santa-catarina-reforma-tributaria-muda-prazo-e-compensacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Cooperativas de Transportes Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79609/reforma-tributaria-prazo-crucial-para-cooperativas-de-transporte/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Empresas podem conhecer alíquota definitiva da CBS apenas 16 dias antes do início da cobrança plena Hoje 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79592/aliquota-cbs-prazo-apertado-e-impacto-nas-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "PIS E COFINS Receita nega crédito de PIS e Cofins sobre energia que empresa gera e consome Hoje 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79597/energia-autogerada-nao-gera-credito-de-pis-e-cofins-diz-receita/",
@@ -307,16 +317,6 @@
     "title": "IMPOSTO DE RENDA Receita Federal abre hoje (23) lote residual de restituição do IRPF 2026 Hoje 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79591/receita-libera-hoje-23-lote-residual-do-irpf-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO DE RENDA Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta quarta-feira (23) Ontem 09:05",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79550/receita-abre-consulta-ao-lote-residual-do-irpf-2026/",
     "category": "Radar fiscal"
   },
   {
@@ -477,16 +477,6 @@
     "title": "Artigo – Presidente do CFC destaca papel da contabilidade no aperfeiçoamento da Reforma Tributária",
     "summary": "O papel estratégico dos profissionais da contabilidade na implementação e no aperfeiçoamento da Reforma Tributária é destaque em artigo do presidente do Conselho Federal de Contabilidade (CFC), Joaquim Bezerra, publicado pelo Congresso em Foco. No texto, ele ressalta que a experiência de quem acompanha de perto a reali",
     "url": "https://cfc.org.br/noticias/artigo-presidente-do-cfc-destaca-papel-da-contabilidade-no-aperfeicoamento-da-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AUDITORIA RFB Receita coloca 10,1 mil PER/DCOMP de PIS e Cofins sob auditoria específica Ontem 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79546/receita-auditara-10-1-mil-per-dcomp-de-pis-e-cofins/",
     "category": "Radar fiscal"
   },
   {

@@ -43,13 +43,16 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Validar coletores
-        run: python -m py_compile scripts/fetch_agenda.py scripts/fetch_news.py
+        run: python -m py_compile scripts/fetch_agenda.py scripts/fetch_news.py scripts/fetch_split_payment.py
 
       - name: Atualizar agenda tributária
         run: python scripts/fetch_agenda.py
 
       - name: Atualizar notícias e fontes
         run: python scripts/fetch_news.py
+
+      - name: Atualizar Split Payment
+        run: python scripts/fetch_split_payment.py
 
       - name: Salvar dados no repositório
         run: |

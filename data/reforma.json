@@ -54,10 +54,10 @@
     "source": "Receita Federal",
     "level": "official",
     "kind": "update",
-    "kind_label": "Atualização",
+    "kind_label": "DeRE",
     "title": "DeRE - Receita Federal publica versão 1.2.0 da documentação técnica da DeRE",
-    "summary": "Serviços Pacote técnico inclui leiautes dos eventos transacionais, controle de deduções e reabertura de competência; atualização do Manual do Usuário será disponibilizada em breve.",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/dere-receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-dere"
+    "summary": "Pacote técnico inclui leiautes dos eventos transacionais, controle de deduções e reabertura de competência.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/dere-receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-dere/"
   },
   {
     "date": "2026-09-01",

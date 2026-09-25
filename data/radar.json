@@ -11,6 +11,116 @@
   },
   {
     "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Simples Nacional: quase 120 mil pedidos são indeferidos, mas empresas ainda podem regularizar 23/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79586/simples-quase-120-mil-pedidos-sao-indeferidos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REGULARIDADE FISCAL São Paulo passará a emitir Certidão Única de Débitos a partir de outubro 23/09/2026 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79598/sp-tera-certidao-unica-de-debitos-a-partir-de-outubro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Split Payment 2027 começa de forma facultativa 23/09/2026 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79610/split-payment-2027-impactos-e-o-que-sua-empresa-deve-fazer/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: o que mudou no MEI, ME, EPP e Nanoempreendedor 23/09/2026 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79621/reforma-tributaria-o-que-mudou-no-mei-me-epp-e-nanoempreendedor/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Projeções para Benefícios Fiscais em Santa Catarina 23/09/2026 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79613/ttd-santa-catarina-reforma-tributaria-muda-prazo-e-compensacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Cooperativas de Transportes 23/09/2026 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79609/reforma-tributaria-prazo-crucial-para-cooperativas-de-transporte/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Empresas podem conhecer alíquota definitiva da CBS apenas 16 dias antes do início da cobrança plena 23/09/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79592/aliquota-cbs-prazo-apertado-e-impacto-nas-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS E COFINS Receita nega crédito de PIS e Cofins sobre energia que empresa gera e consome 23/09/2026 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79597/energia-autogerada-nao-gera-credito-de-pis-e-cofins-diz-receita/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IPI E CARF Decisão obtida por importadora não afasta IPI devido pelo adquirente, decide Carf 23/09/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79594/carf-mantem-cobranca-de-ipi-contra-adquirente-em-importacao-por-conta-e-ordem/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO DE RENDA Receita Federal abre hoje (23) lote residual de restituição do IRPF 2026 23/09/2026 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79591/receita-libera-hoje-23-lote-residual-do-irpf-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "BALANÇO Receita Federal registra mais de 346 mil solicitações pelo Simples Nacional e IBS/CBS 23/09/2026 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79587/divulgado-balanco-de-opcoes-pelo-simples-e-regime-regular-do-ibs-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-23",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -47,6 +157,16 @@
     "title": "21 de setembro de 2026 Reforma tributária zera o IBS e o CBS para cooperativas",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-zera-o-ibs-e-o-cbs-para-cooperativas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-21",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "21 de setembro de 2026 Receita Federal atualiza regras para tributação de serviços hospitalares no Lucro Presumido",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/receita-federal-atualiza-regras-para-tributacao-de-servicos-hospitalares-no-lucro-presumido/",
     "category": "Radar fiscal"
   },
   {
@@ -114,16 +234,6 @@
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
-    "title": "17 de setembro de 2026 Último módulo do curso sobre a Reforma Tributária acontece na próxima semana",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/ultimo-modulo-do-curso-sobre-a-reforma-tributaria-acontece-na-proxima-semana/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
     "title": "17 de setembro de 2026 Novo cálculo da receita bruta apurada no Simples Nacional",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/novo-calculo-da-receita-bruta-apurada-no-simples-nacional/",
@@ -154,7 +264,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTÁRIO Créditos presumidos de ICMS não sofrem PIS/Pasep e Cofins no regime cumulativo, afirma Receita Hoje 16:00",
+    "title": "TRIBUTÁRIO Créditos presumidos de ICMS não sofrem PIS/Pasep e Cofins no regime cumulativo, afirma Receita Ontem 16:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79635/receita-afasta-pis-e-cofins-sobre-credito-de-icms/",
     "category": "Radar fiscal"
@@ -164,7 +274,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO MÍNIMA Receita Federal regulamenta regra para incentivos fiscais no cálculo do imposto mínimo global Hoje 11:30",
+    "title": "TRIBUTAÇÃO MÍNIMA Receita Federal regulamenta regra para incentivos fiscais no cálculo do imposto mínimo global Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79629/receita-regulamenta-regra-para-incentivos-fiscais-de-multinacionais/",
     "category": "Radar fiscal"
@@ -184,17 +294,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional: quase 120 mil pedidos são indeferidos, mas empresas ainda podem regularizar Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79586/simples-quase-120-mil-pedidos-sao-indeferidos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional e novo prazo para desenquadramento voluntário do regime Hoje 10:30",
+    "title": "SIMPLES NACIONAL Simples Nacional e novo prazo para desenquadramento voluntário do regime Ontem 10:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79634/simples-nacional-e-novo-prazo-para-desenquadramento-voluntario-do-regime/",
     "category": "Radar fiscal"
@@ -231,12 +331,12 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
+    "source": "CFC",
+    "level": "institutional",
     "kind": "update",
-    "title": "REGULARIDADE FISCAL São Paulo passará a emitir Certidão Única de Débitos a partir de outubro Ontem 15:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79598/sp-tera-certidao-unica-de-debitos-a-partir-de-outubro/",
+    "title": "Reforma Tributária e informações financeiras sobre sustentabilidade compõem a programação do XXIII Seminário Internacional FACPCS",
+    "summary": "A programação para o XXIII Seminário Internacional da Fundação de Apoio aos Comitês de Pronunciamentos Contábeis e de Sustentabilidade (FACPCS) já está disponível. Serão dois dias de atividades, distribuídas entre palestras, painéis e masterclasses. O evento híbrido ocorre nos dias 14 e 15 de outubro, no Conselho Regio",
+    "url": "https://cfc.org.br/internacional/reforma-tributaria-e-divulgacoes-de-informacoes-financeiras-sobre-sustentabilidade-compoem-a-programacao-do-xxiii-seminario-internacional-facpcs/",
     "category": "Radar fiscal"
   },
   {
@@ -244,7 +344,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Só 2% escolheram o regime híbrido. O que isso revela? Hoje 13:30",
+    "title": "REFORMA TRIBUTÁRIA Só 2% escolheram o regime híbrido. O que isso revela? Ontem 13:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79642/regime-hibrido-por-que-so-2-fizeram-a-escolha/",
     "category": "Radar fiscal"
@@ -254,47 +354,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split Payment 2027 começa de forma facultativa Ontem 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79610/split-payment-2027-impactos-e-o-que-sua-empresa-deve-fazer/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: o que mudou no MEI, ME, EPP e Nanoempreendedor Ontem 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79621/reforma-tributaria-o-que-mudou-no-mei-me-epp-e-nanoempreendedor/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Projeções para Benefícios Fiscais em Santa Catarina Ontem 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79613/ttd-santa-catarina-reforma-tributaria-muda-prazo-e-compensacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Cooperativas de Transportes Ontem 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79609/reforma-tributaria-prazo-crucial-para-cooperativas-de-transporte/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita e Comitê Gestor do IBS aprovam procedimentos para split payment Hoje 09:00",
+    "title": "REFORMA TRIBUTÁRIA Receita e Comitê Gestor do IBS aprovam procedimentos para split payment Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79626/receita-e-cggibs-aprovam-procedimentos-para-o-split-payment/",
     "category": "Radar fiscal"
@@ -304,7 +364,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA RAD na Reforma Tributária: como o recolhimento pelo adquirente protege seus créditos de IBS e CBS Hoje 19:30",
+    "title": "REFORMA TRIBUTÁRIA RAD na Reforma Tributária: como o recolhimento pelo adquirente protege seus créditos de IBS e CBS Ontem 19:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79649/rad-protecao-de-credito-na-reforma-tributaria/",
     "category": "Radar fiscal"
@@ -314,7 +374,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Erros na nota fiscal podem comprometer créditos da CBS e pressionar o caixa em 2027 Hoje 20:00",
+    "title": "REFORMA TRIBUTÁRIA Erros na nota fiscal podem comprometer créditos da CBS e pressionar o caixa em 2027 Ontem 20:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79650/credito-cbs-receita-libera-ferramentas-para-evitar-perdas/",
     "category": "Radar fiscal"
@@ -324,17 +384,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresas podem conhecer alíquota definitiva da CBS apenas 16 dias antes do início da cobrança plena Ontem 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79592/aliquota-cbs-prazo-apertado-e-impacto-nas-empresas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Crédito fiscal de IBS e CBS muda a formação de preços Hoje 19:00",
+    "title": "REFORMA TRIBUTÁRIA Crédito fiscal de IBS e CBS muda a formação de preços Ontem 19:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79641/credito-fiscal-ibs-e-cbs-impacto-na-formacao-de-precos/",
     "category": "Radar fiscal"
@@ -344,7 +394,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS/COFINS Produtoras de etanol devem pedir habilitação de créditos de PIS/Cofins até 4 de outubro Hoje 10:00",
+    "title": "PIS/COFINS Produtoras de etanol devem pedir habilitação de créditos de PIS/Cofins até 4 de outubro Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79624/produtoras-de-etanol-tem-ate-4-de-outubro-para-habilitar-creditos/",
     "category": "Radar fiscal"
@@ -354,39 +404,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS E COFINS Receita nega crédito de PIS e Cofins sobre energia que empresa gera e consome Ontem 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79597/energia-autogerada-nao-gera-credito-de-pis-e-cofins-diz-receita/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL Silêncio do destinatário produz efeitos de confirmação da NF-e após 90 dias Hoje 14:00",
+    "title": "NOTA FISCAL Silêncio do destinatário produz efeitos de confirmação da NF-e após 90 dias Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79630/nf-e-sem-manifestacao-operacao-e-confirmada-apos-90-dias/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IPI E CARF Decisão obtida por importadora não afasta IPI devido pelo adquirente, decide Carf Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79594/carf-mantem-cobranca-de-ipi-contra-adquirente-em-importacao-por-conta-e-ordem/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO DE RENDA Receita Federal abre hoje (23) lote residual de restituição do IRPF 2026 Ontem 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79591/receita-libera-hoje-23-lote-residual-do-irpf-2026/",
     "category": "Radar fiscal"
   },
   {
@@ -414,7 +434,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "EFD-REINF Sped substitui arquivos da EFD-Reinf após ajuste no identificador dos eventos Hoje 09:30",
+    "title": "EFD-REINF Sped substitui arquivos da EFD-Reinf após ajuste no identificador dos eventos Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79625/efd-reinf-atualiza-xsd-2-1-2-e-amplia-validacao-dos-eventos/",
     "category": "Radar fiscal"
@@ -427,6 +447,16 @@
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DECOMPLICANDO TRIBUTOS Créditos de PIS e Cofins: o que acontece com a chegada da CBS? Hoje 10:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79664/creditos-de-pis-e-cofins-o-que-acontece-com-a-chegada-da-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -497,26 +527,6 @@
     "title": "CFC, RFB e Fenacon apresentam último módulo do curso sobre Reforma Tributária",
     "summary": "O Dia do Contador foi marcado pela conclusão do curso sobre a Reforma Tributária do Consumo (RTC). Realizado na manhã desta terça-feira (22), o último módulo da capacitação abordou “Temas complementares e aplicação prática (casos especiais)”. O evento foi transmitido pelo canal do Conselho Federal de Contabilidade (CFC",
     "url": "https://cfc.org.br/noticias/cfc-rfb-e-fenacon-apresentam-ultimo-modulo-do-curso-sobre-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "BALANÇO Receita Federal registra mais de 346 mil solicitações pelo Simples Nacional e IBS/CBS Ontem 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79587/divulgado-balanco-de-opcoes-pelo-simples-e-regime-regular-do-ibs-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Aviso de Pauta: CFC, Receita Federal, Sebrae e Fenacon anunciam força-tarefa para orientar sobre a Reforma Tributária",
-    "summary": "O Conselho Federal de Contabilidade (CFC), a Receita Federal do Brasil, o Sebrae e a Fenacon anunciam, nesta sexta-feira (18), uma força-tarefa conjunta para ampliar o acesso a informações confiáveis, combater a desinformação e apoiar a adaptação às novas regras. A iniciativa será apresentada durante coletiva de impren",
-    "url": "https://cfc.org.br/noticias/aviso-de-pauta-cfc-receita-federal-sebrae-e-fenacon-anunciam-forca-tarefa-para-orientar-sobre-a-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {

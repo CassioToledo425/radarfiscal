@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="actions.css" />
   <link rel="stylesheet" href="sector.css" />
+  <link rel="stylesheet" href="split.css" />
 </head>
 <body>
   <div class="shell">
@@ -22,6 +23,7 @@
         <button class="nav-item" data-view="actions"><span>✓</span> Resumo de ações</button>
         <button class="nav-item" data-view="sector"><span>◎</span> Radar setorial</button>
         <button class="nav-item" data-view="reforma"><span>◈</span> Reforma Tributária</button>
+        <button class="nav-item" data-view="split"><span>↔</span> Split Payment</button>
         <button class="nav-item" data-view="radar"><span>⌁</span> Radar contábil</button>
         <button class="nav-item" data-view="sources"><span>●</span> Fontes & status</button>
       </nav>
@@ -161,6 +163,21 @@
         <div id="reformaFeed" class="news-feed"></div>
       </section>
 
+      <section class="view" id="view-split">
+  <div class="split-hero">
+    <div><span class="section-label">REFORMA TRIBUTÁRIA • IBS + CBS</span><h2>Radar Split Payment</h2><p>Acompanhamento da regulamentação, documentação técnica, cronograma e impactos operacionais. <strong>Status em <span id="splitUpdated">—</span>.</strong></p></div>
+    <a id="splitSource" class="soft-btn split-source" href="https://www.cgibs.gov.br/split-payment" target="_blank" rel="noopener">Fonte CGIBS ↗</a>
+  </div>
+  <div id="splitKpis" class="split-kpis"></div>
+  <div class="split-layout">
+    <article class="split-panel"><span class="section-label">MATURIDADE</span><h3>Onde estamos</h3><div id="splitStages"></div></article>
+    <article class="split-panel"><span class="section-label">DOCUMENTAÇÃO TÉCNICA</span><h3>O que já está pronto</h3><div id="splitDocs"></div></article>
+    <article class="split-panel"><span class="section-label">LINHA DO TEMPO</span><h3>Marcos oficiais</h3><div id="splitTimeline" class="split-timeline"></div></article>
+    <article class="split-panel"><span class="section-label">IMPACTO CASA DO CONSTRUTOR</span><h3>O que precisamos acompanhar</h3><div id="splitHouse" class="split-house"></div></article>
+    <article class="split-panel" style="grid-column:1/-1"><span class="section-label">PONTOS DE LEITURA</span><h3>O que ainda não devemos tratar como definitivo</h3><ul id="splitNotes" class="split-notes"></ul></article>
+  </div>
+  <p class="split-footer">Conteúdo baseado em documentação oficial RFB/CGIBS. A seção é um radar de acompanhamento e não substitui a leitura dos atos, manuais e legislação aplicáveis.</p>
+</section>
       <section class="view" id="view-radar">
         <div class="section-intro"><div><span class="section-label">PORTAIS & ENTIDADES</span><h2>Radar contábil</h2><p>Leitura complementar de portais especializados e entidades do setor, sem substituir a fonte oficial.</p></div><div class="search-wrap"><input id="radarSearch" type="search" placeholder="Buscar assunto…" /></div></div>
         <div id="radarFeed" class="news-feed"></div>
@@ -176,5 +193,6 @@
   <script src="app.js"></script>
   <script src="actions.js"></script>
   <script src="sector.js"></script>
+  <script src="split.js"></script>
 </body>
 </html>

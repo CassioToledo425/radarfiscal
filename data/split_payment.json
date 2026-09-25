@@ -4,56 +4,175 @@
   "status_label": "Em implementação",
   "summary": "A Plataforma Pública do Split Payment já possui documentação técnica aprovada para CBS e IBS. A implantação é gradual e depende dos atos que definem as hipóteses e etapas de utilização.",
   "kpis": [
-    {"label":"Documentação técnica","value":"APROVADA","tone":"ok","detail":"Ato Técnico Conjunto nº 5/2026"},
-    {"label":"Manual de Integração","value":"v1.1.1","tone":"ok","detail":"Versão atual"},
-    {"label":"OpenAPI","value":"v1.1.1","tone":"ok","detail":"Versão atual"},
-    {"label":"Obrigatoriedade geral","value":"GRADUAL","tone":"warn","detail":"Não há data única para todas as empresas"}
+    {
+      "label": "Documentação técnica",
+      "value": "APROVADA",
+      "tone": "ok",
+      "detail": "Ato Técnico Conjunto nº 5/2026"
+    },
+    {
+      "label": "Manual de Integração",
+      "value": "v1.1.1",
+      "tone": "ok",
+      "detail": "Versão atual"
+    },
+    {
+      "label": "OpenAPI",
+      "value": "v1.1.1",
+      "tone": "ok",
+      "detail": "Versão atual"
+    },
+    {
+      "label": "Obrigatoriedade geral",
+      "value": "GRADUAL",
+      "tone": "warn",
+      "detail": "Não há data única para todas as empresas"
+    }
   ],
   "stages": [
-    {"label":"Base legal","status":"ok","detail":"LC 214/2025 e regulamentação do IBS"},
-    {"label":"Regulamentação","status":"ok","detail":"Resolução CGIBS nº 6/2026 e atos conjuntos"},
-    {"label":"Arquitetura tecnológica","status":"ok","detail":"Plataforma Pública + HUB de comunicação"},
-    {"label":"APIs / OpenAPI","status":"ok","detail":"OpenAPI v1.1.1 aprovada"},
-    {"label":"Manuais","status":"ok","detail":"Operações, Integração, Tempos, Redes e Segurança"},
-    {"label":"Habilitação de participantes","status":"ok","detail":"Manual de Habilitação v1.0.0"},
-    {"label":"Implementação","status":"warn","detail":"Gradual; etapas e hipóteses dependem de regulamentação aplicável"},
-    {"label":"Obrigatoriedade para todas as empresas","status":"monitor","detail":"Não existe uma data única geral confirmada"}
+    {
+      "label": "Base legal",
+      "status": "ok",
+      "detail": "LC 214/2025 e regulamentação do IBS"
+    },
+    {
+      "label": "Regulamentação",
+      "status": "ok",
+      "detail": "Resolução CGIBS nº 6/2026 e atos conjuntos"
+    },
+    {
+      "label": "Arquitetura tecnológica",
+      "status": "ok",
+      "detail": "Plataforma Pública + HUB de comunicação"
+    },
+    {
+      "label": "APIs / OpenAPI",
+      "status": "ok",
+      "detail": "OpenAPI v1.1.1 aprovada"
+    },
+    {
+      "label": "Manuais",
+      "status": "ok",
+      "detail": "Operações, Integração, Tempos, Redes e Segurança"
+    },
+    {
+      "label": "Habilitação de participantes",
+      "status": "ok",
+      "detail": "Manual de Habilitação v1.0.0"
+    },
+    {
+      "label": "Implementação",
+      "status": "warn",
+      "detail": "Gradual; etapas e hipóteses dependem de regulamentação aplicável"
+    },
+    {
+      "label": "Obrigatoriedade para todas as empresas",
+      "status": "monitor",
+      "detail": "Não existe uma data única geral confirmada"
+    }
   ],
   "milestones": [
     {
-      "date":"2026-05-27",
-      "title":"Ato Conjunto RFB/CGIBS nº 2/2026",
-      "summary":"Autorizou a publicação do Manual de Integração e do Swagger da solução da Plataforma Pública do Split Payment.",
-      "url":"https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/legislacao/atos-conjuntos/"
+      "date": "2026-05-27",
+      "title": "Ato Conjunto RFB/CGIBS nº 2/2026",
+      "summary": "Autorizou a publicação do Manual de Integração e do Swagger da solução da Plataforma Pública do Split Payment.",
+      "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/legislacao/atos-conjuntos/"
     },
     {
-      "date":"2026-08-28",
-      "title":"Ato Técnico Conjunto nº 4/2026",
-      "summary":"Aprovou documentação técnica e procedimentos/padrões operacionais, incluindo a habilitação de participantes.",
-      "url":"https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/legislacao/atos-tecnicos-conjuntos/"
+      "date": "2026-08-28",
+      "title": "Ato Técnico Conjunto nº 4/2026",
+      "summary": "Aprovou documentação técnica e procedimentos/padrões operacionais, incluindo a habilitação de participantes.",
+      "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/legislacao/atos-tecnicos-conjuntos/"
     },
     {
-      "date":"2026-09-23",
-      "title":"Ato Técnico Conjunto nº 5/2026",
-      "summary":"Aprovou as versões atuais dos manuais de Operações, Integração, Tempos, Redes e Segurança e do documento OpenAPI, aplicáveis à CBS e ao IBS.",
-      "url":"https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/legislacao/atos-tecnicos-conjuntos/"
+      "date": "2026-09-23",
+      "title": "Ato Técnico Conjunto nº 5/2026",
+      "summary": "Aprovou as versões atuais dos manuais de Operações, Integração, Tempos, Redes e Segurança e do documento OpenAPI, aplicáveis à CBS e ao IBS.",
+      "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/legislacao/atos-tecnicos-conjuntos/"
     }
   ],
   "documents": [
-    {"name":"Manual de Operações","version":"v1.0.1","status":"Aprovado"},
-    {"name":"Manual de Integração","version":"v1.1.1","status":"Aprovado"},
-    {"name":"OpenAPI","version":"v1.1.1","status":"Aprovado"},
-    {"name":"Manual de Tempos","version":"v1.0.1","status":"Aprovado"},
-    {"name":"Manual de Redes","version":"v1.0.1","status":"Aprovado"},
-    {"name":"Manual de Segurança","version":"v1.0.0","status":"Aprovado"},
-    {"name":"Manual de Habilitação de Participantes","version":"v1.0.0","status":"Aprovado"}
+    {
+      "name": "Manual de Integração",
+      "version": "v1.1.1",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145324-split-payment-manual-de-integracao-v1-1-1.zip"
+    },
+    {
+      "name": "Manual de Operações",
+      "version": "v1.0.1",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145322-split-payment-manual-de-operacoes-v1-0-1.zip"
+    },
+    {
+      "name": "Manual de Tempos",
+      "version": "v1.0.1",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145528-split-payment-manual-de-tempos-v1-0-1.zip"
+    },
+    {
+      "name": "Manual de Segurança",
+      "version": "v1.0.0",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145320-split-payment-manual-de-seguranca-v1-0-0.zip"
+    },
+    {
+      "name": "Manual de Redes",
+      "version": "v1.0.1",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145321-split-payment-manual-de-redes-v1-0-1.zip"
+    },
+    {
+      "name": "Manual de Habilitação de Participantes",
+      "version": "v1.0.0",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145326-split-payment-manual-de-habilitacao-de-participantes-v1-0-0.zip"
+    },
+    {
+      "name": "OpenAPI",
+      "version": "v1.1.1",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24145327-split-payment-openapi-v1-1-1.zip"
+    },
+    {
+      "name": "OpenAPI",
+      "version": "v0.0.10",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202606/03172158-openapi-v0-0-10.zip"
+    },
+    {
+      "name": "OpenAPI",
+      "version": "v1.1.0",
+      "status": "Atual",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202608/24154448-openapi-v1-1-0.zip"
+    }
   ],
   "house_impact": [
-    {"title":"Locação de equipamentos","detail":"Mapear o vínculo entre NFS-e, cobrança e liquidação financeira nas operações de locação de bens móveis.","priority":"Alta"},
-    {"title":"Pix, boleto e cartão/TEF","detail":"Validar com bancos, adquirentes e PSPs como os fluxos de pagamento serão integrados ao modelo de segregação.","priority":"Alta"},
-    {"title":"Parcelamento","detail":"A segregação acompanha a liquidação financeira das parcelas; o contas a receber precisa conciliar valor bruto, tributo segregado e valor líquido.","priority":"Alta"},
-    {"title":"Inadimplência, cancelamento e estorno","detail":"Mapear os eventos de baixa, cancelamento, estorno e pagamentos parciais no ERP e na conciliação financeira.","priority":"Média"},
-    {"title":"Fluxo de caixa","detail":"Avaliar o efeito da segregação do IBS/CBS sobre o valor efetivamente disponibilizado à empresa.","priority":"Alta"}
+    {
+      "title": "Locação de equipamentos",
+      "detail": "Mapear o vínculo entre NFS-e, cobrança e liquidação financeira nas operações de locação de bens móveis.",
+      "priority": "Alta"
+    },
+    {
+      "title": "Pix, boleto e cartão/TEF",
+      "detail": "Validar com bancos, adquirentes e PSPs como os fluxos de pagamento serão integrados ao modelo de segregação.",
+      "priority": "Alta"
+    },
+    {
+      "title": "Parcelamento",
+      "detail": "A segregação acompanha a liquidação financeira das parcelas; o contas a receber precisa conciliar valor bruto, tributo segregado e valor líquido.",
+      "priority": "Alta"
+    },
+    {
+      "title": "Inadimplência, cancelamento e estorno",
+      "detail": "Mapear os eventos de baixa, cancelamento, estorno e pagamentos parciais no ERP e na conciliação financeira.",
+      "priority": "Média"
+    },
+    {
+      "title": "Fluxo de caixa",
+      "detail": "Avaliar o efeito da segregação do IBS/CBS sobre o valor efetivamente disponibilizado à empresa.",
+      "priority": "Alta"
+    }
   ],
   "notes": [
     "Split Payment não deve ser tratado como uma simples adesão voluntária da empresa. A legislação prevê implementação gradual e permite que ato conjunto estabeleça hipóteses de adoção facultativa.",
@@ -61,5 +180,20 @@
     "A documentação técnica aprovada em 23/09/2026 permite atualizações sequenciais apenas para correções de erros materiais e ajustes redacionais/formatação no terceiro componente da versão.",
     "A documentação técnica é voltada principalmente à integração de prestadores de serviços de pagamento e instituições operadoras de sistemas de pagamento com a Plataforma Pública."
   ],
-  "source_url":"https://www.cgibs.gov.br/split-payment"
+  "source_url": "https://www.cgibs.gov.br/split-payment",
+  "auto_status": "ok",
+  "auto_updates": [
+    {
+      "date": "2026-09-25",
+      "title": "OpenAPI atualizado para v1.1.0",
+      "summary": "Nova versão detectada automaticamente na página oficial do Split Payment do CGIBS.",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202608/24154448-openapi-v1-1-0.zip"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "OpenAPI atualizado para v0.0.10",
+      "summary": "Nova versão detectada automaticamente na página oficial do Split Payment do CGIBS.",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202606/03172158-openapi-v0-0-10.zip"
+    }
+  ]
 }

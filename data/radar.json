@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-09-28",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "28 de setembro de 2026 Reforma Tributária pelo Brasil chega ao Distrito Federal em 7 de outubro",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/reforma-tributaria-pelo-brasil-chega-ao-distrito-federal-em-7-de-outubro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-28",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "28 de setembro de 2026 Receita Federal esclarece regras para isenção de ganho de capital na venda de imóveis residenciais",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/receita-federal-esclarece-regras-para-isencao-de-ganho-de-capital-na-venda-de-imoveis-residenciais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-26",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Apuração assistida da Reforma Tributária: por que a escrituração no Sped não basta? 26/09/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79604/apuracao-assistida-de-ibs-e-cbs-por-que-a-escrituracao-no-sped-nao-basta/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-09-26",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NOTA FISCAL ELETRÔNICA NF-e autorizada tem erro? Veja qual procedimento usar em cada situação 26/09/2026 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79606/nf-e-autorizada-como-corrigir-erros-na-nota-fiscal-eletronica/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-09-25",
     "source": "Portal Contábeis",
     "level": "specialized",
@@ -54,29 +94,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional e novo prazo para desenquadramento voluntário do regime 24/09/2026 10:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79634/simples-nacional-e-novo-prazo-para-desenquadramento-voluntario-do-regime/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-24",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Só 2% escolheram o regime híbrido. O que isso revela? 24/09/2026 13:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79642/regime-hibrido-por-que-so-2-fizeram-a-escolha/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-24",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita e Comitê Gestor do IBS aprovam procedimentos para split payment 24/09/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79626/receita-e-cggibs-aprovam-procedimentos-para-o-split-payment/",
     "category": "Radar fiscal"
   },
   {
@@ -114,29 +134,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS/COFINS Produtoras de etanol devem pedir habilitação de créditos de PIS/Cofins até 4 de outubro 24/09/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79624/produtoras-de-etanol-tem-ate-4-de-outubro-para-habilitar-creditos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-24",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "NOTA FISCAL Silêncio do destinatário produz efeitos de confirmação da NF-e após 90 dias 24/09/2026 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79630/nf-e-sem-manifestacao-operacao-e-confirmada-apos-90-dias/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-24",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EFD-REINF Sped substitui arquivos da EFD-Reinf após ajuste no identificador dos eventos 24/09/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79625/efd-reinf-atualiza-xsd-2-1-2-e-amplia-validacao-dos-eventos/",
     "category": "Radar fiscal"
   },
   {
@@ -147,76 +147,6 @@
     "title": "24 de setembro de 2026 Receita Federal, Fenacon, CFC e Sebrae reúnem orientações para apoiar empresas na Reforma Tributária",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/receita-federal-fenacon-cfc-e-sebrae-reunem-orientacoes-para-apoiar-empresas-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REGULARIDADE FISCAL São Paulo passará a emitir Certidão Única de Débitos a partir de outubro 23/09/2026 15:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79598/sp-tera-certidao-unica-de-debitos-a-partir-de-outubro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split Payment 2027 começa de forma facultativa 23/09/2026 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79610/split-payment-2027-impactos-e-o-que-sua-empresa-deve-fazer/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: o que mudou no MEI, ME, EPP e Nanoempreendedor 23/09/2026 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79621/reforma-tributaria-o-que-mudou-no-mei-me-epp-e-nanoempreendedor/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Projeções para Benefícios Fiscais em Santa Catarina 23/09/2026 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79613/ttd-santa-catarina-reforma-tributaria-muda-prazo-e-compensacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e Cooperativas de Transportes 23/09/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79609/reforma-tributaria-prazo-crucial-para-cooperativas-de-transporte/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresas podem conhecer alíquota definitiva da CBS apenas 16 dias antes do início da cobrança plena 23/09/2026 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79592/aliquota-cbs-prazo-apertado-e-impacto-nas-empresas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS E COFINS Receita nega crédito de PIS e Cofins sobre energia que empresa gera e consome 23/09/2026 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79597/energia-autogerada-nao-gera-credito-de-pis-e-cofins-diz-receita/",
     "category": "Radar fiscal"
   },
   {
@@ -294,16 +224,6 @@
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
-    "title": "18 de setembro de 2026 NFS-e disponibiliza Perguntas e Respostas com orientações sobre a plataforma",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/nfs-e-disponibiliza-perguntas-e-respostas-com-orientacoes-sobre-a-plataforma/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
     "title": "18 de setembro de 2026 Coletiva de imprensa nesta sexta-feira apresenta força-tarefa de orientação sobre a Reforma Tributária",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/coletiva-de-imprensa-nesta-sexta-feira-apresenta-forca-tarefa-de-orientacao-sobre-a-reforma-tributaria/",
@@ -330,13 +250,13 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-09-09",
-    "source": "FENACON",
-    "level": "institutional",
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "9 de setembro de 2026 Receita Federal esclarece tributação de aluguéis recebidos em atraso",
+    "title": "TRIBUTÁRIO Dedução do PAT na CSLL: decisão do STJ abre discussão Hoje 19:00",
     "summary": "",
-    "url": "https://fenacon.org.br/noticias/receita-federal-esclarece-tributacao-de-alugueis-recebidos-em-atraso/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79693/stj-e-deducao-pat-na-csll-novas-oportunidades-fiscais/",
     "category": "Radar fiscal"
   },
   {
@@ -354,6 +274,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "SIMPLES NACIONAL MEI: opção pelo Simei continua em janeiro, mas prazo do Simples termina nesta quarta-feira (30) Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79679/opcao-pelo-simei-continua-em-janeiro-de-2027-veja-a-diferenca-para-o-sn/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
@@ -361,12 +291,12 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "SEMINÁRIO REFORMA TRIBUTÁRIA NA PRÁTICA",
-    "summary": "Palestrantes: Gustavo Breitenbach; Ulysses Areas; Diogo Chamun; Vanessa Assis; Márcio Damasceno Leia mais Sem categoria 22 setembro, 2026 Link permanente",
-    "url": "https://cfc.org.br/eventoscfc/seminario-reforma-tributaria-na-pratica/",
+    "title": "SIMPLES NACIONAL CBS/IBS: pedidos pelo Simples Híbrido disparam 171,3% em uma semana Hoje 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79681/simples-hibrido-pedidos-sobem-171-3-em-uma-semana/",
     "category": "Radar fiscal"
   },
   {
@@ -391,32 +321,72 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Apuração assistida da Reforma Tributária: por que a escrituração no Sped não basta? Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79604/apuracao-assistida-de-ibs-e-cbs-por-que-a-escrituracao-no-sped-nao-basta/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL ELETRÔNICA NF-e autorizada tem erro? Veja qual procedimento usar em cada situação Ontem 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79606/nf-e-autorizada-como-corrigir-erros-na-nota-fiscal-eletronica/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "Força-tarefa coloca profissionais da contabilidade no centro da orientação sobre a Reforma Tributária",
-    "summary": "Profissionais da contabilidade terão papel central na orientação das empresas e dos contribuintes durante a implementação da Reforma Tributária. Para ampliar o acesso a informações confiáveis e combater a desinformação sobre as novas regras, o CFC, a Receita Federal, o Sebrae e a Fenacon anunciaram, nesta sexta-feira (",
-    "url": "https://cfc.org.br/noticias/forca-tarefa-coloca-profissionais-da-contabilidade-no-centro-da-orientacao-sobre-a-reforma-tributaria/",
+    "title": "Reforma Tributária do Consumo para Empresários",
+    "summary": "Nesta palestra, organizada pela Comissão de Assuntos Contábeis, Fiscais e Tributários, entenda, de forma prática e estratégica, como a Reforma Tributária impactará a gestão, os custos e a competitividade da sua empresa. Saiba como as novas regras da CBS, IBS e Imposto Seletivo afetarão preços, créditos tributários e op",
+    "url": "https://cfc.org.br/eventoscfc/reforma-tributaria-do-consumo-para-empresarios/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Simples híbrido: quando o regime tributário do fornecedor entra na decisão de compra Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79678/simples-hibrido-a-escolha-estrategica-para-pequenas-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: a decisão que bares e restaurantes ainda não tomaram, e não podem adiar Hoje 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79698/reforma-tributaria-seu-simples-nacional-esta-pronto/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA O erro que pode custar caro às empresas na Reforma Tributária Hoje 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79697/reforma-tributaria-nao-espere-2027-para-se-preparar/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS/COFINS Receita diferencia tributação do crédito presumido de ICMS nos regimes cumulativo e não cumulativo Hoje 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79686/receita-diferencia-pis-cofins-sobre-credito-de-icms/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMÓVEL Receita Federal explica regras para isenção de ganho de capital e denúncia espontânea Hoje 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79685/receita-esclarece-isencao-de-irpf-na-venda-de-imovel-e-denuncia-espontanea/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO SELETIVO Prazo para definir Imposto Seletivo pode afetar cobrança em janeiro Hoje 16:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79690/imposto-seletivo-entra-em-reta-decisiva-para-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -427,6 +397,16 @@
     "title": "Fiscalização, Ética e Disciplina",
     "summary": "",
     "url": "https://cfc.org.br/fiscalizacao-etica-e-disciplina/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Escola Técnica CRCPR – Reforma Tributária: Não-cumulatividade e impactos nas relações comerciais",
+    "summary": "Nesta palestra da Escola Técnica CRCPR, explore os principais impactos da Reforma Tributária nas relações comerciais, com foco na não cumulatividade do IBS e CBS. Entenda como funcionará a geração, utilização e restituição de créditos, além dos reflexos nas operações com fornecedores, inclusive do Simples Nacional. Con",
+    "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-reforma-tributaria-nao-cumulatividade-e-impactos-nas-relacoes-comerciais/",
     "category": "Radar fiscal"
   },
   {
@@ -457,6 +437,16 @@
     "title": "CRCSP para TODOS em Ubatuba apresenta: Reforma Tributária: Não cumulatividade, Simples Nacional e principais impactos a serem observados na formação de preço dos produtos e serviços pelas empresas.",
     "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Reforma Tributária: Não cumulatividade, Simples Nacional e principais impactos a serem observados na formação de preço dos produtos e serviços pelas empresas Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs,",
     "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-ubatuba-apresenta-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servicos-pelas-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "CRCSP para TODOS em Praia Grande apresenta:REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
+    "summary": "Programa: CRCSP para TODOS em Praia Grande apresenta:REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ARNOBIO NETO ARAUJO DURAES Doutor em Controla",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-praia-grande-apresentareforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
     "category": "Radar fiscal"
   },
   {
@@ -507,16 +497,6 @@
     "title": "CFC, RFB e Fenacon apresentam último módulo do curso sobre Reforma Tributária",
     "summary": "O Dia do Contador foi marcado pela conclusão do curso sobre a Reforma Tributária do Consumo (RTC). Realizado na manhã desta terça-feira (22), o último módulo da capacitação abordou “Temas complementares e aplicação prática (casos especiais)”. O evento foi transmitido pelo canal do Conselho Federal de Contabilidade (CFC",
     "url": "https://cfc.org.br/noticias/cfc-rfb-e-fenacon-apresentam-ultimo-modulo-do-curso-sobre-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "Artigo – Presidente do CFC destaca papel da contabilidade no aperfeiçoamento da Reforma Tributária",
-    "summary": "O papel estratégico dos profissionais da contabilidade na implementação e no aperfeiçoamento da Reforma Tributária é destaque em artigo do presidente do Conselho Federal de Contabilidade (CFC), Joaquim Bezerra, publicado pelo Congresso em Foco. No texto, ele ressalta que a experiência de quem acompanha de perto a reali",
-    "url": "https://cfc.org.br/noticias/artigo-presidente-do-cfc-destaca-papel-da-contabilidade-no-aperfeicoamento-da-reforma-tributaria/",
     "category": "Radar fiscal"
   }
 ]

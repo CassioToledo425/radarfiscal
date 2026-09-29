@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-09-28",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "summary": "Serviços Até o momento, foram registradas 370.553 solicitações de opção pelo Simples Nacional e 586.675 solicitações de opção pelo regime regular do IBS e da CBS.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+  },
+  {
+    "date": "2026-09-25",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal e Conselho Federal de Contabilidade concluem ampla capacitação nacional sobre a Reforma Tributária do Consumo",
+    "summary": "Institucional Ao longo de 18 módulos, o curso reuniu especialistas da Receita Federal, profissionais da contabilidade, servidores públicos e demais interessados em compreender as transformações que estão sendo implementadas no sistema tributário brasileiro. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-conselho-federal-de-contabilidade-concluem-ampla-capacitacao-nacional-sobre-a-reforma-tributaria-do-consumo"
+  },
+  {
     "date": "2026-09-25",
     "source": "Receita Federal",
     "level": "official",
@@ -48,16 +68,6 @@
     "title": "RESOLUÇÃO CGIBS Nº 18, DE 15 DE SETEMBRO DE 2026",
     "summary": "Publicação normativa oficial do Comitê Gestor do IBS.",
     "url": "https://www.cgibs.gov.br/upload/arquivos/202609/15150334-resolucao-cgibs-ampliacao-da-forca-de-trabalho.pdf"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal publica nova documentação técnica das APIs de apuração da CBS",
-    "summary": "Serviços Nova versão permitirá consultas incrementais, reduzindo o tempo de processamento e o volume de dados trafegados. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-de-cbs"
   },
   {
     "date": "2026-09-09",

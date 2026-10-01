@@ -6970,17 +6970,6 @@
           "category": "Interessado: PJ/PF",
           "legal_basis": "Instrução Normativa RFB nº 2.330/2026",
           "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Setembro/dia-30-09-2026"
-        },
-        {
-          "date": "2026-09-30",
-          "kind": "accessory",
-          "group": "Obrigação acessória",
-          "description": "Opção pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional",
-          "period": "--",
-          "document": "Obrigação acessória",
-          "category": "Interessado: PJ",
-          "legal_basis": "Resolução CGSN nº 140/2018",
-          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Setembro/dia-30-09-2026"
         }
       ]
     },
@@ -8195,6 +8184,17 @@
           "document": "Obrigação acessória",
           "category": "Interessado: PJ/PF",
           "legal_basis": "Instrução Normativa RFB nº 2.043/2021",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro/dia-15-10-2026"
+        },
+        {
+          "date": "2026-10-15",
+          "kind": "accessory",
+          "group": "Obrigação acessória",
+          "description": "Opção pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional",
+          "period": "--",
+          "document": "Obrigação acessória",
+          "category": "Interessado: PJ",
+          "legal_basis": "Resolução CGSN nº 140/2018",
           "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro/dia-15-10-2026"
         },
         {

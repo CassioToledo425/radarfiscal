@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-30",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "summary": "Serviços Até o momento, foram registradas 392.117 solicitações de opção pelo Simples Nacional e 817.461 solicitações de opção pelo regime regular do IBS e da CBS. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-1"
+  },
+  {
     "date": "2026-09-29",
     "source": "Receita Federal",
     "level": "official",
@@ -58,16 +68,6 @@
     "title": "Orientação Conjunta Receita Federal/CGIBS",
     "summary": "Institucional Opção pelo Regime Específico do IBS e da CBS para Sociedades Cooperativas tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/orientacao-conjunta-rfb-cgibs"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Aviso de Pauta: Força-Tarefa - Reforma Tributária",
-    "summary": "Institucional Receita Federal, CFC, Sebrae e Fenacon anunciam ação conjunta de orientação e combate à desinformação",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/aviso-de-pauta-forca-tarefa-reforma-tributaria"
   },
   {
     "date": "2026-09-15",

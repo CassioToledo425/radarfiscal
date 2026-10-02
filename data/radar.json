@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "1 de outubro de 2026 Testes do Split Payment começam em outubro",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/testes-do-split-payment-comecam-em-outubro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "1 de outubro de 2026 Reforma Tributária pelo Brasil chega a Biguaçu com realização do SESCON Grande Florianópolis e CRC-SC",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/reforma-tributaria-pelo-brasil-chega-a-biguacu-com-realizacao-do-sescon-grande-florianopolis-e-crc-sc/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTÁRIO STF afasta ICMS sobre subvenção de energia elétrica para consumidores de baixa renda 29/09/2026 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79728/stf-afasta-icms-sobre-subvencao-de-energia-eletrica/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária deve manter preço cheio nas gôndolas 29/09/2026 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79723/reforma-tributaria-varejo-deve-manter-preco-cheio/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Paraná e Curitiba firmam acordo para integrar procedimentos na implantação do IBS 29/09/2026 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79715/curitiba-e-parana-firmam-cooperacao-para-implantacao-do-ibs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA PIS, Cofins e CSLL na virada para 2027: como ficam as retenções com a chegada da CBS. 29/09/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79703/retencoes-2027-pis-cofins-e-csll-na-virada-da-reforma/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Lucro Presumido e CBS: entenda como funcionará o aproveitamento de créditos 29/09/2026 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79704/lucro-presumido-creditos-de-cbs-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-09-29",
     "source": "Portal Contábeis",
     "level": "specialized",
@@ -84,119 +14,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CNM projeta até 2078 receitas de cada Município com o IBS e envia relatório aos filiados 29/09/2026 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79722/cnm-projeta-receitas-de-cada-municipio-com-o-ibs-ate-2078/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA A Reforma Tributária também é um projeto de tecnologia 29/09/2026 19:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79713/reforma-tributaria-o-desafio-dos-sistemas-e-tecnologia/",
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-09-29",
-    "source": "FENACON",
-    "level": "institutional",
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "29 de setembro de 2026 Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+    "title": "TRIBUTAÇÃO Receita Federal fixa tributação de empresas públicas dependentes e veda crédito fiscal Hoje 15:30",
     "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/declaracao-de-regimes-especificos-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "29 de setembro de 2026 Capacitação nacional sobre a Reforma Tributária do Consumo é concluída",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/capacitacao-nacional-sobre-a-reforma-tributaria-do-consumo-e-concluida/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-28",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "28 de setembro de 2026 Reforma Tributária pelo Brasil chega ao Distrito Federal em 7 de outubro",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/reforma-tributaria-pelo-brasil-chega-ao-distrito-federal-em-7-de-outubro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-28",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "28 de setembro de 2026 Receita Federal esclarece regras para isenção de ganho de capital na venda de imóveis residenciais",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/receita-federal-esclarece-regras-para-isencao-de-ganho-de-capital-na-venda-de-imoveis-residenciais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-24",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "24 de setembro de 2026 Receita Federal, Fenacon, CFC e Sebrae reúnem orientações para apoiar empresas na Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/receita-federal-fenacon-cfc-e-sebrae-reunem-orientacoes-para-apoiar-empresas-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "23 de setembro de 2026 CFC, RFB e Fenacon apresentam último módulo do curso sobre Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/cfc-rfb-e-fenacon-apresentam-ultimo-modulo-do-curso-sobre-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "23 de setembro de 2026 CESTF promove nova rodada de debates sobre contencioso judicial da Reforma Tributária sobre o Consumo",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/cestf-promove-nova-rodada-de-debates-sobre-contencioso-judicial-da-reforma-tributaria-sobre-o-consumo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-21",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "21 de setembro de 2026 Empresas do Simples poderão rever opção pelo recolhimento de IBS e CBS após definição de alíquota",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/empresas-do-simples-poderao-rever-opcao-pelo-recolhimento-de-ibs-e-cbs-apos-definicao-de-aliquota/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "17 de setembro de 2026 Novo cálculo da receita bruta apurada no Simples Nacional",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/novo-calculo-da-receita-bruta-apurada-no-simples-nacional/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-11",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "11 de setembro de 2026 Fenacon, CFC e Receita Federal debatem novas estratégias para apoiar contadores e empresários do Simples na transição da Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/fenacon-cfc-rfb-estrategias-contadores-empresarios-simples-reforma-tributaria/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79778/receita-define-tributacao-de-empresas-publicas-dependentes/",
     "category": "Radar fiscal"
   },
   {
@@ -207,6 +37,16 @@
     "title": "SPLIT PAYMENT Reforma Tributária: testes do split payment começam em 15 de outubro Hoje 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79769/split-payment-testes-comecam-em-15-de-outubro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Reforma Tributária 2027: por que o varejo B2C e as óticas devem pisar no freio antes de abandonar o Simples Nacional Hoje 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79785/simples-nacional-varejo-b2c-deve-manter-o-das-na-reforma/",
     "category": "Radar fiscal"
   },
   {
@@ -267,6 +107,16 @@
     "title": "Reforma Tributária do Consumo para Empresários",
     "summary": "Nesta palestra, organizada pela Comissão de Assuntos Contábeis, Fiscais e Tributários, entenda, de forma prática e estratégica, como a Reforma Tributária impactará a gestão, os custos e a competitividade da sua empresa. Saiba como as novas regras da CBS, IBS e Imposto Seletivo afetarão preços, créditos tributários e op",
     "url": "https://cfc.org.br/eventoscfc/reforma-tributaria-do-consumo-para-empresarios/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária para incorporadoras aumenta complexidade da apuração Hoje 19:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79780/reforma-tributaria-para-incorporadoras-mudancas-e-desafios/",
     "category": "Radar fiscal"
   },
   {
@@ -457,6 +307,16 @@
     "title": "COMPLIANCE TRIBUTÁRIO Raio-X do CARF: o que o contencioso revela sobre o compliance tributário Ontem 19:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79732/carf-compliance-tributario-e-a-prova-de-creditos-fiscais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CLASSIFICAÇÃO FISCAL Classificação fiscal não começa pela NCM Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79762/classificacao-fiscal-guia-essencial-para-ncm-e-analise-tecnica/",
     "category": "Radar fiscal"
   },
   {

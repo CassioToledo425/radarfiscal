@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:18:22+00:00",
+  "updated_at": "2026-10-03T00:02:35+00:00",
   "sources": [
     {
       "name": "Receita Federal — Agenda Tributária",
@@ -27,7 +27,7 @@
       "level": "institutional",
       "url": "https://fenacon.org.br/reforma-tributaria/",
       "description": "Radar institucional do setor de serviços contábeis e empresariais.",
-      "status": "error"
+      "status": "ok"
     },
     {
       "name": "Conselho Federal de Contabilidade",

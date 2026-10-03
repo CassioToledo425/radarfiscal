@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-02",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "summary": "Institucional Até o momento, foram registradas 441.825 solicitações de opção pelo Simples Nacional e 840.516 solicitações de opção pelo regime regular do IBS e da CBS. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+  },
+  {
     "date": "2026-09-30",
     "source": "Receita Federal",
     "level": "official",
@@ -58,16 +68,6 @@
     "title": "Receita Federal divulga balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
     "summary": "Serviços Balanço reúne dados sobre as solicitações de opção pelos regimes tributários e orienta contribuintes sobre prazos para regularização de pendências. tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Orientação Conjunta Receita Federal/CGIBS",
-    "summary": "Institucional Opção pelo Regime Específico do IBS e da CBS para Sociedades Cooperativas tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/orientacao-conjunta-rfb-cgibs"
   },
   {
     "date": "2026-09-15",

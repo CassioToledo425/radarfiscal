@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-05",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "5 de outubro de 2026 RAD surge como alternativa ao split payment a partir de janeiro; entenda o mecanismo",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/rad-surge-como-alternativa-ao-split-payment-a-partir-de-janeiro-entenda-o-mecanismo/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-04",
     "source": "FENACON",
     "level": "institutional",
@@ -107,66 +117,6 @@
     "title": "IBS/CBS Nova nota técnica atualiza regras de emissão de seis DFes com IBS e CBS 02/10/2026 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79838/nota-tecnica-atualiza-regras-de-emissao-de-seis-dfes-com-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTAÇÃO Receita Federal fixa tributação de empresas públicas dependentes e veda crédito fiscal 01/10/2026 15:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79778/receita-define-tributacao-de-empresas-publicas-dependentes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Reforma Tributária 2027: por que o varejo B2C e as óticas devem pisar no freio antes de abandonar o Simples Nacional 01/10/2026 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79785/simples-nacional-varejo-b2c-deve-manter-o-das-na-reforma/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária para incorporadoras aumenta complexidade da apuração 01/10/2026 19:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79780/reforma-tributaria-para-incorporadoras-mudancas-e-desafios/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma pode dar desconto de 40% nos novos tributos a companhias aéreas 01/10/2026 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79773/aereas-podem-ter-desconto-de-40-nos-novos-tributos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA RAD: reflexos contábeis e financeiros do recolhimento pelo adquirente 01/10/2026 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79783/recolhimento-pelo-adquirente-rad-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CLASSIFICAÇÃO FISCAL Classificação fiscal não começa pela NCM 01/10/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79762/classificacao-fiscal-guia-essencial-para-ncm-e-analise-tecnica/",
     "category": "Radar fiscal"
   },
   {
@@ -294,7 +244,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Gorjeta no Simples Nacional: O que muda com o julgamento do STJ? Hoje 11:00",
+    "title": "SIMPLES NACIONAL Mais de 277 mil pedidos ao Simples ainda aparecem como indeferidos, informa Receita Hoje 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79861/simples-277-mil-pedidos-ainda-estao-indeferidos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Gorjeta no Simples Nacional: O que muda com o julgamento do STJ? Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79729/gorjeta-no-simples-nacional-entenda-o-julgamento-do-stj/",
     "category": "Radar fiscal"
@@ -334,6 +294,76 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
+    "title": "Radar Contabilidade Pública “Regime de Compras Governamentais na Reforma Tributária sobre o consumo”",
+    "summary": "A Reforma Tributária sobre o consumo também traz mudanças e desafios para a administração pública. Mas, na prática, como o novo cenário pode afetar o regime de compras governamentais e a despesa pública? Esse será o tema do próximo Radar Contabilidade Pública, promovido pelo CRCSC. O evento terá a participação do Audit",
+    "url": "https://cfc.org.br/eventoscfc/radar-contabilidade-publica-regime-de-compras-governamentais-na-reforma-tributaria-sobre-o-consumo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA, CT-E Nova nota técnica do CT-e muda emissão em contingência e detalhamento dos tributos Hoje 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79857/ct-e-nt-2026-004-cria-contingencia-offline-e-muda-regras-de-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Subcontratação e redespacho no transporte de cargas: como ficam os créditos de IBS e CBS. Hoje 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79835/reforma-tributaria-creditos-no-frete-e-subcontratacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA NF3-e tem novas regras com a reforma tributária Hoje 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79863/nf3-e-publicada-nota-tecnica-2026-004-rtc/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA IBS e CBS na contabilidade: como registrar os novos tributos e preparar o plano de contas Hoje 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79853/ibs-e-cbs-como-contabilizar-na-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Gestão de terceiros ganha nova dimensão com a Reforma Tributária Hoje 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79851/reforma-tributaria-impacto-na-gestao-de-fornecedores/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IBS Estado de São Paulo não ocupa diretorias do IBS; município está na vice-presidência Hoje 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79862/fazenda-de-sp-fica-sem-diretorias-tecnicas-no-comite-gestor-do-ibs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
     "title": "Fiscalização, Ética e Disciplina",
     "summary": "",
     "url": "https://cfc.org.br/fiscalizacao-etica-e-disciplina/",
@@ -354,7 +384,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "EXECUÇÃO FISCAL STJ permite bloqueio de dinheiro antes de citação em execução fiscal Hoje 10:00",
+    "title": "EXECUÇÃO FISCAL STJ permite bloqueio de dinheiro antes de citação em execução fiscal Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79727/stj-permite-bloqueio-antes-de-citacao-em-execucao-fiscal/",
     "category": "Radar fiscal"
@@ -371,12 +401,12 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "Comissão da Reforma Tributária apresenta: Simples Nacional: Híbrido ou Normal. Vamos conversar com exemplos de simulação?",
-    "summary": "Programa: Comissão da Reforma Tributária: Simples Nacional - Regime Simples ou Híbrido? Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ANA LUCIA CORSINO PICAO Contadora, Vice-Coordenadora da Comissão de Educação Profissional Continuad",
-    "url": "https://cfc.org.br/eventoscfc/comissao-da-reforma-tributaria-apresenta-simples-nacional-hibrido-ou-normal-vamos-conversar-com-exemplos-de-simulacao/",
+    "title": "DERE DeRE 1.3.0 traz novos eventos e atualizações nos leiautes Hoje 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79864/dere-ganha-versao-1-3-0-com-novos-eventos-e-regras/",
     "category": "Radar fiscal"
   },
   {

@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-07",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "7 de outubro de 2026 Portaria Conjunta define como serão calculadas as alíquotas do IBS e da CBS incidentes sobre os combustíveis",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/portaria-conjunta-define-como-serao-calculadas-as-aliquotas-do-ibs-e-da-cbs-incidentes-sobre-os-combustiveis/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-06",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "6 de outubro de 2026 Reforma Tributária pelo Brasil ganha destaque na mídia",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-pelo-brasil-ganha-destaque-na-midia/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-06",
     "source": "FENACON",
     "level": "institutional",
@@ -7,6 +27,86 @@
     "title": "6 de outubro de 2026 Receita Federal e PGFN abrem transação para débitos relacionados à multa substitutiva da pena de perdimento",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/receita-federal-e-pgfn-abrem-transacao-para-debitos-relacionados-a-multa-substitutiva-da-pena-de-perdimento/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Mais de 277 mil pedidos ao Simples ainda aparecem como indeferidos, informa Receita 05/10/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79861/simples-277-mil-pedidos-ainda-estao-indeferidos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA, CT-E Nova nota técnica do CT-e muda emissão em contingência e detalhamento dos tributos 05/10/2026 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79857/ct-e-nt-2026-004-cria-contingencia-offline-e-muda-regras-de-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Subcontratação e redespacho no transporte de cargas: como ficam os créditos de IBS e CBS. 05/10/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79835/reforma-tributaria-creditos-no-frete-e-subcontratacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA NF3-e tem novas regras com a reforma tributária 05/10/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79863/nf3-e-publicada-nota-tecnica-2026-004-rtc/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA IBS e CBS na contabilidade: como registrar os novos tributos e preparar o plano de contas 05/10/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79853/ibs-e-cbs-como-contabilizar-na-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Gestão de terceiros ganha nova dimensão com a Reforma Tributária 05/10/2026 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79851/reforma-tributaria-impacto-na-gestao-de-fornecedores/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IBS Estado de São Paulo não ocupa diretorias do IBS; município está na vice-presidência 05/10/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79862/fazenda-de-sp-fica-sem-diretorias-tecnicas-no-comite-gestor-do-ibs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-05",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DERE DeRE 1.3.0 traz novos eventos e atualizações nos leiautes 05/10/2026 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79864/dere-ganha-versao-1-3-0-com-novos-eventos-e-regras/",
     "category": "Radar fiscal"
   },
   {
@@ -21,42 +121,12 @@
   },
   {
     "date": "2026-10-04",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Gorjeta no Simples Nacional: O que muda com o julgamento do STJ? 04/10/2026 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79729/gorjeta-no-simples-nacional-entenda-o-julgamento-do-stj/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-04",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EXECUÇÃO FISCAL STJ permite bloqueio de dinheiro antes de citação em execução fiscal 04/10/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79727/stj-permite-bloqueio-antes-de-citacao-em-execucao-fiscal/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-04",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
     "title": "4 de outubro de 2026 DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-02",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Recolhimento pelo adquirente ganha relevância na reforma tributária 02/10/2026 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79846/recolhimento-pelo-adquirente-impacto-da-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {
@@ -120,26 +190,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-09-24",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "24 de setembro de 2026 Receita Federal, Fenacon, CFC e Sebrae reúnem orientações para apoiar empresas na Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/receita-federal-fenacon-cfc-e-sebrae-reunem-orientacoes-para-apoiar-empresas-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-23",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "23 de setembro de 2026 CFC, RFB e Fenacon apresentam último módulo do curso sobre Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/cfc-rfb-e-fenacon-apresentam-ultimo-modulo-do-curso-sobre-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-09-21",
     "source": "FENACON",
     "level": "institutional",
@@ -164,17 +214,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Mais de 277 mil pedidos ao Simples ainda aparecem como indeferidos, informa Receita Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79861/simples-277-mil-pedidos-ainda-estao-indeferidos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Mais de 270 mil pedidos para o Simples estão indeferidos; veja os prazos para agir Hoje 09:30",
+    "title": "SIMPLES NACIONAL Mais de 270 mil pedidos para o Simples estão indeferidos; veja os prazos para agir Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79879/simples-nacional-2027-270-mil-pedidos-estao-indeferidos/",
     "category": "Radar fiscal"
@@ -224,27 +264,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA, CT-E Nova nota técnica do CT-e muda emissão em contingência e detalhamento dos tributos Ontem 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79857/ct-e-nt-2026-004-cria-contingencia-offline-e-muda-regras-de-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Subcontratação e redespacho no transporte de cargas: como ficam os créditos de IBS e CBS. Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79835/reforma-tributaria-creditos-no-frete-e-subcontratacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split payment deve começar de forma gradual em 2027 e ser obrigatório somente em 2028 Hoje 18:00",
+    "title": "REFORMA TRIBUTÁRIA Split payment deve começar de forma gradual em 2027 e ser obrigatório somente em 2028 Ontem 18:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79907/split-payment-na-reforma-tributaria-obrigatoriedade-so-em-2028/",
     "category": "Radar fiscal"
@@ -254,7 +274,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: definida metodologia das alíquotas de IBS e CBS sobre combustíveis Hoje 14:30",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: definida metodologia das alíquotas de IBS e CBS sobre combustíveis Ontem 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79891/reforma-como-serao-calculados-ibs-e-cbs-sobre-combustiveis/",
     "category": "Radar fiscal"
@@ -264,7 +284,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Perdas com créditos inadimplentes na base de IBS/CBS Hoje 17:30",
+    "title": "REFORMA TRIBUTÁRIA Perdas com créditos inadimplentes na base de IBS/CBS Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79903/perdas-com-creditos-inadimplentes-impacto-no-ibs-cbs/",
     "category": "Radar fiscal"
@@ -274,9 +294,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA NF3-e tem novas regras com a reforma tributária Ontem 14:00",
+    "title": "REFORMA TRIBUTÁRIA Fenacon e CFC farão 41 encontros para capacitar profissionais sobre reforma tributária; saiba os locais Hoje 15:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79863/nf3-e-publicada-nota-tecnica-2026-004-rtc/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79961/reforma-tributaria-fenacon-e-cfc-farao-41-encontros/",
     "category": "Radar fiscal"
   },
   {
@@ -284,9 +304,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA IBS e CBS na contabilidade: como registrar os novos tributos e preparar o plano de contas Ontem 20:00",
+    "title": "IMPOSTO SOBRE BENS E SERVIÇOS Comitê Gestor do IBS publica lista de 14 servidores em regime de cooperação mútua Hoje 12:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79853/ibs-e-cbs-como-contabilizar-na-reforma-tributaria/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79954/cgibs-publica-lista-de-14-servidores-em-cooperacao/",
     "category": "Radar fiscal"
   },
   {
@@ -294,29 +314,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Gestão de terceiros ganha nova dimensão com a Reforma Tributária Ontem 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79851/reforma-tributaria-impacto-na-gestao-de-fornecedores/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ICMS STJ mantém exclusão de crédito presumido de ICMS do IRPJ e CSLL Hoje 15:00",
+    "title": "ICMS STJ mantém exclusão de crédito presumido de ICMS do IRPJ e CSLL Ontem 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79887/stj-mantem-exclusao-de-credito-presumido-de-icms-do-irpj-e-csll/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IBS Estado de São Paulo não ocupa diretorias do IBS; município está na vice-presidência Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79862/fazenda-de-sp-fica-sem-diretorias-tecnicas-no-comite-gestor-do-ibs/",
     "category": "Radar fiscal"
   },
   {
@@ -354,7 +354,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "DOCUMENTOS FISCAIS Comitê Gestor da NFS-e debate DF-es com Fiscos e empresas de tecnologia em São Paulo Hoje 17:00",
+    "title": "DOCUMENTOS FISCAIS Comitê Gestor da NFS-e debate DF-es com Fiscos e empresas de tecnologia em São Paulo Ontem 17:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79918/comite-da-nfs-e-debate-evolucao-dos-documentos-fiscais/",
     "category": "Radar fiscal"
@@ -364,9 +364,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "DERE DeRE 1.3.0 traz novos eventos e atualizações nos leiautes Ontem 14:30",
+    "title": "DOCUMENTO FISCAL DC-e rejeitará emissão por contribuinte de ICMS a partir de novembro Hoje 10:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79864/dere-ganha-versao-1-3-0-com-novos-eventos-e-regras/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79951/dc-e-emissao-sera-rejeitada-para-contribuinte-de-icms/",
     "category": "Radar fiscal"
   },
   {

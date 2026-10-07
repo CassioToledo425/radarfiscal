@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-07",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal publica versão.1.3.0 da documentação técnica da DeRE",
+    "summary": "Serviços A nova versão 1.3.0 da documentação técnica da DeRE traz atualizações no Manual de Orientação, novos eventos transacionais, regras de validação aprimoradas e ajustes nos leiautes, reforçando a adaptação dos contribuintes aos regimes específicos da CBS e do IBS. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-versao-1-3-0-da-documentacao-tecnica-da-dere"
+  },
+  {
     "date": "2026-10-05",
     "source": "Receita Federal",
     "level": "official",

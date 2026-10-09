@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-09",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "9 de outubro de 2026 Durigan prevê envio de MP do Imposto Seletivo após eleições",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/durigan-preve-envio-de-mp-do-imposto-seletivo-apos-eleicoes/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-08",
     "source": "FENACON",
     "level": "institutional",
@@ -10,6 +20,86 @@
     "category": "Radar fiscal"
   },
   {
+    "date": "2026-10-08",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "8 de outubro de 2026 Curitiba recebe mais uma edição do seminário sobre a Reforma Tributária",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/fenacon-realiza-seminario-sobre-a-reforma-tributaria-em-curitiba/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Split payment deve começar de forma gradual em 2027 e ser obrigatório somente em 2028 07/10/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79934/split-payment-na-reforma-tributaria-detalhes-da-implementacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Split Payment: Impactos Essenciais para Transportadoras na Reforma 07/10/2026 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79969/split-payment-no-transporte-de-cargas-o-que-muda-no-recebimento-do-frete-para-cada-regime-tributario/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Qualidade da informação contábil e prevenção do litígio tributário 07/10/2026 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79963/qualidade-contabil-previne-litigio-tributario-com-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Fenacon e CFC farão 41 encontros para capacitar profissionais sobre reforma tributária; saiba os locais 07/10/2026 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79961/reforma-tributaria-fenacon-e-cfc-farao-41-encontros/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO SOBRE BENS E SERVIÇOS Comitê Gestor do IBS publica lista de 14 servidores em regime de cooperação mútua 07/10/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79954/cgibs-publica-lista-de-14-servidores-em-cooperacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO DE RENDA Resgate de debêntures: quem deve reter o IRRF? 07/10/2026 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79938/irrf-debentures-quem-retem-no-resgate-guia-completo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DOCUMENTO FISCAL DC-e rejeitará emissão por contribuinte de ICMS a partir de novembro 07/10/2026 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79951/dc-e-emissao-sera-rejeitada-para-contribuinte-de-icms/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-07",
     "source": "FENACON",
     "level": "institutional",
@@ -17,56 +107,6 @@
     "title": "7 de outubro de 2026 Portaria Conjunta define como serão calculadas as alíquotas do IBS e da CBS incidentes sobre os combustíveis",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/portaria-conjunta-define-como-serao-calculadas-as-aliquotas-do-ibs-e-da-cbs-incidentes-sobre-os-combustiveis/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split payment deve começar de forma gradual em 2027 e ser obrigatório somente em 2028 06/10/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79907/split-payment-na-reforma-tributaria-obrigatoriedade-so-em-2028/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: definida metodologia das alíquotas de IBS e CBS sobre combustíveis 06/10/2026 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79891/reforma-como-serao-calculados-ibs-e-cbs-sobre-combustiveis/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Perdas com créditos inadimplentes na base de IBS/CBS 06/10/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79903/perdas-com-creditos-inadimplentes-impacto-no-ibs-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ICMS STJ mantém exclusão de crédito presumido de ICMS do IRPJ e CSLL 06/10/2026 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79887/stj-mantem-exclusao-de-credito-presumido-de-icms-do-irpj-e-csll/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "DOCUMENTOS FISCAIS Comitê Gestor da NFS-e debate DF-es com Fiscos e empresas de tecnologia em São Paulo 06/10/2026 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79918/comite-da-nfs-e-debate-evolucao-dos-documentos-fiscais/",
     "category": "Radar fiscal"
   },
   {
@@ -134,29 +174,9 @@
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
-    "title": "29 de setembro de 2026 Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/declaracao-de-regimes-especificos-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
     "title": "29 de setembro de 2026 Capacitação nacional sobre a Reforma Tributária do Consumo é concluída",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/capacitacao-nacional-sobre-a-reforma-tributaria-do-consumo-e-concluida/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-28",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "28 de setembro de 2026 Reforma Tributária pelo Brasil chega ao Distrito Federal em 7 de outubro",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/reforma-tributaria-pelo-brasil-chega-ao-distrito-federal-em-7-de-outubro/",
     "category": "Radar fiscal"
   },
   {
@@ -194,7 +214,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTÁRIO Créditos presumidos de ICMS não podem ser tributados pelo PIS e pela Cofins, decide STF Hoje 09:00",
+    "title": "TRIBUTÁRIO Créditos presumidos de ICMS não podem ser tributados pelo PIS e pela Cofins, decide STF Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79985/stf-afasta-pis-e-cofins-sobre-creditos-presumidos-de-icms/",
     "category": "Radar fiscal"
@@ -204,9 +224,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Folha de pagamento pesa na escolha sobre IBS e CBS para empresas de serviços Hoje 09:30",
+    "title": "SIMPLES NACIONAL Folha de pagamento pesa na escolha sobre IBS e CBS para empresas de serviços Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79978/simples-folha-salarial-nao-gera-creditos-de-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Fisco investiga divisão de empresas para usar indevidamente o Simples Nacional Hoje 09:35",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80001/simples-nacional-rs-investiga-possivel-divisao-irregular-de-empresas/",
     "category": "Radar fiscal"
   },
   {
@@ -217,6 +247,16 @@
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Reforma Tributária, normas internacionais e sustentabilidade pautam seminário da FACPCS",
+    "summary": "Em sua 23ª edição, evento terá seis masterclasses inéditas, debates sobre Reforma Tributária e participação de representantes de organismos internacionais A evolução das normas contábeis, os desafios da sustentabilidade e os impactos da Reforma Tributária estarão no centro dos debates do XXIII Seminário Internacional d",
+    "url": "https://cfc.org.br/noticias/reforma-tributaria-normas-internacionais-e-sustentabilidade-pautam-seminario-da-facpcs/",
     "category": "Radar fiscal"
   },
   {
@@ -254,27 +294,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split payment deve começar de forma gradual em 2027 e ser obrigatório somente em 2028 Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79934/split-payment-na-reforma-tributaria-detalhes-da-implementacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split Payment: Impactos Essenciais para Transportadoras na Reforma Ontem 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79969/split-payment-no-transporte-de-cargas-o-que-muda-no-recebimento-do-frete-para-cada-regime-tributario/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária na construção civil: redução de alíquotas exige revisão de custos e planejamento Hoje 16:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária na construção civil: redução de alíquotas exige revisão de custos e planejamento Ontem 16:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79976/reforma-tributaria-impactos-na-construcao-civil-e-ibs-cbs/",
     "category": "Radar fiscal"
@@ -284,19 +304,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Qualidade da informação contábil e prevenção do litígio tributário Ontem 19:30",
+    "title": "REFORMA TRIBUTÁRIA Ministro da Fazenda defende split payment e rebate críticas ao impacto no capital de giro Hoje 14:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79963/qualidade-contabil-previne-litigio-tributario-com-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Fenacon e CFC farão 41 encontros para capacitar profissionais sobre reforma tributária; saiba os locais Ontem 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79961/reforma-tributaria-fenacon-e-cfc-farao-41-encontros/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80000/split-payment-nao-prejudicara-caixa-das-empresas-diz-ministro/",
     "category": "Radar fiscal"
   },
   {
@@ -314,9 +324,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IMPOSTO SOBRE BENS E SERVIÇOS Comitê Gestor do IBS publica lista de 14 servidores em regime de cooperação mútua Ontem 12:00",
+    "title": "PIS/COFINS Redução temporária de PIS/Cofins sobre gasolina e etanol termina nesta sexta-feira (9) Hoje 11:10",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79954/cgibs-publica-lista-de-14-servidores-em-cooperacao/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79998/pis-cofins-sobre-gasolina-e-etanol-reducao-termina-hoje-9/",
     "category": "Radar fiscal"
   },
   {
@@ -324,9 +334,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IMPOSTO DE RENDA Resgate de debêntures: quem deve reter o IRRF? Ontem 18:00",
+    "title": "NFS-E NACIONAL Nota do tomador, retenções e procurações entram em nova rodada de testes da NFS-e Hoje 10:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79938/irrf-debentures-quem-retem-no-resgate-guia-completo/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79995/nfs-e-nacional-testa-nota-do-tomador-e-procuracoes-eletronicas/",
     "category": "Radar fiscal"
   },
   {
@@ -334,7 +344,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ICMS-ST ESTOQUE Produtos saíram da ST? O detalhe que pode fazer o Simples Nacional pagar imposto duas vezes Hoje 13:30",
+    "title": "ICMS-ST ESTOQUE Produtos saíram da ST? O detalhe que pode fazer o Simples Nacional pagar imposto duas vezes Ontem 13:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79983/substituicao-tributaria-impacto-da-mudanca-no-estoque-simples/",
     "category": "Radar fiscal"
@@ -344,7 +354,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IBS CBS Perdas com créditos inadimplentes na base de IBS/CBS Hoje 14:00",
+    "title": "IBS CBS Perdas com créditos inadimplentes na base de IBS/CBS Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/79922/perdas-com-creditos-inadimplentes-deducao-no-ibs-cbs/",
     "category": "Radar fiscal"
@@ -384,9 +394,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "DOCUMENTO FISCAL DC-e rejeitará emissão por contribuinte de ICMS a partir de novembro Ontem 10:00",
+    "title": "DESCOMPLICANDO TRIBUTOS Reforma tributária: quais prazos estão fixados na Constituição Hoje 11:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79951/dc-e-emissao-sera-rejeitada-para-contribuinte-de-icms/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80011/reforma-tributaria-quais-prazos-estao-fixados-na-constituicao/",
     "category": "Radar fiscal"
   },
   {
@@ -407,16 +417,6 @@
     "title": "Café com o Contabilista sobre o tema “Precificação dos serviços contábeis após Reforma Tributária”",
     "summary": "'PROGRAMAÇÃO: 9h – Abertura 9h15min – Painel “Precificação dos serviços contábeis após Reforma Tributária”, com Mônica Porto, contadora especialista em Contabilidade Estratégica e em Inteligência Artificial 12h – Encerramento Pontuação e certificado aos participantes inscritos que atingirem 75% de presença na TV CRCMG,",
     "url": "https://cfc.org.br/eventoscfc/cafe-com-o-contabilista-sobre-o-tema-precificacao-dos-servicos-contabeis-apos-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP para TODOS em Ubatuba apresenta: Reforma Tributária: Não cumulatividade, Simples Nacional e principais impactos a serem observados na formação de preço dos produtos e serviços pelas empresas.",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Reforma Tributária: Não cumulatividade, Simples Nacional e principais impactos a serem observados na formação de preço dos produtos e serviços pelas empresas Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs,",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-ubatuba-apresenta-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servicos-pelas-empresas/",
     "category": "Radar fiscal"
   },
   {
@@ -454,6 +454,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "CPRB Receita Federal define alíquota de retenção previdenciária para empresas optantes pela CPRB Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79996/receita-esclarece-retencao-previdenciaria-para-optantes-pela-cprb/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "CONTRIBUA CONOSCO Compartilhe seu conhecimento para visitantes todos os dias. ENTENDA MAIS",
     "summary": "Sobre Sobre « Voltar Regras Ajuda Anuncie Contato Conheça o nosso Portal O portal contábeis é feito para profissionais como você, que procuram informação de qualidade e uma comunidade ativa e pronta para discutir, opinar e participar de tudo o que envolve o mundo contábil.",
     "url": "https://www.contabeis.com.br/conteudo/tributario",
@@ -474,7 +484,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ANALISANDO TRIBUTOS Simples Nacional: novos prazos trazidos pela Resolução CGSN 194/2026 Hoje 10:30",
+    "title": "ANALISANDO TRIBUTOS Simples Nacional: novos prazos trazidos pela Resolução CGSN 194/2026 Ontem 10:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/79981/simples-nacional-novos-prazos-trazidos-pela-resolucao-cgsn-194-2026/",
     "category": "Radar fiscal"

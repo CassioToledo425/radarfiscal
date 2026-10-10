@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-09",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Reforma tributária: 86% dos documentos fiscais de empresas obrigadas já trazem destaque da CBS",
+    "summary": "Serviços Dados públicos da Receita Federal mostram que dois em cada três CNPJs obrigados já destacam a Contribuição sobre Bens e Serviços nas notas fiscais tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs"
+  },
+  {
     "date": "2026-10-07",
     "source": "Receita Federal",
     "level": "official",
@@ -68,26 +78,6 @@
     "title": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
     "summary": "Serviços Até o momento, foram registradas 370.553 solicitações de opção pelo Simples Nacional e 586.675 solicitações de opção pelo regime regular do IBS e da CBS. tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
-  },
-  {
-    "date": "2026-09-25",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal e Conselho Federal de Contabilidade concluem ampla capacitação nacional sobre a Reforma Tributária do Consumo",
-    "summary": "Institucional Ao longo de 18 módulos, o curso reuniu especialistas da Receita Federal, profissionais da contabilidade, servidores públicos e demais interessados em compreender as transformações que estão sendo implementadas no sistema tributário brasileiro. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-conselho-federal-de-contabilidade-concluem-ampla-capacitacao-nacional-sobre-a-reforma-tributaria-do-consumo"
-  },
-  {
-    "date": "2026-09-25",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-    "summary": "Serviços Novo balanço registra mais de 328 mil solicitações pelo Simples Nacional e 447 mil pelo regime regular do IBS e da CBS. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
   },
   {
     "date": "2026-09-15",

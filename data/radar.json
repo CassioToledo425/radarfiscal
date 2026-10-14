@@ -21,6 +21,36 @@
   },
   {
     "date": "2026-10-12",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA NFS-e pode ser autorizada sem IBS e CBS; entenda o risco para empresas 12/10/2026 13:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/79892/nfs-e-sem-ibs-e-cbs-pode-ser-autorizada-em-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-12",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA DeRE entra em operação e exige atenção de empresas e contadores 12/10/2026 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79992/dere-a-nova-obrigacao-da-reforma-tributaria-em-outubro-de-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-12",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ARTIGO TRIBUTÁRIO Reforma Tributária e cooperativas: o que muda e por que o planejamento precisa começar agora 12/10/2026 15:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/79931/reforma-tributaria-o-impacto-real-para-cooperativas-em-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-12",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -94,26 +124,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Ministro da Fazenda defende split payment e rebate críticas ao impacto no capital de giro 09/10/2026 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80000/split-payment-nao-prejudicara-caixa-das-empresas-diz-ministro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-09",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS/COFINS Redução temporária de PIS/Cofins sobre gasolina e etanol termina nesta sexta-feira (9) 09/10/2026 11:10",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79998/pis-cofins-sobre-gasolina-e-etanol-reducao-termina-hoje-9/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-09",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "IRPJ/CSLL Empresas poderão reduzir IRPJ e CSLL ao comprar recicláveis de cooperativas 09/10/2026 16:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80008/pl-preve-desconto-de-irpj-e-csll-para-compra-de-reciclaveis/",
@@ -137,16 +147,6 @@
     "title": "IMPOSTO SELETIVO Imposto Seletivo: o que muda (e o que não muda) em janeiro de 2027 09/10/2026 20:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80012/imposto-seletivo-adiado-o-que-sua-empresa-precisa-saber/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-09",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "DESCOMPLICANDO TRIBUTOS Reforma tributária: quais prazos estão fixados na Constituição 09/10/2026 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80011/reforma-tributaria-quais-prazos-estao-fixados-na-constituicao/",
     "category": "Radar fiscal"
   },
   {
@@ -264,7 +264,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Receita reúne especialistas para discutir Reforma Tributária e compensação de impostos Hoje 10:15",
+    "title": "Último dia para solicitar ingresso Simples Nacional 2027: prazo de opção termina nesta quinta (15) Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80052/prazo-simples-nacional-2027-opcao-e-regularizacao-ate-30-10/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTAÇÃO Receita reúne especialistas para discutir Reforma Tributária e compensação de impostos Ontem 10:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80028/congresso-da-receita-debate-iva-imposto-global-e-compensacoes/",
     "category": "Radar fiscal"
@@ -274,7 +284,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SPLIT PAYMENT Receita define quais informações serão testadas na plataforma do split payment Hoje 09:30",
+    "title": "SPLIT PAYMENT Split payment: Receita Federal inclui Pix e outros meios de pagamento nos testes da plataforma Hoje 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80062/split-payment-receita-detalha-testes-que-comecam-em-15-de-outubro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SPLIT PAYMENT Receita define quais informações serão testadas na plataforma do split payment Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80023/split-payment-receita-detalha-testes-com-pix-boleto-e-ted/",
     "category": "Radar fiscal"
@@ -334,7 +354,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária: 86% dos documentos fiscais já destacam a CBS Hoje 09:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária: 86% dos documentos fiscais já destacam a CBS Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80024/cbs-ja-aparece-em-86-dos-documentos-fiscais-obrigatorios/",
     "category": "Radar fiscal"
@@ -344,29 +364,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA NFS-e pode ser autorizada sem IBS e CBS; entenda o risco para empresas Ontem 13:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79892/nfs-e-sem-ibs-e-cbs-pode-ser-autorizada-em-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ISS: controvérsia pode elevar custo dos serviços Hoje 17:30",
+    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ISS: controvérsia pode elevar custo dos serviços Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80038/ibs-e-cbs-na-base-do-iss-aumento-de-custo-para-servicos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA DeRE entra em operação e exige atenção de empresas e contadores Ontem 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79992/dere-a-nova-obrigacao-da-reforma-tributaria-em-outubro-de-2026/",
     "category": "Radar fiscal"
   },
   {
@@ -384,7 +384,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS E COFINS Empresa da Zona Franca pode aproveitar créditos de PIS e Cofins sobre insumos desonerados Hoje 11:00",
+    "title": "PIS E COFINS Empresa da Zona Franca pode aproveitar créditos de PIS e Cofins sobre insumos desonerados Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80041/stj-permite-creditos-de-pis-e-cofins-sobre-insumos-na-zona-franca/",
     "category": "Radar fiscal"
@@ -394,9 +394,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ICMS Confaz confirma convênios que preveem anistia e remissão do ICMS e parcelamento de débitos tributários Hoje 11:45",
+    "title": "ICMS Confaz confirma convênios que preveem anistia e remissão do ICMS e parcelamento de débitos tributários Ontem 11:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80022/icms-confaz-ratifica-convenios-sobre-anistia-remissao-e-parcelamento/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "GESTÃO PÚBLICA: VOCÊ ESTÁ PREPARADO PARA O PRÓXIMO CICLO? Encerramento do exercício, contabilidade e Reforma Tributária: o que muda, o que fazer e quais prazos acompanhar.",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Painel 1: Contabilidade para Controladores Internos e Demais Profissionais da Gestão Pública Palestrante: Roberto de Oliveira Moderador: Natasha Borali Painel 2: Preparação para o Encerramento do Exercício Contábil, Orçamentário, ",
+    "url": "https://cfc.org.br/eventoscfc/gestao-publica-voce-esta-preparado-para-o-proximo-ciclo-encerramento-do-exercicio-contabilidade-e-reforma-tributaria-o-que-muda-o-que-fazer-e-quais-prazos-acompanhar/",
     "category": "Radar fiscal"
   },
   {
@@ -471,16 +481,6 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP em TODOS em Caraguatatuba e São Sebastião apresenta: REFORMA TRIBUTÁRIA: Não Cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas empresas.",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: Não Cumulatividade, Simples Nacional e Principais Impactos a serem observados na formação de Preço dos Produtos e Serviços pelas empresas Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs,",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-todos-em-caraguatatuba-e-sao-sebastiao-apresenta-reforma-tributaria-nao-cumulatividade-simples-nacional-e-principais-impactos-a-serem-observados-na-formacao-de-preco-dos-produtos-e-servico/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
@@ -494,7 +494,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CLASSIFICAÇÃO FISCAL Receita esclarece NCM de produtos de artesanato, máquinas e fertilizantes Hoje 09:20",
+    "title": "CLASSIFICAÇÃO FISCAL Receita esclarece NCM de produtos de artesanato, máquinas e fertilizantes Ontem 09:20",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80026/receita-publica-solucoes-de-classificacao-fiscal-veja-os-ncms/",
     "category": "Radar fiscal"
@@ -514,9 +514,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ARTIGO TRIBUTÁRIO Reforma Tributária e cooperativas: o que muda e por que o planejamento precisa começar agora Ontem 15:15",
+    "title": "CBS COMBUSTÍVEIS Gasolina terá CBS de R$ 0,7925 por litro; veja valores dos demais combustíveis Hoje 09:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79931/reforma-tributaria-o-impacto-real-para-cooperativas-em-2026/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80053/cbs-sobre-combustiveis-fazenda-divulga-aliquotas-para-2027/",
     "category": "Radar fiscal"
   }
 ]

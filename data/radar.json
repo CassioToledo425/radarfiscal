@@ -14,29 +14,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Receita reúne especialistas para discutir Reforma Tributária e compensação de impostos 13/10/2026 10:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80028/congresso-da-receita-debate-iva-imposto-global-e-compensacoes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ISS: controvérsia pode elevar custo dos serviços 13/10/2026 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80038/ibs-e-cbs-na-base-do-iss-aumento-de-custo-para-servicos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS E COFINS Empresa da Zona Franca pode aproveitar créditos de PIS e Cofins sobre insumos desonerados 13/10/2026 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80041/stj-permite-creditos-de-pis-e-cofins-sobre-insumos-na-zona-franca/",
     "category": "Radar fiscal"
   },
   {
@@ -304,6 +284,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Quem paga a conta da transição? A disputa sobre IBS, CBS e a base do ICMS Hoje 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80085/ibs-e-cbs-ficam-fora-da-base-do-icms-em-decisao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Fim do split payment elevaria alíquota, diz área técnica do governo Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80084/fim-do-split-payment-pode-elevar-aliquota-dos-tributos/",
@@ -387,6 +377,16 @@
     "title": "Fiscalização, Ética e Disciplina",
     "summary": "",
     "url": "https://cfc.org.br/fiscalizacao-etica-e-disciplina/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "FISCALIZAÇÃO Operação Zero Km identifica créditos indevidos de PIS/Cofins no setor automotivo Hoje 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80119/receita-identifica-r-745-milhoes-em-creditos-indevidos/",
     "category": "Radar fiscal"
   },
   {

@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-10-14",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "14 de outubro de 2026 Reforma tributária: split payment combate fraudes, diz Receita Federal",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-split-payment-combate-fraudes-diz-receita-federal/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRIBUTAÇÃO Receita reúne especialistas para discutir Reforma Tributária e compensação de impostos 13/10/2026 10:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80028/congresso-da-receita-debate-iva-imposto-global-e-compensacoes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ISS: controvérsia pode elevar custo dos serviços 13/10/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80038/ibs-e-cbs-na-base-do-iss-aumento-de-custo-para-servicos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS E COFINS Empresa da Zona Franca pode aproveitar créditos de PIS e Cofins sobre insumos desonerados 13/10/2026 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80041/stj-permite-creditos-de-pis-e-cofins-sobre-insumos-na-zona-franca/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ICMS Confaz confirma convênios que preveem anistia e remissão do ICMS e parcelamento de débitos tributários 13/10/2026 11:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80022/icms-confaz-ratifica-convenios-sobre-anistia-remissao-e-parcelamento/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-13",
     "source": "FENACON",
     "level": "institutional",
@@ -21,36 +71,6 @@
   },
   {
     "date": "2026-10-12",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA NFS-e pode ser autorizada sem IBS e CBS; entenda o risco para empresas 12/10/2026 13:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79892/nfs-e-sem-ibs-e-cbs-pode-ser-autorizada-em-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-12",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA DeRE entra em operação e exige atenção de empresas e contadores 12/10/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79992/dere-a-nova-obrigacao-da-reforma-tributaria-em-outubro-de-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-12",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ARTIGO TRIBUTÁRIO Reforma Tributária e cooperativas: o que muda e por que o planejamento precisa começar agora 12/10/2026 15:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/79931/reforma-tributaria-o-impacto-real-para-cooperativas-em-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-12",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -67,26 +87,6 @@
     "title": "12 de outubro de 2026 Ato Técnico Conjunto aprova atualizações nas Notas Técnicas 009 e 010 da NFS-e",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/ato-tecnico-conjunto-aprova-atualizacoes-nas-notas-tecnicas-009-e-010-da-nfs-e/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-11",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split payment: testes começam em 15 de outubro; veja o que empresas precisam saber 11/10/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79960/split-payment-veja-como-empresas-devem-se-preparar/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-11",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Holdings patrimoniais entram no radar com mudanças tributárias 11/10/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/79920/reforma-tributaria-faz-empresarios-reavaliarem-holdings/",
     "category": "Radar fiscal"
   },
   {
@@ -160,16 +160,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-04",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "4 de outubro de 2026 DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-09-28",
     "source": "FENACON",
     "level": "institutional",
@@ -177,16 +167,6 @@
     "title": "28 de setembro de 2026 Receita Federal esclarece regras para isenção de ganho de capital na venda de imóveis residenciais",
     "summary": "",
     "url": "https://fenacon.org.br/noticias/receita-federal-esclarece-regras-para-isencao-de-ganho-de-capital-na-venda-de-imoveis-residenciais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-09-21",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "21 de setembro de 2026 Empresas do Simples poderão rever opção pelo recolhimento de IBS e CBS após definição de alíquota",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/empresas-do-simples-poderao-rever-opcao-pelo-recolhimento-de-ibs-e-cbs-apos-definicao-de-aliquota/",
     "category": "Radar fiscal"
   },
   {
@@ -204,7 +184,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "Último dia para solicitar ingresso Simples Nacional 2027: prazo de opção termina nesta quinta (15) Hoje 09:00",
+    "title": "Último dia para solicitar ingresso Simples Nacional 2027: prazo de opção termina nesta quinta (15) Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80052/prazo-simples-nacional-2027-termina-nesta-quinta-15/",
     "category": "Radar fiscal"
@@ -214,9 +194,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Receita reúne especialistas para discutir Reforma Tributária e compensação de impostos Ontem 10:15",
+    "title": "TRIBUTAÇÃO Justiça afasta aumento da base de IRPJ e CSLL para sociedades de advocacia em ação da OAB-SP Hoje 12:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80028/congresso-da-receita-debate-iva-imposto-global-e-compensacoes/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80099/oab-sp-obtem-sentenca-contra-aumento-de-10-no-lucro-presumido/",
     "category": "Radar fiscal"
   },
   {
@@ -224,7 +204,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SPLIT PAYMENT Split payment: Receita Federal inclui Pix e outros meios de pagamento nos testes da plataforma Hoje 11:30",
+    "title": "SPLIT PAYMENT Split payment: Receita Federal inclui Pix e outros meios de pagamento nos testes da plataforma Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80062/split-payment-receita-detalha-testes-que-comecam-em-15-de-outubro/",
     "category": "Radar fiscal"
@@ -234,9 +214,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SPLIT PAYMENT Receita define quais informações serão testadas na plataforma do split payment Ontem 09:30",
+    "title": "SPED FISCAL Sped esclarece quais valores das notas devem ser informados na EFD ICMS/IPI Hoje 11:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80023/split-payment-receita-detalha-testes-com-pix-boleto-e-ted/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80097/efd-icms-ipi-versao-7-8-esclarece-valores-na-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {
@@ -244,7 +224,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Justiça anula exclusão do Simples baseada em perdimento de mercadoria Hoje 16:30",
+    "title": "SIMPLES NACIONAL Último dia para pedir entrada ou retorno ao Simples Nacional em 2027 Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80086/simples-nacional-2027-prazo-de-adesao-termina-hoje-15/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Justiça anula exclusão do Simples baseada em perdimento de mercadoria Ontem 16:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80079/justica-anula-exclusao-de-empresa-do-simples-nacional/",
     "category": "Radar fiscal"
@@ -304,9 +294,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária: 86% dos documentos fiscais já destacam a CBS Ontem 09:00",
+    "title": "REFORMA TRIBUTÁRIA Receita atualiza integração das APIs da CBS e muda fluxo de consulta dos resultados Hoje 14:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80024/cbs-ja-aparece-em-86-dos-documentos-fiscais-obrigatorios/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80103/receita-muda-consulta-de-resultados-das-apis-da-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -314,17 +304,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ISS: controvérsia pode elevar custo dos serviços Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80038/ibs-e-cbs-na-base-do-iss-aumento-de-custo-para-servicos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Fim do split payment elevaria alíquota, diz área técnica do governo Hoje 17:30",
+    "title": "REFORMA TRIBUTÁRIA Fim do split payment elevaria alíquota, diz área técnica do governo Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80084/fim-do-split-payment-pode-elevar-aliquota-dos-tributos/",
     "category": "Radar fiscal"
@@ -334,7 +314,27 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA ANTT discute impactos da Reforma Tributária nos contratos de concessão rodoviária Hoje 14:45",
+    "title": "REFORMA TRIBUTÁRIA Devoluções e cancelamentos no IBS e na CBS: o que acontece com débito e crédito? Hoje 13:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80109/ibs-e-cbs-como-tratar-devolucoes-e-cancelamentos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Apuração Assistida e crédito, cumulatividade ampla Hoje 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80090/apuracao-assistida-e-credito-cumulatividade-ampla/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA ANTT discute impactos da Reforma Tributária nos contratos de concessão rodoviária Ontem 14:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80064/antt-abre-participacao-sobre-impactos-da-reforma-tributaria-em-rodovias/",
     "category": "Radar fiscal"
@@ -354,9 +354,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS E COFINS Empresa da Zona Franca pode aproveitar créditos de PIS e Cofins sobre insumos desonerados Ontem 11:00",
+    "title": "IMPOSTO SELETIVO Proposta prevê extensão temporária do IPI para setores afetados pelo Imposto Seletivo Hoje 11:45",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80041/stj-permite-creditos-de-pis-e-cofins-sobre-insumos-na-zona-franca/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80101/governo-quer-prorrogar-cobranca-do-ipi-ate-janeiro-de-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -364,19 +364,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IMPOSTO SELETIVO Dario Durigan indica MP do Imposto Seletivo no fim de outubro Hoje 14:00",
+    "title": "IMPOSTO SELETIVO Dario Durigan indica MP do Imposto Seletivo no fim de outubro Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80067/imposto-seletivo-mp-deve-ser-enviada-apos-eleicoes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ICMS Confaz confirma convênios que preveem anistia e remissão do ICMS e parcelamento de débitos tributários Ontem 11:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80022/icms-confaz-ratifica-convenios-sobre-anistia-remissao-e-parcelamento/",
     "category": "Radar fiscal"
   },
   {
@@ -471,16 +461,6 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CLASSIFICAÇÃO FISCAL Receita esclarece NCM de produtos de artesanato, máquinas e fertilizantes Ontem 09:20",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80026/receita-publica-solucoes-de-classificacao-fiscal-veja-os-ncms/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -494,7 +474,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CBS COMBUSTÍVEIS Gasolina terá CBS de R$ 0,7925 por litro; veja valores dos demais combustíveis Hoje 09:15",
+    "title": "CBS COMBUSTÍVEIS Gasolina terá CBS de R$ 0,7925 por litro; veja valores dos demais combustíveis Ontem 09:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80053/cbs-sobre-combustiveis-fazenda-divulga-aliquotas-para-2027/",
     "category": "Radar fiscal"

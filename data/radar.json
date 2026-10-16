@@ -61,16 +61,6 @@
   },
   {
     "date": "2026-10-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CBS COMBUSTÍVEIS Gasolina terá CBS de R$ 0,7925 por litro; veja valores dos demais combustíveis 14/10/2026 09:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80053/cbs-sobre-combustiveis-fazenda-divulga-aliquotas-para-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-14",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -204,6 +194,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "TRIBUTÁRIO Tema 843: o crédito presumido de ICMS fora do PIS e da Cofins, e o que fica em aberto de 2024 em diante Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80140/credito-presumido-de-icms-efeitos-da-decisao-do-stf/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "TRIBUTAÇÃO Justiça afasta aumento da base de IRPJ e CSLL para sociedades de advocacia em ação da OAB-SP Ontem 12:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80099/oab-sp-obtem-sentenca-contra-aumento-de-10-no-lucro-presumido/",
@@ -324,6 +324,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Imposto Seletivo 2027: alíquotas ficam para depois Hoje 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80138/imposto-seletivo-2027-aliquotas-ficam-para-depois/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Fisco amplia prazo de testes do valor líquido em seis documentos fiscais Hoje 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80124/ibs-e-cbs-testes-de-novos-campos-sao-adiados-para-ate-26-10/",
@@ -354,9 +364,29 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
+    "title": "Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária “Módulo 4 – Os Impactos da Reforma Tributária sobre o Consumo”",
+    "summary": "Reforma Tributária na prática: o que muda para o consumo? A Reforma Tributária já está transformando a forma de pensar a tributação e compreender seus impactos sobre o consumo é indispensável para quem atua na contabilidade. No Módulo 4 da Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária, você poderá apr",
+    "url": "https://cfc.org.br/eventoscfc/programa-trilha-de-aprendizagem-aplicacao-pratica-da-reforma-tributaria-modulo-4-os-impactos-da-reforma-tributaria-sobre-o-consumo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
     "title": "Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária “Módulo 3 – Reforma Tributária e os Impactos no Terceiro Setor”",
     "summary": "A Reforma Tributária também impactará o Terceiro Setor. Você está preparado para orientar seus clientes? Associações, fundações, entidades filantrópicas e outras organizações sem fins lucrativos também estão diante de um cenário de mudanças que exige atenção dos profissionais da contabilidade. No Módulo 3 da Trilha de ",
     "url": "https://cfc.org.br/eventoscfc/programa-trilha-de-aprendizagem-aplicacao-pratica-da-reforma-tributaria-modulo-3-reforma-tributaria-e-os-impactos-no-terceiro-setor/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS E COFINS STF mantém sem data julgamento sobre ISS na base do PIS e da Cofins Hoje 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80142/stf-julgamento-do-iss-no-pis-cofins-segue-indefinido/",
     "category": "Radar fiscal"
   },
   {
@@ -457,16 +487,6 @@
     "title": "CRCSP para TODOS em Praia Grande apresenta:REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
     "summary": "Programa: CRCSP para TODOS em Praia Grande apresenta:REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ARNOBIO NETO ARAUJO DURAES Doutor em Controla",
     "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-praia-grande-apresentareforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP para TODOS em Cosmópolis e Pedreira apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ARNOBIO ",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-cosmopolis-e-pedreira-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
     "category": "Radar fiscal"
   },
   {

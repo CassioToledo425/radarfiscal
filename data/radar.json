@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-10-15",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "15 de outubro de 2026 Reforma tributária deve aumentar preços dos serviços contábeis, aponta estudo do Sescon-SP",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-deve-aumentar-precos-dos-servicos-contabeis-aponta-estudo-do-sescon-sp/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SPLIT PAYMENT Split payment: Receita Federal inclui Pix e outros meios de pagamento nos testes da plataforma 14/10/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80062/split-payment-receita-detalha-testes-que-comecam-em-15-de-outubro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Justiça anula exclusão do Simples baseada em perdimento de mercadoria 14/10/2026 16:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80079/justica-anula-exclusao-de-empresa-do-simples-nacional/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Fim do split payment elevaria alíquota, diz área técnica do governo 14/10/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80084/fim-do-split-payment-pode-elevar-aliquota-dos-tributos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA ANTT discute impactos da Reforma Tributária nos contratos de concessão rodoviária 14/10/2026 14:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80064/antt-abre-participacao-sobre-impactos-da-reforma-tributaria-em-rodovias/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO SELETIVO Dario Durigan indica MP do Imposto Seletivo no fim de outubro 14/10/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80067/imposto-seletivo-mp-deve-ser-enviada-apos-eleicoes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CBS COMBUSTÍVEIS Gasolina terá CBS de R$ 0,7925 por litro; veja valores dos demais combustíveis 14/10/2026 09:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80053/cbs-sobre-combustiveis-fazenda-divulga-aliquotas-para-2027/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-14",
     "source": "FENACON",
     "level": "institutional",
@@ -7,26 +77,6 @@
     "title": "14 de outubro de 2026 Reforma tributária: split payment combate fraudes, diz Receita Federal",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-split-payment-combate-fraudes-diz-receita-federal/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ISS: controvérsia pode elevar custo dos serviços 13/10/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80038/ibs-e-cbs-na-base-do-iss-aumento-de-custo-para-servicos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ICMS Confaz confirma convênios que preveem anistia e remissão do ICMS e parcelamento de débitos tributários 13/10/2026 11:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80022/icms-confaz-ratifica-convenios-sobre-anistia-remissao-e-parcelamento/",
     "category": "Radar fiscal"
   },
   {
@@ -130,16 +180,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-05",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "5 de outubro de 2026 RAD surge como alternativa ao split payment a partir de janeiro; entenda o mecanismo",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/rad-surge-como-alternativa-ao-split-payment-a-partir-de-janeiro-entenda-o-mecanismo/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-09-28",
     "source": "FENACON",
     "level": "institutional",
@@ -164,17 +204,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "Último dia para solicitar ingresso Simples Nacional 2027: prazo de opção termina nesta quinta (15) Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80052/prazo-simples-nacional-2027-termina-nesta-quinta-15/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTAÇÃO Justiça afasta aumento da base de IRPJ e CSLL para sociedades de advocacia em ação da OAB-SP Hoje 12:00",
+    "title": "TRIBUTAÇÃO Justiça afasta aumento da base de IRPJ e CSLL para sociedades de advocacia em ação da OAB-SP Ontem 12:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80099/oab-sp-obtem-sentenca-contra-aumento-de-10-no-lucro-presumido/",
     "category": "Radar fiscal"
@@ -184,17 +214,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SPLIT PAYMENT Split payment: Receita Federal inclui Pix e outros meios de pagamento nos testes da plataforma Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80062/split-payment-receita-detalha-testes-que-comecam-em-15-de-outubro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SPED FISCAL Sped esclarece quais valores das notas devem ser informados na EFD ICMS/IPI Hoje 11:15",
+    "title": "SPED FISCAL Sped esclarece quais valores das notas devem ser informados na EFD ICMS/IPI Ontem 11:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80097/efd-icms-ipi-versao-7-8-esclarece-valores-na-reforma-tributaria/",
     "category": "Radar fiscal"
@@ -204,7 +224,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Último dia para pedir entrada ou retorno ao Simples Nacional em 2027 Hoje 10:00",
+    "title": "SIMPLES NACIONAL Último dia para pedir entrada ou retorno ao Simples Nacional em 2027 Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80086/simples-nacional-2027-prazo-de-adesao-termina-hoje-15/",
     "category": "Radar fiscal"
@@ -214,9 +234,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Justiça anula exclusão do Simples baseada em perdimento de mercadoria Ontem 16:30",
+    "title": "SIMPLES NACIONAL Opção pelo regime regular do IBS e da CBS chega a 891 mil solicitações Hoje 09:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80079/justica-anula-exclusao-de-empresa-do-simples-nacional/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80125/receita-registra-891-mil-pedidos-para-ibs-e-cbs-no-regime-regular/",
     "category": "Radar fiscal"
   },
   {
@@ -227,6 +247,16 @@
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SEGURANÇA FISCAL Recebeu cobrança em nome da Sefaz-SP? Confira antes de pagar Hoje 11:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80129/sefaz-sp-alerta-para-golpes-com-falsas-cobrancas-de-impostos/",
     "category": "Radar fiscal"
   },
   {
@@ -274,7 +304,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita atualiza integração das APIs da CBS e muda fluxo de consulta dos resultados Hoje 14:30",
+    "title": "REFORMA TRIBUTÁRIA Receita atualiza integração das APIs da CBS e muda fluxo de consulta dos resultados Ontem 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80103/receita-muda-consulta-de-resultados-das-apis-da-cbs/",
     "category": "Radar fiscal"
@@ -284,7 +314,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Quem paga a conta da transição? A disputa sobre IBS, CBS e a base do ICMS Hoje 19:30",
+    "title": "REFORMA TRIBUTÁRIA Quem paga a conta da transição? A disputa sobre IBS, CBS e a base do ICMS Ontem 19:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80085/ibs-e-cbs-ficam-fora-da-base-do-icms-em-decisao/",
     "category": "Radar fiscal"
@@ -294,9 +324,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Fim do split payment elevaria alíquota, diz área técnica do governo Ontem 17:30",
+    "title": "REFORMA TRIBUTÁRIA Fisco amplia prazo de testes do valor líquido em seis documentos fiscais Hoje 09:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80084/fim-do-split-payment-pode-elevar-aliquota-dos-tributos/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80124/ibs-e-cbs-testes-de-novos-campos-sao-adiados-para-ate-26-10/",
     "category": "Radar fiscal"
   },
   {
@@ -304,7 +334,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Devoluções e cancelamentos no IBS e na CBS: o que acontece com débito e crédito? Hoje 13:30",
+    "title": "REFORMA TRIBUTÁRIA Devoluções e cancelamentos no IBS e na CBS: o que acontece com débito e crédito? Ontem 13:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80109/ibs-e-cbs-como-tratar-devolucoes-e-cancelamentos/",
     "category": "Radar fiscal"
@@ -314,19 +344,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Apuração Assistida e crédito, cumulatividade ampla Hoje 15:00",
+    "title": "REFORMA TRIBUTÁRIA Apuração Assistida e crédito, cumulatividade ampla Ontem 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80090/apuracao-assistida-e-credito-cumulatividade-ampla/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA ANTT discute impactos da Reforma Tributária nos contratos de concessão rodoviária Ontem 14:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80064/antt-abre-participacao-sobre-impactos-da-reforma-tributaria-em-rodovias/",
     "category": "Radar fiscal"
   },
   {
@@ -344,9 +364,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IMPOSTO SELETIVO Proposta prevê extensão temporária do IPI para setores afetados pelo Imposto Seletivo Hoje 11:45",
+    "title": "JUSTIÇA TRIBUTÁRIA STJ vai definir se condenação por crime tributário pode fixar reparação mínima ao Fisco Hoje 11:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80101/governo-quer-prorrogar-cobranca-do-ipi-ate-janeiro-de-2027/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80134/stj-analisa-indenizacao-minima-por-crime-tributario/",
     "category": "Radar fiscal"
   },
   {
@@ -354,9 +374,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IMPOSTO SELETIVO Dario Durigan indica MP do Imposto Seletivo no fim de outubro Ontem 14:00",
+    "title": "IMPOSTO SELETIVO Proposta prevê extensão temporária do IPI para setores afetados pelo Imposto Seletivo Ontem 11:45",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80067/imposto-seletivo-mp-deve-ser-enviada-apos-eleicoes/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80101/governo-quer-prorrogar-cobranca-do-ipi-ate-janeiro-de-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -384,7 +404,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "FISCALIZAÇÃO Operação Zero Km identifica créditos indevidos de PIS/Cofins no setor automotivo Hoje 17:30",
+    "title": "FISCALIZAÇÃO Operação Zero Km identifica créditos indevidos de PIS/Cofins no setor automotivo Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80119/receita-identifica-r-745-milhoes-em-creditos-indevidos/",
     "category": "Radar fiscal"
@@ -467,16 +487,6 @@
     "title": "CFC, RFB e Fenacon apresentam último módulo do curso sobre Reforma Tributária",
     "summary": "O Dia do Contador foi marcado pela conclusão do curso sobre a Reforma Tributária do Consumo (RTC). Realizado na manhã desta terça-feira (22), o último módulo da capacitação abordou “Temas complementares e aplicação prática (casos especiais)”. O evento foi transmitido pelo canal do Conselho Federal de Contabilidade (CFC",
     "url": "https://cfc.org.br/noticias/cfc-rfb-e-fenacon-apresentam-ultimo-modulo-do-curso-sobre-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CBS COMBUSTÍVEIS Gasolina terá CBS de R$ 0,7925 por litro; veja valores dos demais combustíveis Ontem 09:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80053/cbs-sobre-combustiveis-fazenda-divulga-aliquotas-para-2027/",
     "category": "Radar fiscal"
   }
 ]

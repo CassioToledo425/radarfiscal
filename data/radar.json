@@ -84,69 +84,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Justiça afasta aumento da base de IRPJ e CSLL para sociedades de advocacia em ação da OAB-SP 15/10/2026 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80099/oab-sp-obtem-sentenca-contra-aumento-de-10-no-lucro-presumido/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita atualiza integração das APIs da CBS e muda fluxo de consulta dos resultados 15/10/2026 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80103/receita-muda-consulta-de-resultados-das-apis-da-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Quem paga a conta da transição? A disputa sobre IBS, CBS e a base do ICMS 15/10/2026 19:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80085/ibs-e-cbs-ficam-fora-da-base-do-icms-em-decisao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Devoluções e cancelamentos no IBS e na CBS: o que acontece com débito e crédito? 15/10/2026 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80109/ibs-e-cbs-como-tratar-devolucoes-e-cancelamentos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Apuração Assistida e crédito, cumulatividade ampla 15/10/2026 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80090/apuracao-assistida-e-credito-cumulatividade-ampla/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO SELETIVO Proposta prevê extensão temporária do IPI para setores afetados pelo Imposto Seletivo 15/10/2026 11:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80101/governo-quer-prorrogar-cobranca-do-ipi-ate-janeiro-de-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "FISCALIZAÇÃO Operação Zero Km identifica créditos indevidos de PIS/Cofins no setor automotivo 15/10/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80119/receita-identifica-r-745-milhoes-em-creditos-indevidos/",
     "category": "Radar fiscal"
   },
   {
@@ -294,6 +234,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "TRIBUTAÇÃO STJ nega exclusão do ICMS da base do PIS e da Cofins no regime por volume Hoje 16:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80168/stj-mantem-icms-no-calculo-do-pis-cofins-por-volume/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "TRIBUTAÇÃO Receita defende tributação do deságio de créditos de ICMS antes de sua utilização Hoje 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80143/desagio-na-compra-de-creditos-de-icms-deve-pagar-irpj-e-csll/",
@@ -327,6 +277,16 @@
     "title": "SIMPLES NACIONAL Simples Nacional tem 401 mil pedidos negados; prazo para regularizar termina dia 30 Hoje 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80144/simples-nacional-401-mil-pedidos-foram-indeferidos-para-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL MEI poderá ter dívidas perdoadas, mas benefício exige cumprimento de condições Hoje 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80176/perdao-de-dividas-do-mei-veja-condicoes-previstas-no-projeto/",
     "category": "Radar fiscal"
   },
   {
@@ -447,6 +407,16 @@
     "title": "Fiscalização, Ética e Disciplina",
     "summary": "",
     "url": "https://cfc.org.br/fiscalizacao-etica-e-disciplina/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "FISCALIZAÇÃO Goiás cria grupo especial para combater créditos irregulares de ICMS Hoje 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80166/goias-reforca-fiscalizacao-de-creditos-de-icms/",
     "category": "Radar fiscal"
   },
   {

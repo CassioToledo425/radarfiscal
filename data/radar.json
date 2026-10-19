@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-17",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária: 80% das empresas têm dúvidas sobre impacto nos preços 17/10/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80115/empresas-enfrentam-desafios-para-ajustar-precos-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-16",
     "source": "Portal Contábeis",
     "level": "specialized",
@@ -84,26 +94,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SPED FISCAL Sped esclarece quais valores das notas devem ser informados na EFD ICMS/IPI 15/10/2026 11:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80097/efd-icms-ipi-versao-7-8-esclarece-valores-na-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Último dia para pedir entrada ou retorno ao Simples Nacional em 2027 15/10/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80086/simples-nacional-2027-prazo-de-adesao-termina-hoje-15/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Receita atualiza integração das APIs da CBS e muda fluxo de consulta dos resultados 15/10/2026 14:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80103/receita-muda-consulta-de-resultados-das-apis-da-cbs/",
@@ -167,46 +157,6 @@
     "title": "15 de outubro de 2026 Reforma tributária deve aumentar preços dos serviços contábeis, aponta estudo do Sescon-SP",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-deve-aumentar-precos-dos-servicos-contabeis-aponta-estudo-do-sescon-sp/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Justiça anula exclusão do Simples baseada em perdimento de mercadoria 14/10/2026 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80079/justica-anula-exclusao-de-empresa-do-simples-nacional/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Fim do split payment elevaria alíquota, diz área técnica do governo 14/10/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80084/fim-do-split-payment-pode-elevar-aliquota-dos-tributos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA ANTT discute impactos da Reforma Tributária nos contratos de concessão rodoviária 14/10/2026 14:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80064/antt-abre-participacao-sobre-impactos-da-reforma-tributaria-em-rodovias/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO SELETIVO Dario Durigan indica MP do Imposto Seletivo no fim de outubro 14/10/2026 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80067/imposto-seletivo-mp-deve-ser-enviada-apos-eleicoes/",
     "category": "Radar fiscal"
   },
   {
@@ -344,6 +294,46 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "TRIBUTAÇÃO Receita defende tributação do deságio de créditos de ICMS antes de sua utilização Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80143/desagio-na-compra-de-creditos-de-icms-deve-pagar-irpj-e-csll/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "TRANSIÇÃO IBS Sefaz-MT e TCE-MT alertam municípios sobre efeitos da transição para o IBS nas receitas locais Hoje 14:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80162/sefaz-mt-e-tce-mt-alertam-municipios-sobre-impacto-do-ibs-na-arrecadacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "STF E TRIBUTOS STF retoma julgamento sobre ISS no PIS e na Cofins que pode afetar empresas Hoje 11:30",
+    "summary": "Foto: Tingey Injury Law Firm / Unsplash · Licença Unsplash",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Simples Nacional tem 401 mil pedidos negados; prazo para regularizar termina dia 30 Hoje 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80144/simples-nacional-401-mil-pedidos-foram-indeferidos-para-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
@@ -394,9 +384,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária: 80% das empresas têm dúvidas sobre impacto nos preços Ontem 09:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode manter IPI sobre determinados produtos em janeiro de 2027 Hoje 09:45",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80115/empresas-enfrentam-desafios-para-ajustar-precos-a-reforma-tributaria/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80147/fazenda-prepara-pec-para-manter-cobranca-do-ipi-em-janeiro-de-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Como escolher o cClassTrib correto para cada operação de venda ou serviço Hoje 10:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80149/cclasstrib-como-definir-o-codigo-de-produtos-e-servicos/",
     "category": "Radar fiscal"
   },
   {
@@ -417,6 +417,16 @@
     "title": "Programa Trilha de Aprendizagem: Aplicação Prática da Reforma Tributária “Módulo 3 – Reforma Tributária e os Impactos no Terceiro Setor”",
     "summary": "A Reforma Tributária também impactará o Terceiro Setor. Você está preparado para orientar seus clientes? Associações, fundações, entidades filantrópicas e outras organizações sem fins lucrativos também estão diante de um cenário de mudanças que exige atenção dos profissionais da contabilidade. No Módulo 3 da Trilha de ",
     "url": "https://cfc.org.br/eventoscfc/programa-trilha-de-aprendizagem-aplicacao-pratica-da-reforma-tributaria-modulo-3-reforma-tributaria-e-os-impactos-no-terceiro-setor/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PRAZOS TRIBUTÁRIOS Prazo para recolher imposto afetado por falha no e-Fisco de PE termina nesta segunda (19) Hoje 10:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80150/e-fisco-prazo-para-recolher-imposto-termina-hoje/",
     "category": "Radar fiscal"
   },
   {
@@ -447,6 +457,16 @@
     "title": "Escola Técnica CRCPR – Reforma Tributária: Não-cumulatividade e impactos nas relações comerciais",
     "summary": "Nesta palestra da Escola Técnica CRCPR, explore os principais impactos da Reforma Tributária nas relações comerciais, com foco na não cumulatividade do IBS e CBS. Entenda como funcionará a geração, utilização e restituição de créditos, além dos reflexos nas operações com fornecedores, inclusive do Simples Nacional. Con",
     "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-reforma-tributaria-nao-cumulatividade-e-impactos-nas-relacoes-comerciais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ENCARGOS TRABALHISTAS Redução da jornada exige revisão da folha, mas não aumenta tributos automaticamente Hoje 11:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80152/fim-da-escala-6x1-quais-sao-os-impactos-tributarios/",
     "category": "Radar fiscal"
   },
   {

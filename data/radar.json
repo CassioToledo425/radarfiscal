@@ -164,16 +164,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Receita defende tributação do deságio de créditos de ICMS antes de sua utilização Ontem 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80143/desagio-na-compra-de-creditos-de-icms-deve-pagar-irpj-e-csll/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "TRANSIÇÃO IBS Sefaz-MT e TCE-MT alertam municípios sobre efeitos da transição para o IBS nas receitas locais Ontem 14:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80162/sefaz-mt-e-tce-mt-alertam-municipios-sobre-impacto-do-ibs-na-arrecadacao/",
@@ -197,6 +187,16 @@
     "title": "STF E TRIBUTOS STF retoma julgamento sobre ISS no PIS e na Cofins que pode afetar empresas Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Simples Nacional: opção pelo regime híbrido exige análise do perfil dos clientes e da carga tributária Hoje 18:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80177/simples-hibrido-como-avaliar-a-migracao-em-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -287,16 +287,6 @@
     "title": "REFORMA TRIBUTÁRIA Empresas ainda emitem 600 milhões de notas sem destaque da CBS Hoje 15:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80201/cbs-600-milhoes-de-notas-sairam-sem-o-tributo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Como escolher o cClassTrib correto para cada operação de venda ou serviço Ontem 10:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80149/cclasstrib-como-definir-o-codigo-de-produtos-e-servicos/",
     "category": "Radar fiscal"
   },
   {

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-20",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "20 de outubro de 2026 Reforma tributária deve ser mantida, mas regras podem mudar em caso de transição de governo",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-deve-ser-mantida-mas-regras-podem-mudar-em-caso-de-transicao-de-governo/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-17",
     "source": "Portal Contábeis",
     "level": "specialized",
@@ -17,16 +27,6 @@
     "title": "TRIBUTÁRIO Tema 843: o crédito presumido de ICMS fora do PIS e da Cofins, e o que fica em aberto de 2024 em diante 16/10/2026 18:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80140/credito-presumido-de-icms-efeitos-da-decisao-do-stf/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Opção pelo regime regular do IBS e da CBS chega a 891 mil solicitações 16/10/2026 09:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80125/receita-registra-891-mil-pedidos-para-ibs-e-cbs-no-regime-regular/",
     "category": "Radar fiscal"
   },
   {
@@ -54,39 +54,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Fisco amplia prazo de testes do valor líquido em seis documentos fiscais 16/10/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80124/ibs-e-cbs-testes-de-novos-campos-sao-adiados-para-ate-26-10/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "PIS E COFINS STF mantém sem data julgamento sobre ISS na base do PIS e da Cofins 16/10/2026 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80142/stf-julgamento-do-iss-no-pis-cofins-segue-indefinido/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "JUSTIÇA TRIBUTÁRIA STJ vai definir se condenação por crime tributário pode fixar reparação mínima ao Fisco 16/10/2026 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80134/stj-analisa-indenizacao-minima-por-crime-tributario/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-15",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Quem paga a conta da transição? A disputa sobre IBS, CBS e a base do ICMS 15/10/2026 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80085/ibs-e-cbs-ficam-fora-da-base-do-icms-em-decisao/",
     "category": "Radar fiscal"
   },
   {
@@ -234,7 +204,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO STJ nega exclusão do ICMS da base do PIS e da Cofins no regime por volume Hoje 16:15",
+    "title": "TRIBUTAÇÃO STJ nega exclusão do ICMS da base do PIS e da Cofins no regime por volume Ontem 16:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80168/stj-mantem-icms-no-calculo-do-pis-cofins-por-volume/",
     "category": "Radar fiscal"
@@ -244,7 +214,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Receita defende tributação do deságio de créditos de ICMS antes de sua utilização Hoje 10:00",
+    "title": "TRIBUTAÇÃO Receita defende tributação do deságio de créditos de ICMS antes de sua utilização Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80143/desagio-na-compra-de-creditos-de-icms-deve-pagar-irpj-e-csll/",
     "category": "Radar fiscal"
@@ -254,7 +224,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRANSIÇÃO IBS Sefaz-MT e TCE-MT alertam municípios sobre efeitos da transição para o IBS nas receitas locais Hoje 14:15",
+    "title": "TRANSIÇÃO IBS Sefaz-MT e TCE-MT alertam municípios sobre efeitos da transição para o IBS nas receitas locais Ontem 14:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80162/sefaz-mt-e-tce-mt-alertam-municipios-sobre-impacto-do-ibs-na-arrecadacao/",
     "category": "Radar fiscal"
@@ -264,7 +234,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "STF E TRIBUTOS STF retoma julgamento sobre ISS no PIS e na Cofins que pode afetar empresas Hoje 11:30",
+    "title": "STF E TRIBUTOS STF retoma julgamento sobre ISS no PIS e na Cofins que pode afetar empresas Ontem 11:30",
     "summary": "Foto: Tingey Injury Law Firm / Unsplash · Licença Unsplash",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
     "category": "Radar fiscal"
@@ -274,7 +244,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional tem 401 mil pedidos negados; prazo para regularizar termina dia 30 Hoje 09:30",
+    "title": "SIMPLES NACIONAL Simples Nacional tem 401 mil pedidos negados; prazo para regularizar termina dia 30 Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80144/simples-nacional-401-mil-pedidos-foram-indeferidos-para-2027/",
     "category": "Radar fiscal"
@@ -284,7 +254,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL MEI poderá ter dívidas perdoadas, mas benefício exige cumprimento de condições Hoje 17:00",
+    "title": "SIMPLES NACIONAL MEI tem até esta terça-feira (20) para quitar contribuição mensal de setembro Hoje 09:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80183/das-mei-vence-nesta-terca-feira-20-veja-como-pagar/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL MEI poderá ter dívidas perdoadas, mas benefício exige cumprimento de condições Ontem 17:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80176/perdao-de-dividas-do-mei-veja-condicoes-previstas-no-projeto/",
     "category": "Radar fiscal"
@@ -344,7 +324,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode manter IPI sobre determinados produtos em janeiro de 2027 Hoje 09:45",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode manter IPI sobre determinados produtos em janeiro de 2027 Ontem 09:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80147/fazenda-prepara-pec-para-manter-cobranca-do-ipi-em-janeiro-de-2027/",
     "category": "Radar fiscal"
@@ -354,7 +334,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Como escolher o cClassTrib correto para cada operação de venda ou serviço Hoje 10:15",
+    "title": "REFORMA TRIBUTÁRIA Como escolher o cClassTrib correto para cada operação de venda ou serviço Ontem 10:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80149/cclasstrib-como-definir-o-codigo-de-produtos-e-servicos/",
     "category": "Radar fiscal"
@@ -384,9 +364,49 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PRAZOS TRIBUTÁRIOS Prazo para recolher imposto afetado por falha no e-Fisco de PE termina nesta segunda (19) Hoje 10:45",
+    "title": "PRAZOS TRIBUTÁRIOS Prazo para recolher imposto afetado por falha no e-Fisco de PE termina nesta segunda (19) Ontem 10:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80150/e-fisco-prazo-para-recolher-imposto-termina-hoje/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NOTA FISCAL DE SERVIÇO NFS-e Via permite ao adquirente apontar divergências e confirmar serviços Hoje 09:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80181/nfs-e-via-libera-manifestacao-do-adquirente-e-nova-opcao-de-pagamento/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "MALHA FINA IR Receita Federal envia cartas a quase 500 mil contribuintes com declarações retidas na malha fina Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80185/malha-fina-do-ir-2026-receita-envia-cartas-a-498-mil-contribuintes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ISS MUNICIPAL João Pessoa amplia prazo do ISS após dificuldades na adaptação do sistema fiscal Hoje 10:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80186/iss-de-joao-pessoa-pagamento-de-setembro-vai-ate-sexta-23/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IRRF Carf define que identificação do beneficiário não afasta IRRF de 35% sem comprovação da operação Hoje 09:45",
+    "summary": "Foto: Kelly Sikkema / Unsplash · Licença Unsplash",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80187/carf-aprova-sumula-sobre-irrf-de-35-em-pagamentos-identificados/",
     "category": "Radar fiscal"
   },
   {
@@ -414,7 +434,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "FISCALIZAÇÃO Goiás cria grupo especial para combater créditos irregulares de ICMS Hoje 15:00",
+    "title": "FISCALIZAÇÃO Goiás cria grupo especial para combater créditos irregulares de ICMS Ontem 15:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80166/goias-reforca-fiscalizacao-de-creditos-de-icms/",
     "category": "Radar fiscal"
@@ -434,7 +454,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ENCARGOS TRABALHISTAS Redução da jornada exige revisão da folha, mas não aumenta tributos automaticamente Hoje 11:15",
+    "title": "ENCARGOS TRABALHISTAS Redução da jornada exige revisão da folha, mas não aumenta tributos automaticamente Ontem 11:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80152/fim-da-escala-6x1-quais-sao-os-impactos-tributarios/",
     "category": "Radar fiscal"

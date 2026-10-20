@@ -10,56 +10,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-17",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária: 80% das empresas têm dúvidas sobre impacto nos preços 17/10/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80115/empresas-enfrentam-desafios-para-ajustar-precos-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTÁRIO Tema 843: o crédito presumido de ICMS fora do PIS e da Cofins, e o que fica em aberto de 2024 em diante 16/10/2026 18:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80140/credito-presumido-de-icms-efeitos-da-decisao-do-stf/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SEGURANÇA FISCAL Recebeu cobrança em nome da Sefaz-SP? Confira antes de pagar 16/10/2026 11:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80129/sefaz-sp-alerta-para-golpes-com-falsas-cobrancas-de-impostos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Imposto Seletivo 2027: alíquotas ficam para depois 16/10/2026 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80138/imposto-seletivo-2027-aliquotas-ficam-para-depois/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-16",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS E COFINS STF mantém sem data julgamento sobre ISS na base do PIS e da Cofins 16/10/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80142/stf-julgamento-do-iss-no-pis-cofins-segue-indefinido/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-10-15",
     "source": "FENACON",
     "level": "institutional",
@@ -234,9 +184,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "STF E TRIBUTOS STF retoma julgamento sobre ISS no PIS e na Cofins que pode afetar empresas Ontem 11:30",
-    "summary": "Foto: Tingey Injury Law Firm / Unsplash · Licença Unsplash",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
+    "title": "TRABALHISTA Novo código identifica contribuição do segurado recolhida pela Justiça do Trabalho Hoje 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80199/receita-cria-codigo-darf-6793-para-contribuicao-em-acoes-trabalhistas/",
     "category": "Radar fiscal"
   },
   {
@@ -244,9 +194,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional tem 401 mil pedidos negados; prazo para regularizar termina dia 30 Ontem 09:30",
+    "title": "STF E TRIBUTOS STF retoma julgamento sobre ISS no PIS e na Cofins que pode afetar empresas Ontem 11:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80144/simples-nacional-401-mil-pedidos-foram-indeferidos-para-2027/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
     "category": "Radar fiscal"
   },
   {
@@ -324,9 +274,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode manter IPI sobre determinados produtos em janeiro de 2027 Ontem 09:45",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária deve redefinir investimentos e expansão das montadoras Hoje 16:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80147/fazenda-prepara-pec-para-manter-cobranca-do-ipi-em-janeiro-de-2027/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80204/reforma-tributaria-muda-planos-da-industria-automotiva/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Empresas ainda emitem 600 milhões de notas sem destaque da CBS Hoje 15:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80201/cbs-600-milhoes-de-notas-sairam-sem-o-tributo/",
     "category": "Radar fiscal"
   },
   {
@@ -394,6 +354,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "LUCRO PRESUMIDO Receita esclarece percentuais de IRPJ e CSLL para construção de redes pluviais Hoje 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80194/receita-esclarece-irpj-e-csll-sobre-redes-pluviais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "ISS MUNICIPAL João Pessoa amplia prazo do ISS após dificuldades na adaptação do sistema fiscal Hoje 10:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80186/iss-de-joao-pessoa-pagamento-de-setembro-vai-ate-sexta-23/",
@@ -405,8 +375,18 @@
     "level": "specialized",
     "kind": "update",
     "title": "IRRF Carf define que identificação do beneficiário não afasta IRRF de 35% sem comprovação da operação Hoje 09:45",
-    "summary": "Foto: Kelly Sikkema / Unsplash · Licença Unsplash",
+    "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80187/carf-aprova-sumula-sobre-irrf-de-35-em-pagamentos-identificados/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "INCENTIVOS FISCAIS Receita Federal esclarece cálculo do reinvestimento de IRPJ na Sudene Hoje 16:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80206/sudene-adicional-de-irpj-fica-fora-do-reinvestimento/",
     "category": "Radar fiscal"
   },
   {

@@ -304,6 +304,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "SIMPLES NACIONAL Pedido de opção pelo Simples indeferido? Empresas têm até esta sexta (30) para resolver pendências Hoje 09:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80339/simples-nacional-prazo-para-regularizar-pendencias-termina-dia-30/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
@@ -334,16 +344,6 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "Reforma Tributária do Consumo para Empresários",
-    "summary": "Nesta palestra, organizada pela Comissão de Assuntos Contábeis, Fiscais e Tributários, entenda, de forma prática e estratégica, como a Reforma Tributária impactará a gestão, os custos e a competitividade da sua empresa. Saiba como as novas regras da CBS, IBS e Imposto Seletivo afetarão preços, créditos tributários e op",
-    "url": "https://cfc.org.br/eventoscfc/reforma-tributaria-do-consumo-para-empresarios/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
     "title": "Radar Contabilidade Pública “Regime de Compras Governamentais na Reforma Tributária sobre o consumo”",
     "summary": "A Reforma Tributária sobre o consumo também traz mudanças e desafios para a administração pública. Mas, na prática, como o novo cenário pode afetar o regime de compras governamentais e a despesa pública? Esse será o tema do próximo Radar Contabilidade Pública, promovido pelo CRCSC. O evento terá a participação do Audit",
     "url": "https://cfc.org.br/eventoscfc/radar-contabilidade-publica-regime-de-compras-governamentais-na-reforma-tributaria-sobre-o-consumo/",
@@ -354,9 +354,49 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA cClassTrib na Reforma Tributária: entenda os reflexos na rotina contábil Hoje 11:00",
+    "title": "REGULARIZAÇÃO FISCAL Negocie Já II passa a abranger débitos até abril de 2026 em Goiás Hoje 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80349/negocie-ja-ii-goias-amplia-periodo-das-dividas-abrangidas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA cClassTrib na Reforma Tributária: entenda os reflexos na rotina contábil Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80293/cclasstrib-exige-atencao-na-parametrizacao-fiscal/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária retoma agenda após fim das eleições e alíquota da CBS deve avançar nesta semana Hoje 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80345/reforma-tributaria-retoma-agenda-e-avanca-na-definicao-da-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Novas normas simplificam obrigações tributárias de nanoempreendedores e microempreendedores individuais Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80338/reforma-simplifica-regras-fiscais-para-nanoempreendedores-e-meis/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CBS avança em 2027, mas alíquotas e medidas complementares ainda exigem acompanhamento Hoje 10:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80342/cbs-substitui-pis-e-cofins-em-2027-veja-o-que-falta-definir/",
     "category": "Radar fiscal"
   },
   {
@@ -384,7 +424,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PROCESSO TRIBUTÁRIO Decisão tributária saiu: o prazo do recurso começa no julgamento ou na intimação? Hoje 09:00",
+    "title": "PROCESSO TRIBUTÁRIO Decisão tributária saiu: o prazo do recurso começa no julgamento ou na intimação? Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80272/processo-tributario-quando-comeca-o-prazo-para-recorrer/",
     "category": "Radar fiscal"
@@ -417,6 +457,16 @@
     "title": "Escola Técnica CRCPR – Reforma Tributária: Não-cumulatividade e impactos nas relações comerciais",
     "summary": "Nesta palestra da Escola Técnica CRCPR, explore os principais impactos da Reforma Tributária nas relações comerciais, com foco na não cumulatividade do IBS e CBS. Entenda como funcionará a geração, utilização e restituição de créditos, além dos reflexos nas operações com fornecedores, inclusive do Simples Nacional. Con",
     "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-reforma-tributaria-nao-cumulatividade-e-impactos-nas-relacoes-comerciais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Escola Técnica CRCPR – Reforma Tributária sem Complicação: Do Cenário à Simulação",
+    "summary": "João Luis Moura Gestor de Desenvolvimento de Produtos no Sebrae/PR. Atua como consultor e instrutor nas áreas de Empreendedorismo, Inovação e Gestão de Empresas. Leia mais Sem categoria 26 outubro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-reforma-tributaria-sem-complicacao-do-cenario-a-simulacao/",
     "category": "Radar fiscal"
   },
   {
@@ -484,7 +534,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CONFORMIDADE FISCAL Receita Sintonia: como consultar a classificação fiscal e melhorar a conformidade Hoje 10:00",
+    "title": "CONFORMIDADE FISCAL Receita Sintonia: como consultar a classificação fiscal e melhorar a conformidade Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80287/receita-sintonia-consulte-a-nota-fiscal-da-empresa/",
     "category": "Radar fiscal"

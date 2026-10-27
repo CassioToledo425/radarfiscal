@@ -120,46 +120,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-22",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTAÇÃO STF exclui ISS da base de cálculo do PIS e da Cofins 22/10/2026 18:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80276/iss-fora-do-pis-e-da-cofins-decisao-do-stf/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-22",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária, Tema 1.348/STF e o novo momento do planejamento patrimonial e sucessório 22/10/2026 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80248/itbi-em-holdings-stf-define-imunidade-na-integralizacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-22",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Acabar com o split payment ou limitar seu alcance? 22/10/2026 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80279/split-payment-artigo-defende-revisao-antes-da-expansao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-22",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CLASSIFICAÇÃO FISCAL Carf confirma cobrança de IPI sobre areia para gatos com cristais azuis 22/10/2026 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80280/carf-mantem-ipi-sobre-produto-de-pet-shop/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-10-21",
     "source": "FENACON",
     "level": "institutional",
@@ -537,6 +497,16 @@
     "title": "CONFORMIDADE FISCAL Receita Sintonia: como consultar a classificação fiscal e melhorar a conformidade Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80287/receita-sintonia-consulte-a-nota-fiscal-da-empresa/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ARTIGO TRIBUTÁRIO Reforma Tributária e holding para empresas de tecnologia: o que revisar na prática Hoje 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80367/reforma-tributaria-e-holding-para-empresas-de-tecnologia-o-que-revisar-na-pratica/",
     "category": "Radar fiscal"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-28",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "28 de outubro de 2026 Governo vai enviar MP do Imposto Seletivo e renova subvenção ao diesel",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/governo-vai-enviar-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-10-27",
     "source": "FENACON",
     "level": "institutional",
@@ -10,23 +20,13 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA cClassTrib na Reforma Tributária: entenda os reflexos na rotina contábil 25/10/2026 11:00",
+    "title": "ARTIGO TRIBUTÁRIO Reforma Tributária e holding para empresas de tecnologia: o que revisar na prática 26/10/2026 17:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80293/cclasstrib-exige-atencao-na-parametrizacao-fiscal/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-25",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CONFORMIDADE FISCAL Receita Sintonia: como consultar a classificação fiscal e melhorar a conformidade 25/10/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80287/receita-sintonia-consulte-a-nota-fiscal-da-empresa/",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80367/reforma-tributaria-e-holding-para-empresas-de-tecnologia-o-que-revisar-na-pratica/",
     "category": "Radar fiscal"
   },
   {
@@ -120,16 +120,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-09",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "9 de outubro de 2026 Durigan prevê envio de MP do Imposto Seletivo após eleições",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/durigan-preve-envio-de-mp-do-imposto-seletivo-apos-eleicoes/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-10-06",
     "source": "FENACON",
     "level": "institutional",
@@ -164,9 +154,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional deverá adotar Emissor Nacional da NFS-e a partir de 1º de novembro de 2026 Hoje 10:00",
+    "title": "TRIBUTAÇÃO Receita Federal exige tributação do desconto na compra de créditos de ICMS Hoje 10:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80380/simples-nacional-tera-nfs-e-nacional-obrigatoria-a-partir-de-novembro/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80416/receita-define-tributacao-do-desagio-em-creditos-de-icms/",
     "category": "Radar fiscal"
   },
   {
@@ -174,9 +164,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Pedido de opção pelo Simples indeferido? Empresas têm até esta sexta (30) para resolver pendências Ontem 09:15",
+    "title": "SPLIT PAYMENT Split payment da reforma tributária terá liberação gradual a partir de agosto de 2027 Hoje 09:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80339/simples-nacional-prazo-para-regularizar-pendencias-termina-dia-30/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80411/split-payment-comeca-a-ser-implementado-em-2027-veja-o-cronograma/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Simples Nacional deverá adotar Emissor Nacional da NFS-e a partir de 1º de novembro de 2026 Ontem 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80380/simples-nacional-tera-nfs-e-nacional-obrigatoria-a-partir-de-novembro/",
     "category": "Radar fiscal"
   },
   {
@@ -194,9 +194,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REGULARIZAÇÃO FISCAL Negocie Já II passa a abranger débitos até abril de 2026 em Goiás Ontem 14:00",
+    "title": "SIMPLES NACIONAL Empresas do Simples devem preparar emissão de notas de serviço para novembro Hoje 09:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80349/negocie-ja-ii-goias-amplia-periodo-das-dividas-abrangidas/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80408/nfs-e-nacional-no-simples-sera-obrigatoria-a-partir-de-1o-de-novembro/",
     "category": "Radar fiscal"
   },
   {
@@ -204,7 +204,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Simples Nacional híbrido: a conta que pode mudar a decisão das empresas na Reforma Tributária Hoje 18:30",
+    "title": "REFORMA TRIBUTÁRIA Simples Nacional híbrido: a conta que pode mudar a decisão das empresas na Reforma Tributária Ontem 18:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80374/simples-hibrido-quando-vale-a-pena-escolher/",
     "category": "Radar fiscal"
@@ -214,9 +214,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária retoma agenda após fim das eleições e alíquota da CBS deve avançar nesta semana Ontem 11:00",
+    "title": "REFORMA TRIBUTÁRIA Setores empresariais defendem mais prazo para entrada no novo sistema tributário Hoje 11:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80345/reforma-tributaria-retoma-agenda-e-avanca-na-definicao-da-cbs/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80409/reforma-tributaria-setores-pedem-mais-prazo-para-adaptacao/",
     "category": "Radar fiscal"
   },
   {
@@ -224,7 +224,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária pode comprometer capital de giro por até 63 dias, aponta levantamento Hoje 14:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária pode comprometer capital de giro por até 63 dias, aponta levantamento Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80387/reforma-tributaria-pode-atrasar-creditos-e-pressionar-caixa-das-empresas/",
     "category": "Radar fiscal"
@@ -234,7 +234,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária deve aumentar contratação de agências e serviços Hoje 20:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária deve aumentar contratação de agências e serviços Ontem 20:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80355/cbs-pode-favorecer-terceirizacao-e-agencias-em-2027/",
     "category": "Radar fiscal"
@@ -244,7 +244,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária 2027: atraso na adaptação amplia riscos operacionais Hoje 19:30",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária 2027: atraso na adaptação amplia riscos operacionais Ontem 19:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80364/reforma-tributaria-atraso-amplia-riscos-as-empresas/",
     "category": "Radar fiscal"
@@ -254,7 +254,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita Federal e Comitê do IBS criam 25 grupos para implementar a reforma tributária Hoje 09:00",
+    "title": "REFORMA TRIBUTÁRIA Receita Federal e Comitê do IBS criam 25 grupos para implementar a reforma tributária Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80378/receita-e-cgibs-criam-25-grupos-para-implementar-reforma-tributaria/",
     "category": "Radar fiscal"
@@ -264,9 +264,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Novas normas simplificam obrigações tributárias de nanoempreendedores e microempreendedores individuais Ontem 09:00",
+    "title": "REFORMA TRIBUTÁRIA Governo deve enviar ao Congresso alíquotas do Imposto Seletivo nesta semana Hoje 11:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80338/reforma-simplifica-regras-fiscais-para-nanoempreendedores-e-meis/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80419/governo-preve-enviar-regras-do-imposto-seletivo-nesta-semana/",
     "category": "Radar fiscal"
   },
   {
@@ -274,7 +274,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Cálculo da CBS entra na pauta do TCU antes de seguir para o Senado Hoje 09:30",
+    "title": "REFORMA TRIBUTÁRIA Cálculo da CBS entra na pauta do TCU antes de seguir para o Senado Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80376/tcu-pauta-calculo-da-aliquota-da-cbs-para-quarta-feira-28/",
     "category": "Radar fiscal"
@@ -284,7 +284,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Crédito de IBS e CBS depende sempre do pagamento pelo fornecedor? Hoje 11:00",
+    "title": "REFORMA TRIBUTÁRIA Crédito de IBS e CBS depende sempre do pagamento pelo fornecedor? Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80383/creditos-de-ibs-e-cbs-quando-a-empresa-podera-aproveita-los/",
     "category": "Radar fiscal"
@@ -294,9 +294,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CBS avança em 2027, mas alíquotas e medidas complementares ainda exigem acompanhamento Ontem 10:45",
+    "title": "REFORMA TRIBUTÁRIA Cashback de impostos em 2027: CNM esclarece critérios para beneficiários do CadÚnico Hoje 14:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80342/cbs-substitui-pis-e-cofins-em-2027-veja-o-que-falta-definir/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80428/reforma-tributaria-preve-cashback-para-inscritos-no-cadunico/",
     "category": "Radar fiscal"
   },
   {
@@ -304,7 +304,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "RECUSA DE MERCADORIAS Sefaz-SP esclarece regras para emissão de notas fiscais em casos de recusa de mercadorias Hoje 16:15",
+    "title": "RECUSA DE MERCADORIAS Sefaz-SP esclarece regras para emissão de notas fiscais em casos de recusa de mercadorias Ontem 16:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80403/recusa-parcial-de-mercadorias-muda-emissao-de-nota-fiscal-em-sp-em-2027/",
     "category": "Radar fiscal"
@@ -314,7 +314,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS E COFINS ICMS e Difal nos créditos de PIS/Cofins: Receita diferencia períodos e responsável pelo recolhimento Hoje 09:15",
+    "title": "PIS E COFINS ICMS e Difal nos créditos de PIS/Cofins: Receita diferencia períodos e responsável pelo recolhimento Ontem 09:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80377/receita-esclarece-creditos-de-pis-cofins-sobre-icms-e-difal/",
     "category": "Radar fiscal"
@@ -324,7 +324,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "JCP STJ mantém limite para dedução de JCP no IRPJ e na CSLL Hoje 17:30",
+    "title": "JCP STJ mantém limite para dedução de JCP no IRPJ e na CSLL Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80391/stj-mantem-tjlp-no-limite-de-deducao-dos-jcp/",
     "category": "Radar fiscal"
@@ -334,7 +334,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "INTELIGÊNCIA ARTIFICIAL Receita Federal leva à OCDE discussão sobre privacidade e inteligência artificial nas administrações tributárias Hoje 11:30",
+    "title": "INTELIGÊNCIA ARTIFICIAL Receita Federal leva à OCDE discussão sobre privacidade e inteligência artificial nas administrações tributárias Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80381/receita-leva-a-ocde-debate-sobre-privacidade-e-inteligencia-artificial/",
     "category": "Radar fiscal"
@@ -357,6 +357,26 @@
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DOCUMENTOS FISCAIS NF-e e NFC-e têm mudanças previstas para novembro; CT-e fica para dezembro Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80407/fisco-adia-implantacao-de-notas-tecnicas-da-nf-e-nfc-e-e-ct-e/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DOCUMENTOS FISCAIS NF-e e NFC-e terão mudanças na autorização e inutilização de documentos fiscais Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80412/nf-e-tera-fim-da-autorizacao-assincrona-em-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -494,9 +514,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ARTIGO TRIBUTÁRIO Reforma Tributária e holding para empresas de tecnologia: o que revisar na prática Ontem 17:00",
+    "title": "ARTIGO TRIBUTÁRIO As eternas discussões sobre a tributação do VGBL Hoje 13:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80367/reforma-tributaria-e-holding-para-empresas-de-tecnologia-o-que-revisar-na-pratica/",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80429/as-eternas-discussoes-sobre-a-tributacao-do-vgbl/",
     "category": "Radar fiscal"
   }
 ]

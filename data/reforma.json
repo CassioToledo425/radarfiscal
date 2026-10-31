@@ -10,6 +10,16 @@
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro"
   },
   {
+    "date": "2026-10-29",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS",
+    "summary": "Institucional Prazo para realizar a opção termina nesta sexta-feira, 30 de outubro.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
+  },
+  {
     "date": "2026-10-23",
     "source": "Receita Federal",
     "level": "official",
@@ -58,16 +68,6 @@
     "title": "Reforma tributária: 86% dos documentos fiscais de empresas obrigadas já trazem destaque da CBS",
     "summary": "Serviços Dados públicos da Receita Federal mostram que dois em cada três CNPJs obrigados já destacam a Contribuição sobre Bens e Serviços nas notas fiscais tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs"
-  },
-  {
-    "date": "2026-10-07",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal publica versão.1.3.0 da documentação técnica da DeRE",
-    "summary": "Serviços A nova versão 1.3.0 da documentação técnica da DeRE traz atualizações no Manual de Orientação, novos eventos transacionais, regras de validação aprimoradas e ajustes nos leiautes, reforçando a adaptação dos contribuintes aos regimes específicos da CBS e do IBS. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-versao-1-3-0-da-documentacao-tecnica-da-dere"
   },
   {
     "date": "2026-10-07",

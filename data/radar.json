@@ -1,10 +1,40 @@
 [
   {
-    "date": "2026-12-31",
+    "date": "2026-10-29",
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Crédito presumido de CBS sobre o estoque de 31 de dezembro de 2026 Ontem 17:30",
+    "title": "SPED FISCAL EFD ICMS IPI: versão corretiva 6.1.1 resolve falha na validação 29/10/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80458/efd-icms-ipi-versao-6-1-1-corrige-erro-na-validacao-de-arquivos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-29",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SANEAMENTO BÁSICO Retirada de PIS/Cofins da conta de água não significa revisão de contrato 29/10/2026 16:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80477/tarifa-de-agua-retirada-de-pis-cofins-nao-e-revisao-contratual/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-29",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA União firma empréstimo de R$ 950 milhões para estruturar Comitê Gestor do IBS 29/10/2026 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80453/uniao-empresta-r-950-milhoes-para-implantacao-do-cgibs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-10-29",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Crédito presumido de CBS sobre o estoque de 31 de dezembro de 2026 29/10/2026 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80485/cbs-sobre-estoque-como-calcular-o-credito-presumido/",
     "category": "Radar fiscal"
@@ -154,17 +184,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SPED FISCAL EFD ICMS IPI: versão corretiva 6.1.1 resolve falha na validação Ontem 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80458/efd-icms-ipi-versao-6-1-1-corrige-erro-na-validacao-de-arquivos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional: veja o que muda na emissão de notas fiscais de serviço a partir de 1º de novembro Hoje 11:30",
+    "title": "SIMPLES NACIONAL Simples Nacional: veja o que muda na emissão de notas fiscais de serviço a partir de 1º de novembro Ontem 11:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80500/nfs-e-nacional-passa-a-ser-obrigatoria-para-me-e-epp-neste-domingo-1o/",
     "category": "Radar fiscal"
@@ -184,27 +204,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SANEAMENTO BÁSICO Retirada de PIS/Cofins da conta de água não significa revisão de contrato Ontem 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80477/tarifa-de-agua-retirada-de-pis-cofins-nao-e-revisao-contratual/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA União firma empréstimo de R$ 950 milhões para estruturar Comitê Gestor do IBS Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80453/uniao-empresta-r-950-milhoes-para-implantacao-do-cgibs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: o desafio agora é de gestão Hoje 16:30",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: o desafio agora é de gestão Ontem 16:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80515/reforma-tributaria-exige-gestao-integrada-nas-empresas/",
     "category": "Radar fiscal"
@@ -214,7 +214,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Prazo para cooperativas optarem pelo regime de IBS e CBS pode ser prorrogado até novembro de 2026 Hoje 10:00",
+    "title": "REFORMA TRIBUTÁRIA Prazo para cooperativas optarem pelo regime de IBS e CBS pode ser prorrogado até novembro de 2026 Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80498/cooperativas-podem-ganhar-mais-prazo-para-optar-pelo-regime-de-ibs-cbs/",
     "category": "Radar fiscal"
@@ -224,7 +224,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA NFS-e sem campos de IBS/CBS não será rejeitada por esse motivo, esclarece Comitê Hoje 09:15",
+    "title": "REFORMA TRIBUTÁRIA NFS-e sem campos de IBS/CBS não será rejeitada por esse motivo, esclarece Comitê Ontem 09:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80490/nfs-e-ausencia-de-ibs-cbs-nao-causa-rejeicao-tecnica-no-adn/",
     "category": "Radar fiscal"
@@ -234,7 +234,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Manifestação da ABRAEC sobre a reforma tributária Hoje 17:30",
+    "title": "REFORMA TRIBUTÁRIA Manifestação da ABRAEC sobre a reforma tributária Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80513/ibs-e-cbs-perto-de-30-preocupam-setor-de-remessas/",
     "category": "Radar fiscal"
@@ -244,7 +244,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Indústria, atacadistas e distribuidores preparados: Receita mostra que 78% destacaram a CBS em todos ou em parte das notas fiscais Hoje 18:00",
+    "title": "REFORMA TRIBUTÁRIA Indústria, atacadistas e distribuidores preparados: Receita mostra que 78% destacaram a CBS em todos ou em parte das notas fiscais Ontem 18:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80496/reforma-tributaria-exige-revisao-de-notas-e-cadastros/",
     "category": "Radar fiscal"
@@ -254,7 +254,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA IBS e CBS: opção pelo regime regular termina nesta sexta-feira (30) e supera 1 milhão de contribuintes Hoje 09:00",
+    "title": "REFORMA TRIBUTÁRIA IBS e CBS: opção pelo regime regular termina nesta sexta-feira (30) e supera 1 milhão de contribuintes Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80491/ibs-e-cbs-prazo-para-opcao-pelo-regime-regular-termina-hoje-30/",
     "category": "Radar fiscal"
@@ -264,7 +264,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Grupo de estudos do STF propõe reunir disputas sobre IBS e CBS em um único processo Hoje 10:15",
+    "title": "REFORMA TRIBUTÁRIA Grupo de estudos do STF propõe reunir disputas sobre IBS e CBS em um único processo Ontem 10:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80492/grupo-do-stf-propoe-julgamento-conjunto-de-disputas-sobre-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -274,7 +274,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Créditos de PIS e Cofins precisam ser registrados até 31 de dezembro Hoje 14:00",
+    "title": "REFORMA TRIBUTÁRIA Créditos de PIS e Cofins precisam ser registrados até 31 de dezembro Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80507/creditos-de-pis-cofins-devem-ser-registrados-ate-dezembro/",
     "category": "Radar fiscal"
@@ -284,7 +284,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Alíquota de referência da CBS acende alerta no Senado Hoje 15:30",
+    "title": "REFORMA TRIBUTÁRIA Alíquota de referência da CBS acende alerta no Senado Ontem 15:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80519/cbs-de-11-3-pressiona-senado-e-preocupa-empresas/",
     "category": "Radar fiscal"
@@ -294,7 +294,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Alíquota da CBS preocupa operadoras de telecomunicações por possível aumento de custos Hoje 16:15",
+    "title": "REFORMA TRIBUTÁRIA Alíquota da CBS preocupa operadoras de telecomunicações por possível aumento de custos Ontem 16:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80521/entidade-questiona-aliquota-de-11-3-da-cbs/",
     "category": "Radar fiscal"
@@ -304,9 +304,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "NOTA FISCAL NFS-e no Simples: competência do serviço define onde emitir a nota a partir de novembro Hoje 09:30",
+    "title": "NOTA FISCAL NFS-e no Simples: competência do serviço define onde emitir a nota a partir de novembro Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80489/nfs-e-no-simples-competencia-define-onde-emitir-a-nota/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO DE RENDA Cobrança de IRPF não é o mesmo que malha fina; veja como agir Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80462/cobranca-de-irpf-e-malha-fiscal-entenda-as-diferencas/",
     "category": "Radar fiscal"
   },
   {
@@ -444,7 +454,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CONTENCIOSO FISCAL Carf projeta julgar R$ 2 trilhões em processos até o fim de 2026 Hoje 14:15",
+    "title": "CONTENCIOSO FISCAL Carf projeta julgar R$ 2 trilhões em processos até o fim de 2026 Ontem 14:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80508/carf-pode-julgar-r-2-trilhoes-em-processos-ate-dezembro/",
     "category": "Radar fiscal"

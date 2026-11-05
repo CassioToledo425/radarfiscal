@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-05",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "5 de novembro de 2026 CBS em 11,3% pode gerar aumento da carga do setor de serviços em até 54,3%, alerta CNC",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/cbs-em-113-pode-gerar-aumento-da-carga-do-setor-de-servicos-em-ate-543-alerta-cnc/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-11-04",
     "source": "FENACON",
     "level": "institutional",
@@ -17,6 +27,26 @@
     "title": "4 de novembro de 2026 CNC defende ajustes para garantir segurança para o empresário na implementação da reforma tributária",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/cnc-defende-ajustes-para-garantir-seguranca-para-o-empresario-na-implementacao-da-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-03",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Simples Nacional: escolha do regime híbrido pode impactar créditos e contratos em 2027 03/11/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80555/simples-nacional-hibrido-prazo-e-impactos-para-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-03",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NOTA FISCAL NFSe trava no primeiro dia útil nacional 03/11/2026 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80557/portal-nacional-da-nfs-e-enfrenta-instabilidade/",
     "category": "Radar fiscal"
   },
   {
@@ -47,16 +77,6 @@
     "title": "2 de novembro de 2026 CNC critica alíquota da CBS acima das expectativas e alerta para risco de aumento da carga tributária",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/cnc-critica-aliquota-da-cbs-acima-das-expectativas-e-alerta-para-risco-de-aumento-da-carga-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-01",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EDUCAÇÃO FISCAL Novo programa de São Paulo busca aproximar população da educação fiscal e da gestão pública 01/11/2026 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80484/sao-paulo-cria-programa-de-educacao-fiscal/",
     "category": "Radar fiscal"
   },
   {
@@ -120,16 +140,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-10-28",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "28 de outubro de 2026 Governo vai enviar MP do Imposto Seletivo e renova subvenção ao diesel",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/governo-vai-enviar-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-10-06",
     "source": "FENACON",
     "level": "institutional",
@@ -164,17 +174,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO Tema 843 não alcança todo incentivo de ICMS; recuperação depende de análise por empresa Ontem 18:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80531/creditos-presumidos-de-icms-fora-do-pis-e-da-cofins/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "TRIBUTAÇÃO STF exclui créditos presumidos de ICMS do PIS e da Cofins; veja os impactos Hoje 14:00",
+    "title": "TRIBUTAÇÃO STF exclui créditos presumidos de ICMS do PIS e da Cofins; veja os impactos Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80586/stf-afasta-pis-e-cofins-sobre-creditos-presumidos-de-icms/",
     "category": "Radar fiscal"
@@ -184,7 +184,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRANSAÇÃO TRIBUTÁRIA Receita Federal prorroga prazo para adesão a dois editais de transação tributária até 30 de dezembro Hoje 09:00",
+    "title": "TRANSAÇÃO TRIBUTÁRIA Receita Federal prorroga prazo para adesão a dois editais de transação tributária até 30 de dezembro Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80573/receita-prorroga-adesao-a-transacao-tributaria-ate-30-de-dezembro/",
     "category": "Radar fiscal"
@@ -194,9 +194,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional: prazo para cancelar opções de IBS e CBS começa nesta terça (3) Ontem 09:00",
+    "title": "SPED FISCAL Receita disponibiliza versão 6.2.0 do programa da EFD ICMS/IPI Hoje 09:45",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80539/empresas-podem-cancelar-opcoes-do-simples-ate-dezembro/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80604/efd-icms-ipi-receita-disponibiliza-pva-versao-6-2-0/",
     "category": "Radar fiscal"
   },
   {
@@ -204,9 +204,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional: escolha do regime híbrido pode impactar créditos e contratos em 2027 Ontem 20:00",
+    "title": "SIMPLES NACIONAL Votação de novo teto do Simples pode ocorrer ainda em 2026, afirmam deputados Hoje 10:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80555/simples-nacional-hibrido-prazo-e-impactos-para-empresas/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80600/novo-teto-do-simples-pode-ser-votado-em-2026-dizem-deputados/",
     "category": "Radar fiscal"
   },
   {
@@ -214,9 +214,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Receita esclarece como tributar treinamentos personalizados no Simples Nacional Hoje 12:00",
+    "title": "SIMPLES NACIONAL Receita esclarece como tributar treinamentos personalizados no Simples Nacional Ontem 12:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80584/receita-define-tributacao-de-treinamentos-no-simples-nacional/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL PGFN esclarece perdão de dívidas do MEI: ICMS e ISS continuam sendo cobrados Hoje 09:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80601/perdao-de-dividas-do-mei-pgfn-esclarece-regras-e-prazos/",
     "category": "Radar fiscal"
   },
   {
@@ -234,6 +244,16 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
+    "title": "Reforma Tributária: Ibracon abre pesquisa para avaliar desafios da Auditoria Independente",
+    "summary": "Os profissionais da Contabilidade podem colaborar na identificação dos principais impactos, desafios e necessidades percebidos pelo setor de auditorias diante das mudanças trazidas pelo novo cenário tributário. Eles podem participar da pesquisa que o Instituto de Auditoria Independente do Brasil (Ibracon) realiza para ",
+    "url": "https://cfc.org.br/noticias/reforma-tributaria-ibracon-abre-pesquisa-para-avaliar-desafios-da-auditoria-independente/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
     "title": "Reforma Tributária no Setor Financeiro e arranjos de pagamento",
     "summary": "Inês de Oliveira Leia mais Sem categoria 4 novembro, 2026 Link permanente",
     "url": "https://cfc.org.br/eventoscfc/reforma-tributaria-no-setor-financeiro-e-arranjos-de-pagamento/",
@@ -244,7 +264,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Split Payment inicia testes e avança na implementação da Reforma Tributáriax Hoje 17:30",
+    "title": "REFORMA TRIBUTÁRIA Split Payment inicia testes e avança na implementação da Reforma Tributáriax Ontem 17:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80589/split-payment-inicia-testes-de-integracao-em-outubro/",
     "category": "Radar fiscal"
@@ -254,9 +274,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária pode levar alíquota do IVA Dual a mais de 30% em 2033 Ontem 14:15",
+    "title": "REFORMA TRIBUTÁRIA Senado fará audiência pública para discutir alíquota de 11,3% da CBS Hoje 09:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80549/iva-dual-pode-ultrapassar-30-no-brasil-e-superar-aliquotas-da-ocde/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80603/senado-fara-audiencia-para-discutir-aliquota-da-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -264,17 +284,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária 2027: atraso na adaptação amplia riscos operacionais Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80523/reforma-tributaria-empresas-precisam-se-preparar-para-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Pendências na Reforma Tributária levam entidades a pedir adiamento da CBS para 2028 Hoje 09:15",
+    "title": "REFORMA TRIBUTÁRIA Pendências na Reforma Tributária levam entidades a pedir adiamento da CBS para 2028 Ontem 09:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80576/reforma-tributaria-entidades-pedem-adiamento-da-cbs-para-2028/",
     "category": "Radar fiscal"
@@ -284,17 +294,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Os 5 erros mais comuns na Apuração Assistida (e como corrigi-los) Ontem 08:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80527/os-5-erros-mais-comuns-na-apuracao-assistida-e-como-corrigi-los/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Imposto Seletivo: entenda como funciona o novo tributo da reforma tributária Hoje 11:15",
+    "title": "REFORMA TRIBUTÁRIA Imposto Seletivo: entenda como funciona o novo tributo da reforma tributária Ontem 11:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80581/imposto-seletivo-veja-quais-produtos-serao-tributados/",
     "category": "Radar fiscal"
@@ -304,9 +304,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CBS de 11,3%: por que a empresa de serviços vai pagar a conta primeiro Ontem 17:45",
+    "title": "REFORMA TRIBUTÁRIA CNI diz que CBS de 11,3% pode elevar carga tributária e cobra revisão do Senado Hoje 12:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80526/cbs-de-11-3-impacto-nos-precos-das-empresas-de-servicos/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/",
     "category": "Radar fiscal"
   },
   {
@@ -314,9 +314,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PIS E COFINS STJ nega créditos de PIS e Cofins sobre ICMS na compra de mercadorias Ontem 10:45",
+    "title": "PLANEJAMENTO TRIBUTÁRIO Reforma Tributária pode ser adiada para 2028, mas o planejamento tributário dos seus clientes não pode esperar Hoje 13:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80542/stj-nega-creditos-de-pis-cofins-sobre-icms-nas-compras/",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80631/reforma-tributaria-nao-adie-o-planejamento-tributario/",
     "category": "Radar fiscal"
   },
   {
@@ -324,9 +324,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "PERSE STJ vai decidir se benefício fiscal do Perse poderia acabar antes dos 60 meses Ontem 11:15",
+    "title": "PIS E COFINS PIS e Cofins sobre créditos presumidos de ICMS: o que muda para as empresas após decisão do STF Hoje 10:45",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80544/stj-vai-julgar-fim-antecipado-do-perse/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80606/creditos-de-icms-empresas-podem-recuperar-pis-e-cofins/",
     "category": "Radar fiscal"
   },
   {
@@ -334,7 +334,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "OBRIGAÇÕES FISCAIS DeRE: protocolo confirma envio do lote, mas não garante aceitação dos eventos Hoje 10:45",
+    "title": "OBRIGAÇÕES FISCAIS DeRE: protocolo confirma envio do lote, mas não garante aceitação dos eventos Ontem 10:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80579/dere-como-confirmar-se-os-eventos-enviados-foram-aceitos/",
     "category": "Radar fiscal"
@@ -344,27 +344,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "OBRIGAÇÕES FISCAIS DeRE: primeira entrega mensal vence em 15 de novembro e exige envio prévio dos eventos de tabela Ontem 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80537/dere-primeira-entrega-mensal-vence-em-15-de-novembro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL NFSe trava no primeiro dia útil nacional Ontem 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80557/portal-nacional-da-nfs-e-enfrenta-instabilidade/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL DE SERVIÇO NFS-e nacional: saiba onde conferir o ISS retido na nota recebida Hoje 15:30",
+    "title": "NOTA FISCAL DE SERVIÇO NFS-e nacional: saiba onde conferir o ISS retido na nota recebida Ontem 15:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80594/nfs-e-nacional-como-consultar-o-iss-retido-na-nota/",
     "category": "Radar fiscal"
@@ -374,9 +354,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "LUCRO PRESUMIDO Lucro Presumido: quando a escrituração permite distribuir lucros acima da base presumida Ontem 18:45",
+    "title": "IMPOSTO SELETIVO Imposto Seletivo: por que publicar a MP não significa começar a cobrança imediatamente Hoje 15:45",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80536/lucro-presumido-como-distribuir-lucros-sem-irrf/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80629/imposto-seletivo-cobranca-so-comeca-em-fevereiro-de-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -384,9 +364,39 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "IMPOSTO SELETIVO Governo deve enviar a MP do Imposto Seletivo ao Congresso nesta quarta-feira (4) Hoje 09:30",
+    "title": "IMPOSTO SELETIVO Imposto Seletivo: bebidas têm alíquotas de 2,6% a 24% na MP divulgada pelo governo Hoje 11:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80610/imposto-seletivo-veja-aliquotas-divulgadas-para-bebidas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO SELETIVO Imposto Seletivo terá alíquotas temporárias em 2027; veja os percentuais Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80602/imposto-seletivo-governo-define-aliquotas-para-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO SELETIVO Governo deve enviar a MP do Imposto Seletivo ao Congresso nesta quarta-feira (4) Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80574/mp-do-imposto-seletivo-deve-ser-publicada-nesta-quarta-feira-4/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IMPOSTO DE RENDA O que é a saída fiscal do Brasil? Entenda as obrigações de quem vai morar no exterior Hoje 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80627/saida-fiscal-do-brasil-o-que-e-e-quem-precisa-fazer/",
     "category": "Radar fiscal"
   },
   {
@@ -414,7 +424,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "FISCALIZAÇÃO Autorregularização da Receita: o que separar antes de retificar uma declaração Hoje 10:15",
+    "title": "FISCALIZAÇÃO Receita identifica R$ 1,8 bilhão em créditos farmacêuticos incompatíveis Hoje 14:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80625/receita-aponta-r-1-8-bi-em-creditos-farmaceuticos-irregulares/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "FISCALIZAÇÃO Autorregularização da Receita: o que separar antes de retificar uma declaração Ontem 10:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80578/autorregularizacao-da-receita-o-que-conferir-antes-de-retificar/",
     "category": "Radar fiscal"
@@ -427,16 +447,6 @@
     "title": "Descomplicando o tributário",
     "summary": "Podcasts Últimos Mais que Gestão Conversas de Trabalho Contábeis Tech Contabilizando Analisando Tributos Papo de Previdência Carreira em Tópicos IA na prática",
     "url": "https://www.contabeis.com.br/conteudo/podcasts/descomplicando-o-tributario/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP para Todos em Itapevi e Jandira apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Panorama da Reforma Tributária sobre o consumo: principais mudanças da Emenda Constitucional nº 132/2023 e da Lei Complementar nº 214/2025. Estrutura do novo sistema tributário: IBS, CBS e Imposto Seletivo (IS). Não cumulatividade",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-itapevi-e-jandira-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
     "category": "Radar fiscal"
   },
   {
@@ -544,9 +554,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "CARF Carf afasta tese do STF sobre multas em caso de notas fiscais irregulares do IPI Ontem 09:15",
+    "title": "BENEFÍCIOS FISCAIS Fazenda dará mais 30 dias para regulamentar corte de benefícios tributários Hoje 16:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80538/carf-afasta-tese-do-stf-em-caso-de-multa-do-ipi/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80630/fazenda-prorroga-debate-sobre-corte-de-beneficios-fiscais/",
     "category": "Radar fiscal"
   },
   {
@@ -554,7 +564,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "AUTORREGULARIZAÇÃO FISCAL Empresas com selos Confia e Sintonia podem corrigir pendências fiscais em 60 dias Hoje 09:45",
+    "title": "Analisando Tributos Imposto Seletivo já tem alíquota e data para início de cobrança Hoje 10:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80611/imposto-seletivo-aliquotas-e-cobranca-em-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "AUTORREGULARIZAÇÃO FISCAL Empresas com selos Confia e Sintonia podem corrigir pendências fiscais em 60 dias Ontem 09:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80577/rfb-libera-regularizacao-de-debitos-sem-multa-para-empresas-com-selos/",
     "category": "Radar fiscal"

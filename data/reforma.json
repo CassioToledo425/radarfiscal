@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-09",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+    "summary": "Serviços Nova versão permite consultas incrementais de débitos e créditos apurados. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs"
+  },
+  {
     "date": "2026-10-29",
     "source": "Receita Federal",
     "level": "official",
@@ -18,16 +28,6 @@
     "title": "Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS",
     "summary": "Institucional Prazo para realizar a opção termina nesta sexta-feira, 30 de outubro. tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
-  },
-  {
-    "date": "2026-10-23",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Novas medidas simplificam obrigações da Reforma Tributária para nanoempreendedores e MEIs",
-    "summary": "Tributação Decreto nº 13.140/2026 e Resolução CGSN nº 195/2026 reduzem burocracias, dispensam exigências fiscais para nanoempreendedores e facilitam o cumprimento das novas regras tributárias pelos MEIs.",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis"
   },
   {
     "date": "2026-09-15",

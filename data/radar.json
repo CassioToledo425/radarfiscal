@@ -1,12 +1,32 @@
 [
   {
-    "date": "2026-11-06",
+    "date": "2026-11-08",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "8 de novembro de 2026 IBS e CBS: A controvérsia sobre a exportação de serviços",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-07",
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: ministro descarta aumento da carga tributária com novos impostos 06/11/2026 10:15",
+    "title": "SIMPLES NACIONAL PGDAS-D: como tratar a receita de uma venda cancelada em outro mês 07/11/2026 12:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80655/reforma-tributaria-ministro-nega-aumento-de-impostos/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80560/pgdas-d-como-declarar-venda-cancelada-em-outro-mes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-07",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA NF-e e IBS/CBS: como saber se uma rejeição já vale em produção 07/11/2026 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/",
     "category": "Radar fiscal"
   },
   {
@@ -24,29 +44,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Minuta de PEC para adiar reforma ainda depende de protocolo; calendário segue vigente 06/11/2026 10:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80656/pec-para-adiar-reforma-minuta-ainda-depende-de-assinaturas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA EFD-Contribuições seguirá ativa em 2027; Nota Técnica 13/2026 detalha transição para a CBS 06/11/2026 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80665/efd-contribuicoes-nt-13-2026-orienta-transicao-para-a-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Comitê Gestor do IBS cria equipe técnica para assessorar aplicações financeiras 06/11/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80652/comite-do-ibs-cria-equipe-para-gerir-aplicacoes-financeiras/",
     "category": "Radar fiscal"
   },
   {
@@ -64,79 +64,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ORIENTAÇÕES TRIBUTÁRIA Receita Federal publica sete soluções de consulta com orientações tributárias 06/11/2026 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80658/receita-esclarece-regras-sobre-ir-retencoes-e-obrigacoes-fiscais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL ELETRÔNICA NF-e em São Paulo terá parada programada para manutenção neste domingo (8) 06/11/2026 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80661/nf-e-em-sp-tera-manutencao-programada-em-8-de-novembro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "INCENTIVOS FISCAIS Comissão aprova proposta de incentivos fiscais e renegociação de débitos para agroexportadoras 06/11/2026 09:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80657/projeto-preve-alivio-tributario-para-empresas-agroexportadoras/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO SELETIVO ‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo 06/11/2026 11:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80659/imposto-seletivo-sobre-carros-veja-o-que-pesa-no-calculo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EFD-CONTRIBUIÇÕES EFD-Contribuições terá adequações para registrar créditos da CBS e saldos do PIS/Pasep e da Cofins em 2027 06/11/2026 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "DOCUMENTOS FISCAIS Primeira NFGas é autorizada em produção na SVRS para a Comgás 06/11/2026 14:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80667/primeira-nfgas-e-autorizada-em-producao-na-svrs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CT-E CT-e: pacote de schemas inclui novo campo para o Simples Nacional 06/11/2026 09:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80648/ct-e-schemas-incluem-campo-de-ibs-cbs-para-o-simples/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-06",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CRÉDITO FISCAL Projeto aprovado na Câmara prevê crédito fiscal para leite e derivados nacionais 06/11/2026 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80663/projeto-preve-credito-fiscal-para-industria-nacional-de-leite/",
     "category": "Radar fiscal"
   },
   {
@@ -167,66 +97,6 @@
     "title": "6 de novembro de 2026 Medida provisória regulamenta o Imposto Seletivo para 2027",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/medida-provisoria-regulamenta-o-imposto-seletivo-para-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-05",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL IBS e CBS: empresas devem revisar contratos antes de cancelar opção pelo regime regular 05/11/2026 16:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80632/ibs-e-cbs-o-que-revisar-antes-de-cancelar-a-opcao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-05",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributaria: 2027 sera decisivo para a competitividade internacional das empresas de tecnologia de SC 05/11/2026 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80623/reforma-tributaria-muda-custos-de-empresas-de-tecnologia/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-05",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Espírito Santo cria grupo para avaliar impactos da Reforma Tributária em contratos administrativos 05/11/2026 16:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80636/reforma-tributaria-leva-es-a-revisar-criterios-de-contratos-publicos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-05",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO SELETIVO Imposto Seletivo: por que publicar a MP não significa começar a cobrança imediatamente 05/11/2026 15:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80629/imposto-seletivo-cobranca-so-comeca-em-fevereiro-de-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-05",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IMPOSTO DE RENDA O que é a saída fiscal do Brasil? Entenda as obrigações de quem vai morar no exterior 05/11/2026 15:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80627/saida-fiscal-do-brasil-o-que-e-e-quem-precisa-fazer/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-05",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "BENEFÍCIOS FISCAIS Fazenda dará mais 30 dias para regulamentar corte de benefícios tributários 05/11/2026 16:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80630/fazenda-prorroga-debate-sobre-corte-de-beneficios-fiscais/",
     "category": "Radar fiscal"
   },
   {
@@ -304,16 +174,6 @@
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
-    "title": "29 de outubro de 2026 Receita Federal e CGIBS discutem ampliação do prazo de opção pelo regime específico da CBS e do IBS para as cooperativas até 30 de novembro",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-10-29",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
     "title": "29 de outubro de 2026 NFS-e Nacional: confira as orientações sobre leiaute em produção, regras de preenchimento de IBS/CBS e status da Nota Técnica 009",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/nfs-e-nacional-confira-as-orientacoes-sobre-leiaute-em-producao-regras-de-preenchimento-de-ibs-cbs-e-status-da-nota-tecnica-009/",
@@ -354,16 +214,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL PGDAS-D: como tratar a receita de uma venda cancelada em outro mês Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80560/pgdas-d-como-declarar-venda-cancelada-em-outro-mes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
@@ -394,9 +244,119 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA NF-e e IBS/CBS: como saber se uma rejeição já vale em produção Ontem 10:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária exige planejamento financeiro e amplia oportunidades para escritórios contábeis Hoje 17:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80699/reforma-tributaria-amplia-demanda-por-consultoria-mas-escritorios-nao-calculam-custos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA NF-e para não contribuinte do ICMS exige atenção ao enquadramento no IBS e na CBS Hoje 15:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80708/nf-e-sem-icms-veja-as-regras-para-ibs-e-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Locação de bens móveis e imóveis exige adequação à NFS-e em dezembro Hoje 15:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80709/nfs-e-locacoes-terao-novas-regras-a-partir-de-dezembro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CBS sobre insumos agrícolas: mudanças para 2027 Hoje 18:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80685/adubo-semente-e-defensivo-vao-ficar-mais-caros-com-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CBS para empresas de software no Lucro Real Hoje 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80682/software-no-lucro-real-o-que-acontece-com-a-excecao-do-pis-e-da-cofins-cumulativos-quando-a-cbs-comecar/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CBS deve começar a ser cobrada integralmente em janeiro de 2027, sem adiamento Hoje 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "OBRIGAÇÕES FISCAIS EFD-Reinf de outubro e EFD-Contribuições de setembro vencem no mesmo dia Hoje 10:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80691/efd-reinf-e-efd-contribuicoes-vencem-em-16-de-novembro-de-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "OBRIGAÇÕES FISCAIS Dirbi: como conferir a competência do benefício antes de fechar a declaração Hoje 11:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80698/dirbi-como-identificar-a-competencia-correta-do-beneficio-fiscal/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Live: Reforma Tributária: Mudanças e atualizações para empresas do Simples Nacional",
+    "summary": "Comissão da Mulher Leia mais Sem categoria 9 novembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/live-reforma-tributaria-mudancas-e-atualizacoes-para-empresas-do-simples-nacional/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "LEGISLAÇÃO FISCAL Postos de SC não precisam mais transmitir dados do medidor de combustíveis Hoje 11:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80696/sc-dispensa-envio-de-dados-do-medidor-volumetrico-de-combustiveis/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ISS NFS-e em dezembro: quais serviços da lista do ISS têm cronograma específico Hoje 09:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80690/nfs-e-em-dezembro-veja-quais-servicos-do-iss-entram-no-prazo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IBS e CBS Reforma Tributária: Ato Técnico nº 10 aprova versões para nove modelos de documentos fiscais Hoje 10:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -424,9 +384,29 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "FISCALIZAÇÃO NO DIFAL Fiscalização do Difal na Bahia já identificou mais de R$ 715 milhões em autuações Hoje 11:00",
+    "title": "FISCALIZAÇÃO NO DIFAL Fiscalização do Difal na Bahia já identificou mais de R$ 715 milhões em autuações Ontem 11:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80651/bahia-recupera-r-222-milhoes-em-cobranca-do-difal-de-empresas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Escola Técnica CRCPR – Transforme a Reforma Tributária em Novos Contratos",
+    "summary": "Esta aula apresentará aos profissionais da contabilidade uma abordagem prática para transformar as mudanças e dúvidas provocadas pela Reforma Tributária em oportunidades de geração de novos negócios, demonstrando como identificar potenciais clientes, iniciar conversas comerciais, diagnosticar necessidades e conduzir op",
+    "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-transforme-a-reforma-tributaria-em-novos-contratos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "CFC",
+    "level": "institutional",
+    "kind": "update",
+    "title": "Escola Técnica CRCPR – Reforma Tributária: o jogo mudou. E você, o que vai fazer?",
+    "summary": "Esta aula tem o objetivo de preparar o profissional contábil para atuar de forma estratégica e antecipatória diante da Reforma Tributária do Consumo, compreendendo seus marcos de transição, seus impactos operacionais e as novas demandas dos clientes. INSTRUTOR Felipe Beraldi Economista graduado na FEA-USP, com mestrado",
+    "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-reforma-tributaria-o-jogo-mudou-e-voce-o-que-vai-fazer/",
     "category": "Radar fiscal"
   },
   {
@@ -441,12 +421,22 @@
   },
   {
     "date": null,
-    "source": "CFC",
-    "level": "institutional",
+    "source": "Portal Contábeis",
+    "level": "specialized",
     "kind": "update",
-    "title": "CRCSP para TODOS em Vinhedo e Valinhos apresenta: REFORMA TRIBUTÁRIA: O Que Muda na Prática Para Empresas e Profissionais da Contabilidade",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Panorama da Reforma Tributária sobre o consumo: principais mudanças da Emenda Constitucional nº 132/2023 e da Lei Complementar nº 214/2025. Estrutura do novo sistema tributário: IBS, CBS e Imposto Seletivo (IS). Não cumulatividade",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-vinhedo-e-valinhos-apresenta-reforma-tributaria-o-que-muda-na-pratica-para-empresas-e-profissionais-da-contabilidade/",
+    "title": "DOCUMENTOS FISCAIS NFC-e para varejo em 2026: quando migrar da NF-e, como funciona e o que mudou com a Reforma Tributária Hoje 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80693/nfc-e-em-2026-regras-uso-e-mudancas-tributarias/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "DCTFWeb DCTFWeb com valor incorreto: como corrigir no eSocial, na EFD-Reinf ou no MIT Hoje 09:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80688/dctfweb-com-valor-incorreto-quando-voltar-ao-esocial-efd-reinf-ou-ao-mit/",
     "category": "Radar fiscal"
   },
   {
@@ -454,9 +444,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Sumaré e Hortolandia apresenta: Reforma Tributária – Não cumulatividade ampla e os principais impactos e desafios na formação do preço de produtos e serviços já para 2027",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1 - não cumulatividade e as principais questões a serem observadas 2 - formação de preços de produtos e serviços - identificação dos principais pontos de atenção 3 - Simples nacional - impactos na cadeia de operações para fins de ",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-sumare-e-hortolandia-apresenta-reforma-tributaria-nao-cumulatividade-ampla-e-os-principais-impactos-e-desafios-na-formacao-do-preco-de-produtos-e-servicos-ja-para-2027/",
+    "title": "CRCSP em parceria com OAB em Votorantim apresenta: Reforma Tributária",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Temas: - 1 - Comparativo reforma tributária: PF - PJ - AUTÔNOMO - 2 - Reforma Tributária além da teoria: impactos no caixa, nos contratos e na rotina das empresas Público Alvo: Profissionais da Contabilidade com registro ativo no ",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-oab-em-votorantim-apresenta-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {
@@ -464,9 +454,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Lins e Promissão apresenta: Impactos empresariais em processos internos, fluxo de caixa, capital de giro, neste momento de materialização da Reforma Tributária.",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1. Os aspectos operacionais e administrativos afetados pela Reforma Tributária 2. Avaliação (chec list) de ações necessárias e emergenciais para a vigência da CBS 3. Novos documentos fiscais a serem exigidos a partir e novembro e ",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-lins-e-promissao-apresenta-impactos-empresariais-em-processos-internos-fluxo-de-caixa-capital-de-giro-neste-momento-de-materializacao-da-reforma-tributaria/",
+    "title": "CRCSP em Parceria com APC apresenta: Palestra com o autor: A Reforma Tributária e suas Grandes Questões (ONLINE)",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: A Palestra visa analisar as questões essenciais, polêmicas e vulnerabilidades da Reforma Tributária sobre o Consumo (IBS/CBS/IS) no campo prático, concernentes a: 1. Contribuintes 2. Fato gerador 3. Regimes de apuração 4. Base de ",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-apc-apresenta-palestra-com-o-autor-a-reforma-tributaria-e-suas-grandes-questoes-online/",
     "category": "Radar fiscal"
   },
   {
@@ -474,9 +464,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Itú e Salto apresenta: Reforma Tributária – Não cumulatividade ampla e os principais impactos e desafios na formação do preço de produtos e serviços já para 2027",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1 - não cumulatividade e as principais questões a serem observadas 2 - formação de preços de produtos e serviços - identificação dos principais pontos de atenção 3 - Simples nacional - impactos na cadeia de operações para fins de ",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-itu-e-salto-apresenta-reforma-tributaria-nao-cumulatividade-ampla-e-os-principais-impactos-e-desafios-na-formacao-do-preco-de-produtos-e-servicos-ja-para-2027/",
+    "title": "CRCSP em Guarujá e São Vicente apresenta: O impacto da Reforma Tributária nas operações de locação",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: O impacto da Reforma Tributária nas operações de locação Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais profissionais Palestrante: ADEMIR MACEDO DE OLIVEIRA Mestre em Admi",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-guaruja-e-sao-vicente-apresenta-o-impacto-da-reforma-tributaria-nas-operacoes-de-locacao/",
     "category": "Radar fiscal"
   },
   {
@@ -484,29 +474,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CRCSP para TODOS em Franca e Batatais apresenta: Notas de débito e crédito na Reforma Tributária: ajustes, devoluções e correção de operações",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: - Notas de débito e crédito no novo sistema IBS/CBS: conceito, finalidade e aplicação prática - Ajustes positivos e negativos na apuração do IBS e da CBS - Devolução x cancelamento: diferenças, documentos fiscais e reflexos tribut",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-para-todos-em-franca-e-batatais-apresenta-notas-de-debito-e-credito-na-reforma-tributaria-ajustes-devolucoes-e-correcao-de-operacoes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP em parceria com APECL Limeira apresenta: Precificação no contexto da Reforma Tributária",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 1. Regimes de Tributação 2. Tributação do consumo: por dentro e por fora 3. Cálculo dos tributos na transição tributária Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs, Estudantes com cadastro e demais pro",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-parceria-com-apecl-limeira-apresenta-precificacao-no-contexto-da-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "CFC",
-    "level": "institutional",
-    "kind": "update",
-    "title": "CRCSP em Osvaldo Cruz e Tupã apresenta: OFICINA técnica com foco na Reforma Tributária: P R E C I F I C A Ç Ã O",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: OFICINA TÉCNICA CONTÁBIL : PRECIFICAÇÃO Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs Palestrante: ANTONIO WANDERLAN PEREIRA SARAIVA Profissional da Contabilidade, Pedagogo, Pós-graduado em Contabilidade ",
-    "url": "https://cfc.org.br/eventoscfc/crcsp-em-osvaldo-cruz-e-tupa-apresenta-oficina-tecnica-com-foco-na-reforma-tributaria-p-r-e-c-i-f-i-c-a-c-a-o/",
+    "title": "CRCSP em Bauru e Pirajuí apresenta: OFICINA técnica com foco na Reforma Tributária – PRECIFICAÇÃO “Da formação de preços à tomada de decisões estratégicas”",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: Introdução a Reforma Tributária Explicação e Exercícios Práticos Correção dos exercícios Considerações Finais Público Alvo: Profissionais da Contabilidade com registro ativo no CRCs Palestrante: ANTONIO WANDERLAN PEREIRA SARAIVA P",
+    "url": "https://cfc.org.br/eventoscfc/crcsp-em-bauru-e-pirajui-apresenta-oficina-tecnica-com-foco-na-reforma-tributaria-precificacao-da-formacao-de-precos-a-tomada-de-decisoes-estrategicas/",
     "category": "Radar fiscal"
   },
   {
@@ -524,9 +494,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CIRCUITO CONTÁBIL DO CRCSP EM RIO CLARO: Reforma Tributária – Ações Operacionais Urgentes para 2027 e Marketing + Negócios: ações que geram resultados",
-    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 08h00 às 8h30 - Credenciamento + Café Apresentação Cultural + Homenagem Painel 1: Marketing orientado a resultados: além da comunicação, conectando produto, oferta, canais e receita Rogério Beraldo Painel 2 - Fim do PIS/COFINS e C",
-    "url": "https://cfc.org.br/eventoscfc/circuito-contabil-do-crcsp-em-rio-claro-reforma-tributaria-acoes-operacionais-urgentes-para-2027-e-marketing-negocios-acoes-que-geram-resultados/",
+    "title": "CIRCUITO CONTÁBIL DO CRCSP EM PINDAMONHANGABA E REGIÃO: Reforma Tributária, Liderança e Negócios",
+    "summary": "Leia mais Sem categoria 9 novembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/circuito-contabil-do-crcsp-em-pindamonhangaba-e-regiao-reforma-tributaria-lideranca-e-negocios/",
     "category": "Radar fiscal"
   },
   {
@@ -534,9 +504,9 @@
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "CFC e Fenacon promovem seminário sobre Reforma Tributária em Minas Gerais",
-    "summary": "Profissionais da contabilidade terão a oportunidade de aprofundar conhecimentos sobre as novas regras tributárias e os desafios da transição para 2027. O Conselho Federal de Contabilidade (CFC), em parceria com a Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informaçõ",
-    "url": "https://cfc.org.br/noticias/cfc-e-fenacon-promovem-seminario-sobre-reforma-tributaria-em-minas-gerais/",
+    "title": "CIRCUITO CONTÁBIL DO CRCSP EM MATÃO E REGIÃO: Reforma Tributária, Precificação e Negociação, Produtividade e Agilidade, Ambiente Corporativo",
+    "summary": "Capacitadora: CRCSP - CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE SAO PAULO Programa: 08h00 às 8h30 - Credenciamento + Café Painel 1: PALAVRAS QUE ACOLHEM NO AMBIENTE CORPORATIVO. + Escuta + Diálogo = Melhores relações Thais Gasparinetti Painel 2: Como estruturar os Processos Contábeis mesmo com uma equipe enxuta c",
+    "url": "https://cfc.org.br/eventoscfc/circuito-contabil-do-crcsp-em-matao-e-regiao-reforma-tributaria-precificacao-e-negociacao-produtividade-e-agilidade-ambiente-corporativo/",
     "category": "Radar fiscal"
   }
 ]

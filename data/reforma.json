@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-10",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE",
+    "summary": "Institucional A atualização será realizada sem interrupção dos serviços. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
+  },
+  {
     "date": "2026-11-09",
     "source": "Receita Federal",
     "level": "official",

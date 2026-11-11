@@ -181,12 +181,22 @@
   },
   {
     "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL DAS pago em duplicidade: veja como recuperar os valores de cada tributo Hoje 16:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80750/das-em-duplicidade-saiba-como-pedir-a-restituicao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
-    "title": "Reforma Tributária: Ibracon abre pesquisa para avaliar desafios da Auditoria Independente",
-    "summary": "Os profissionais da Contabilidade podem colaborar na identificação dos principais impactos, desafios e necessidades percebidos pelo setor de auditorias diante das mudanças trazidas pelo novo cenário tributário. Eles podem participar da pesquisa que o Instituto de Auditoria Independente do Brasil (Ibracon) realiza para ",
-    "url": "https://cfc.org.br/noticias/reforma-tributaria-ibracon-abre-pesquisa-para-avaliar-desafios-da-auditoria-independente/",
+    "title": "Reforma Tributária na Prática",
+    "summary": "Leia mais Sem categoria 10 novembro, 2026 Link permanente",
+    "url": "https://cfc.org.br/eventoscfc/reforma-tributaria-na-pratica/",
     "category": "Radar fiscal"
   },
   {
@@ -254,6 +264,16 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Petrobras pede período sem multas para adaptação à reforma tributária Hoje 16:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80751/petrobras-quer-adaptacao-a-reforma-tributaria-sem-multas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA PEC que propõe manter IPI até o início do Imposto Seletivo é protocolada na Câmara Hoje 10:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80725/pec-22-2026-propoe-manter-ipi-ate-inicio-do-imposto-seletivo/",
@@ -314,16 +334,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CBS deve começar a ser cobrada integralmente em janeiro de 2027, sem adiamento Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "REFORMA TRIBUTÁRIA Ambiente de homologação da SVRS permite simular regras de IBS e CBS previstas para 2027 Hoje 09:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80722/svrs-libera-testes-de-ibs-e-cbs-com-regras-de-2027/",
@@ -367,26 +377,6 @@
     "title": "LEGISLAÇÃO FISCAL Postos de SC não precisam mais transmitir dados do medidor de combustíveis Ontem 11:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80696/sc-dispensa-envio-de-dados-do-medidor-volumetrico-de-combustiveis/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ISS NFS-e em dezembro: quais serviços da lista do ISS têm cronograma específico Ontem 09:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80690/nfs-e-em-dezembro-veja-quais-servicos-do-iss-entram-no-prazo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "IBS e CBS Reforma Tributária: Ato Técnico nº 10 aprova versões para nove modelos de documentos fiscais Ontem 10:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/",
     "category": "Radar fiscal"
   },
   {
@@ -457,16 +447,6 @@
     "title": "DOCUMENTOS FISCAIS NFC-e para varejo em 2026: quando migrar da NF-e, como funciona e o que mudou com a Reforma Tributária Ontem 18:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80693/nfc-e-em-2026-regras-uso-e-mudancas-tributarias/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "DCTFWeb DCTFWeb com valor incorreto: como corrigir no eSocial, na EFD-Reinf ou no MIT Ontem 09:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80688/dctfweb-com-valor-incorreto-quando-voltar-ao-esocial-efd-reinf-ou-ao-mit/",
     "category": "Radar fiscal"
   },
   {

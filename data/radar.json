@@ -20,6 +20,16 @@
     "category": "Radar fiscal"
   },
   {
+    "date": "2026-11-12",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "12 de novembro de 2026 Campinas recebe mais uma edição do Seminário Reforma Tributária pelo Brasil",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/campinas-recebe-mais-uma-edicao-do-seminario-reforma-tributaria-pelo-brasil/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-11-11",
     "source": "FENACON",
     "level": "institutional",
@@ -80,16 +90,6 @@
     "category": "Radar fiscal"
   },
   {
-    "date": "2026-11-10",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "10 de novembro de 2026 CFC e Sistema Fenacon unem esforços para apresentar contribuições técnicas à Receita Federal sobre a Reforma Tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/cfc-e-sistema-fenacon-unem-esforcos-para-apresentar-contribuicoes-tecnicas-a-receita-federal-sobre-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
     "date": "2026-10-06",
     "source": "FENACON",
     "level": "institutional",
@@ -124,9 +124,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "TRIBUTAÇÃO STJ suspende julgamento sobre IRRF em ganho de capital de investidor estrangeiro Ontem 14:30",
+    "title": "TRIBUTAÇÃO STJ exclui bonificações da base do PIS/Cofins, mas mantém exceção para valores em dinheiro Hoje 16:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80781/stj-suspende-julgamento-sobre-irrf-de-investidor-estrangeiro/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80831/stj-afasta-pis-cofins-sobre-bonificacoes-com-excecao/",
     "category": "Radar fiscal"
   },
   {
@@ -294,9 +294,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Bancos defendem remuneração acima de R$ 0,39 no início do split payment Ontem 14:00",
+    "title": "REFORMA TRIBUTÁRIA Apuração assistida: Receita prevê ajustes por planilha, preenchimento direto e API Hoje 09:15",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80800/apuracao-assistida-receita-preve-leiaute-do-modulo-de-ajustes-em-novembro/",
     "category": "Radar fiscal"
   },
   {
@@ -304,9 +304,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Apuração assistida: Receita prevê ajustes por planilha, preenchimento direto e API Hoje 09:15",
+    "title": "PLANEJAMENTO TRIBUTÁRIO Reforma Tributária: o que as empresas precisam revisar ainda em 2026 para evitar prejuízos em 2027 Hoje 17:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80800/apuracao-assistida-receita-preve-leiaute-do-modulo-de-ajustes-em-novembro/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80757/planejamento-tributario-o-que-revisar-para-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -344,9 +344,19 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "LIVRO CAIXA Receita Federal determina quando despesas devem entrar no Livro Caixa rural Ontem 11:00",
+    "title": "IRRF SOBRE JCP Juros sobre capital próprio: o que conferir no IRRF do primeiro decêndio de novembro Hoje 16:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80772/livro-caixa-rural-receita-define-data-correta-para-registrar-despesas/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80836/irrf-sobre-jcp-vence-em-13-de-novembro-veja-o-que-conferir/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "IPI DCP do terceiro trimestre vence em 13 de novembro; veja quem precisa entregar Hoje 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80837/dcp-vence-em-13-de-novembro-veja-quem-deve-entregar/",
     "category": "Radar fiscal"
   },
   {
@@ -527,16 +537,6 @@
     "title": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
     "summary": "O Conselho Federal de Contabilidade (CFC) entregou nesta terça-feira (10) ao secretário especial da Receita Federal, Robinson Barreirinhas, uma manifestação técnica conjunta com a Fenacon, federação que representa empresas de contabilidade e assessoramento. O documento apresenta nove propostas para a transição da refor",
     "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ARTIGO TRIBUTÁRIO Residência fiscal: é possível escolher a melhor opção? Ontem 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80787/residencia-fiscal-e-possivel-escolher-a-melhor-opcao/",
     "category": "Radar fiscal"
   },
   {

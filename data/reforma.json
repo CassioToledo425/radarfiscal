@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-13",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Processamento final das solicitações de Opção pelo Simples Nacional para 2027",
+    "summary": "Serviços O processamento final das pendências ocorrerá em breve e os contribuintes podem acessar o serviço \"Acompanhamento da Solicitação da Opção pelo Simples Nacional\" no Portal do Simples Nacional a partir de 20/11.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/processamento-final-das-solicitacoes-de-opcao-pelo-simples-nacional-para-2027"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+    "summary": "Serviços Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
+  },
+  {
     "date": "2026-11-12",
     "source": "CGIBS",
     "level": "official",
@@ -8,6 +28,16 @@
     "title": "RESOLUÇÃO CGIBS Nº 19, DE 12 DE NOVEMBRO DE 2026",
     "summary": "Publicação normativa oficial do Comitê Gestor do IBS.",
     "url": "https://www.cgibs.gov.br/upload/arquivos/202611/12101846-resolucao-cgibs-n-19-de-12-de-novembro-de-2026.pdf"
+  },
+  {
+    "date": "2026-11-11",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "ATO CONJUNTO RFB/CGIBS Nº 7, DE 11 DE NOVEMBRO DE 2026",
+    "summary": "Publicação normativa oficial do Comitê Gestor do IBS.",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf"
   },
   {
     "date": "2026-11-10",

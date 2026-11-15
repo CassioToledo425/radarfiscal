@@ -1,6 +1,206 @@
 [
   {
     "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL NFS-e Nacional: os cuidados que empresas do Simples Nacional precisam ter para evitar erros na emissão 13/11/2026 17:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80810/nfs-e-nacional-cuidados-para-empresas-do-simples/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REGULARIDADE FISCAL RJ lança certidão conjunta de regularidade fiscal para empresas e pessoas físicas 13/11/2026 14:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80862/certidao-conjunta-da-sefaz-rj-e-pge-rj-ja-pode-ser-emitida/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária 2027: Sua empresa está realmente preparada? 13/11/2026 17:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80817/reforma-tributaria-exige-preparo-alem-dos-sistemas-fiscais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Receita e CGIBS mudam prazos dos documentos fiscais do IBS e da CBS; veja o novo calendário 13/11/2026 11:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA NFS-e da reforma: plataformas digitais e serviços de TI ganham prazo até março 13/11/2026 15:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80865/nfs-e-plataformas-digitais-e-ti-tem-prazo-ate-marco-de-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Imóveis na holding: o que muda em 2027? 13/11/2026 20:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Empresas de serviços e a Reforma Tributária: o que muda no preço e no crédito com CBS e IBS 13/11/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80843/reforma-tributaria-como-precificar-servicos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Câmara convoca Receita para discutir CBS, Imposto Seletivo e créditos das pequenas empresas 13/11/2026 16:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80873/camara-debate-cbs-imposto-seletivo-e-creditos-tributarios/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CGIBS anuncia dispensa de CNPJ para produtores rurais e transportadores autônomos até o fim de 2028 13/11/2026 15:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CFC e Receita Federal, Fenacon e Sebrae iniciam grupo para acompanhar reforma tributária 13/11/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Após suspensão de decisões sobre ICMS, depósito judicial pode preservar discussão sobre IBS e CBS 13/11/2026 18:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS E COFINS CARF reconheceu direito a crédito de PIS/Cofins sobre higienização de uniformes e EPIs 13/11/2026 17:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80797/creditos-de-pis-e-cofins-sobre-higienizacao-de-epis/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "NOTA FISCAL ELETRÔNICA NF-e e CT-e: o que saiu do calendário de 16 de novembro e o que continua previsto 13/11/2026 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "MALHA FISCAL Malha fiscal: Sefaz-SE dá prazo para 1.750 contribuintes corrigirem divergências 13/11/2026 11:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80857/se-sefaz-notifica-1-750-empresas-do-simples-nacional-por-divergencias-fiscais/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "FISCALIZAÇÃO Receita e PF investigam uso de créditos falsos em compensações que podem superar R$ 185 milhões 13/11/2026 10:15",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80850/receita-e-pf-investigam-fraude-tributaria-de-r-185-milhoes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "EXECUÇÃO FISCAL O seguro garantia precisa chegar antes do bloqueio da conta do cliente 13/11/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80844/seguro-garantia-na-execucao-fiscal-por-que-agir-cedo/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "CBS Receita Federal exige nova credencial para consultar débitos e créditos da CBS 13/11/2026 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80864/apis-da-cbs-exigem-nova-credencial-para-consulta-de-debitos-e-creditos/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "ALÍQUOTA CBS Senado recebe projeto para reduzir alíquota da CBS em caso de excesso de arrecadação 13/11/2026 09:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "AJUSTE FISCAL Projeto de ajuste fiscal é aprovado no Senado e prevê mudanças tributárias 13/11/2026 09:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80853/senado-aprova-pl-ajuste-fiscal-com-impacto-de-ate-r-56-1-bi/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "AJUSTE FISCAL Governo prevê arrecadar R$ 33,3 bilhões com restrições a créditos e benefícios fiscais 13/11/2026 10:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80854/pacote-fiscal-preve-r-33-3-bi-com-creditos-e-beneficios/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-13",
     "source": "FENACON",
     "level": "institutional",
     "kind": "update",
@@ -134,16 +334,6 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL NFS-e Nacional: os cuidados que empresas do Simples Nacional precisam ter para evitar erros na emissão Ontem 17:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80810/nfs-e-nacional-cuidados-para-empresas-do-simples/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
     "title": "SIMPLES NACIONAL Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.",
     "summary": "Ferramentas Ferramentas « Voltar Reforma Tributária Simples Nacional Anexos do Super Simples Análise Imposto de Renda Calculadora INSS e IR NFe DANFE/CTe DACTE Ferramentas Contábeis Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos",
     "url": "https://www.contabeis.com.br/conteudo/ferramentas/simples-nacional",
@@ -164,77 +354,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REGULARIDADE FISCAL RJ lança certidão conjunta de regularidade fiscal para empresas e pessoas físicas Ontem 14:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80862/certidao-conjunta-da-sefaz-rj-e-pge-rj-ja-pode-ser-emitida/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária 2027: Sua empresa está realmente preparada? Ontem 17:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80817/reforma-tributaria-exige-preparo-alem-dos-sistemas-fiscais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Receita e CGIBS mudam prazos dos documentos fiscais do IBS e da CBS; veja o novo calendário Ontem 11:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA NFS-e da reforma: plataformas digitais e serviços de TI ganham prazo até março Ontem 15:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80865/nfs-e-plataformas-digitais-e-ti-tem-prazo-ate-marco-de-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Imóveis na holding: o que muda em 2027? Ontem 20:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresas de serviços e a Reforma Tributária: o que muda no preço e no crédito com CBS e IBS Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80843/reforma-tributaria-como-precificar-servicos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Câmara convoca Receita para discutir CBS, Imposto Seletivo e créditos das pequenas empresas Ontem 16:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80873/camara-debate-cbs-imposto-seletivo-e-creditos-tributarios/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Crédito de ICMS sobre máquinas e equipamentos: quando pedir a homologação na transição para o IBS? Hoje 12:00",
+    "title": "REFORMA TRIBUTÁRIA Crédito de ICMS sobre máquinas e equipamentos: quando pedir a homologação na transição para o IBS? Ontem 12:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
     "category": "Radar fiscal"
@@ -244,69 +364,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CGIBS anuncia dispensa de CNPJ para produtores rurais e transportadores autônomos até o fim de 2028 Ontem 15:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CFC e Receita Federal, Fenacon e Sebrae iniciam grupo para acompanhar reforma tributária Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Após suspensão de decisões sobre ICMS, depósito judicial pode preservar discussão sobre IBS e CBS Ontem 18:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS E COFINS CARF reconheceu direito a crédito de PIS/Cofins sobre higienização de uniformes e EPIs Ontem 17:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80797/creditos-de-pis-e-cofins-sobre-higienizacao-de-epis/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NOTA FISCAL ELETRÔNICA NF-e e CT-e: o que saiu do calendário de 16 de novembro e o que continua previsto Ontem 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NFS-E NACIONAL NFS-e: adesão do município não define quando preencher IBS e CBS Hoje 09:00",
+    "title": "NFS-E NACIONAL NFS-e: adesão do município não define quando preencher IBS e CBS Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "MALHA FISCAL Malha fiscal: Sefaz-SE dá prazo para 1.750 contribuintes corrigirem divergências Ontem 11:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80857/se-sefaz-notifica-1-750-empresas-do-simples-nacional-por-divergencias-fiscais/",
     "category": "Radar fiscal"
   },
   {
@@ -351,16 +411,6 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "FISCALIZAÇÃO Receita e PF investigam uso de créditos falsos em compensações que podem superar R$ 185 milhões Ontem 10:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80850/receita-e-pf-investigam-fraude-tributaria-de-r-185-milhoes/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -377,16 +427,6 @@
     "title": "Escola Técnica CRCPR – Reforma Tributária: o jogo mudou. E você, o que vai fazer?",
     "summary": "Esta aula tem o objetivo de preparar o profissional contábil para atuar de forma estratégica e antecipatória diante da Reforma Tributária do Consumo, compreendendo seus marcos de transição, seus impactos operacionais e as novas demandas dos clientes. INSTRUTOR Felipe Beraldi Economista graduado na FEA-USP, com mestrado",
     "url": "https://cfc.org.br/eventoscfc/escola-tecnica-crcpr-reforma-tributaria-o-jogo-mudou-e-voce-o-que-vai-fazer/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EXECUÇÃO FISCAL O seguro garantia precisa chegar antes do bloqueio da conta do cliente Ontem 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80844/seguro-garantia-na-execucao-fiscal-por-que-agir-cedo/",
     "category": "Radar fiscal"
   },
   {
@@ -467,46 +507,6 @@
     "title": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
     "summary": "O Conselho Federal de Contabilidade (CFC) entregou nesta terça-feira (10) ao secretário especial da Receita Federal, Robinson Barreirinhas, uma manifestação técnica conjunta com a Fenacon, federação que representa empresas de contabilidade e assessoramento. O documento apresenta nove propostas para a transição da refor",
     "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "CBS Receita Federal exige nova credencial para consultar débitos e créditos da CBS Ontem 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80864/apis-da-cbs-exigem-nova-credencial-para-consulta-de-debitos-e-creditos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "ALÍQUOTA CBS Senado recebe projeto para reduzir alíquota da CBS em caso de excesso de arrecadação Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTE FISCAL Projeto de ajuste fiscal é aprovado no Senado e prevê mudanças tributárias Ontem 09:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80853/senado-aprova-pl-ajuste-fiscal-com-impacto-de-ate-r-56-1-bi/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTE FISCAL Governo prevê arrecadar R$ 33,3 bilhões com restrições a créditos e benefícios fiscais Ontem 10:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80854/pacote-fiscal-preve-r-33-3-bi-com-creditos-e-beneficios/",
     "category": "Radar fiscal"
   }
 ]

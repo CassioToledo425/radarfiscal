@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-16",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
+    "summary": "Serviços Iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+  },
+  {
     "date": "2026-11-13",
     "source": "Receita Federal",
     "level": "official",
@@ -16,7 +26,7 @@
     "kind": "update",
     "kind_label": "Atualização",
     "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
-    "summary": "Serviços Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
+    "summary": "Serviços Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses. tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
   },
   {

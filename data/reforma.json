@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-17",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
+    "summary": "Serviços Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel"
+  },
+  {
     "date": "2026-11-16",
     "source": "Receita Federal",
     "level": "official",
@@ -58,16 +68,6 @@
     "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE",
     "summary": "Institucional A atualização será realizada sem interrupção dos serviços. tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
-  },
-  {
-    "date": "2026-11-09",
-    "source": "Receita Federal",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Receita Federal libera acesso às novas APIs de apuração da CBS",
-    "summary": "Serviços Nova versão permite consultas incrementais de débitos e créditos apurados. tags: RTC",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs"
   },
   {
     "date": "2026-09-15",

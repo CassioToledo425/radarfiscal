@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-11-18",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "18 de novembro de 2026 Reforma tributária: Receita descarta punição a erros de boa-fé",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-receita-descarta-punicao-a-erros-de-boa-fe/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "18 de novembro de 2026 Receita Federal disponibiliza API para emissão do Recolhimento como Adquirente (RAD)",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/virando-a-chave-na-reforma-tributaria-api-do-rad-documentacao-tecnica-ja-esta-disponivel/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "18 de novembro de 2026 Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "18 de novembro de 2026 Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
+    "summary": "",
+    "url": "https://fenacon.org.br/noticias/durigan-defende-inicio-da-reforma-tributaria-em-2027-e-preve-aliquota-media-de-85-para-a-cbs/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "18 de novembro de 2026 Comitê Gestor da NFS-e realiza nova etapa de homologação de funcionalidades para a Reforma Tributária em Belo Horizonte/MG",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/comite-gestor-da-nfs-e-realiza-nova-etapa-de-homologacao-de-funcionalidades-para-a-reforma-tributaria-em-belo-horizonte-mg/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-11-17",
     "source": "FENACON",
     "level": "institutional",
@@ -7,6 +57,86 @@
     "title": "17 de novembro de 2026 A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorios-de-advocacia/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Receita Estadual do RS institui apuração pré-preenchida do Simples Nacional para obrigações de ICMS 16/11/2026 15:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80902/rs-cria-apuracao-pre-preenchida-do-simples-nacional-para-informar-valores-de-icms/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: veja quem recebe cashback e como funcionará a devolução 16/11/2026 15:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA PEC sugere segundo ano de testes da CBS e adiamento da cobrança efetiva para 2028 16/11/2026 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Empresas perdem primeira rodada na Justiça contra inclusão de IBS e CBS na base do ICMS 16/11/2026 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA CBS e IBS nos serviços B2B: por que o impacto é nulo e como proteger seu lucro na negociação 16/11/2026 20:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80887/reforma-tributaria-como-negociar-precos-em-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA A CBS de 2027 vai mexer no seu caixa antes de mexer no seu lucro 16/11/2026 20:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/80913/cbs-em-2027-como-se-preparar-para-o-impacto-no-caixa/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "RECICLAGEM DE VEÍCULOS Programa prevê benefício tributário para fabricantes que utilizarem créditos de reciclagem de veículos 16/11/2026 17:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80905/reciclagem-de-veiculos-podera-gerar-creditos-para-reduzir-ipi-e-is/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-16",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "PIS E COFINS STJ nega crédito de PIS/Cofins sobre pagamentos a trabalhadores intermediados pelo OGMO 16/11/2026 12:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80897/stj-barra-credito-de-pis-cofins-sobre-mao-de-obra-portuaria/",
     "category": "Radar fiscal"
   },
   {
@@ -37,106 +167,6 @@
     "title": "16 de novembro de 2026 Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-16",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "16 de novembro de 2026 Após pleito do Sescon-SP, prazo da DeRE é prorrogado; notas fiscais também têm novas datas",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/apos-pleito-do-sescon-sp-prazo-da-dere-e-prorrogado-notas-fiscais-tambem-tem-novas-datas/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-15",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "15 de novembro de 2026 Maceió recebe o seminário Reforma Tributária pelo Brasil",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/maceio-recebe-o-seminario-reforma-tributaria-pelo-brasil/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Crédito de ICMS sobre máquinas e equipamentos: quando pedir a homologação na transição para o IBS? 14/11/2026 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-14",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NFS-E NACIONAL NFS-e: adesão do município não define quando preencher IBS e CBS 14/11/2026 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Imóveis na holding: o que muda em 2027? 13/11/2026 20:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Após suspensão de decisões sobre ICMS, depósito judicial pode preservar discussão sobre IBS e CBS 13/11/2026 18:15",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-13",
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "EXECUÇÃO FISCAL O seguro garantia precisa chegar antes do bloqueio da conta do cliente 13/11/2026 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80844/seguro-garantia-na-execucao-fiscal-por-que-agir-cedo/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-13",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "13 de novembro de 2026 Reforma tributária: CNC reforça pedido por ajustes no cronograma de implementação",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-cnc-reforca-pedido-por-ajustes-no-cronograma-de-implementacao/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-13",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "13 de novembro de 2026 Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-13",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "13 de novembro de 2026 CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária",
-    "summary": "",
-    "url": "https://fenacon.org.br/reforma-tributaria/cgibs-aprova-ajustes-ao-regulamento-do-imposto-sobre-bens-e-servicos-e-prorroga-a-dere-em-reuniao-ordinaria/",
     "category": "Radar fiscal"
   },
   {
@@ -174,29 +204,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Híbrido: cálculo da CBS em 11,3% exige revisar a escolha dos clientes até 20 de dezembro Hoje 08:30",
+    "title": "SIMPLES NACIONAL Simples Híbrido: cálculo da CBS em 11,3% exige revisar a escolha dos clientes até 20 de dezembro Ontem 08:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80869/simples-hibrido-calculo-da-cbs-em-11-3-exige-revisar-a-escolha-dos-clientes-ate-20-de-dezembro/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Receita Federal libera processamento final das solicitações do Simples Nacional 2027 nesta sexta-feira (20) Ontem 11:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80895/simples-nacional-2027-processamento-final-dos-pedidos-sai-nesta-sexta-20/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "SIMPLES NACIONAL Receita Estadual do RS institui apuração pré-preenchida do Simples Nacional para obrigações de ICMS Ontem 15:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80902/rs-cria-apuracao-pre-preenchida-do-simples-nacional-para-informar-valores-de-icms/",
     "category": "Radar fiscal"
   },
   {
@@ -224,7 +234,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Senado discute cálculo da alíquota de referência da CBS para 2027 Hoje 09:00",
+    "title": "REFORMA TRIBUTÁRIA Senado discute cálculo da alíquota de referência da CBS para 2027 Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/",
     "category": "Radar fiscal"
@@ -234,9 +244,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: veja quem recebe cashback e como funcionará a devolução Ontem 15:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária: ministro estima alíquota média efetiva de 8,5% para novos tributos sobre consumo Hoje 10:00",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
     "category": "Radar fiscal"
   },
   {
@@ -244,7 +254,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: Comitê Gestor aprova mudanças no regulamento do IBS para o setor financeiro Hoje 10:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária: Receita Federal identifica riscos e prevê medidas para orientar empresas na transição Hoje 11:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80965/receita-mapeia-riscos-da-reforma-tributaria-e-prepara-orientacao-aos-contribuintes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária: Comitê Gestor aprova mudanças no regulamento do IBS para o setor financeiro Ontem 10:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
     "category": "Radar fiscal"
@@ -254,7 +274,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Redata: empresas de data centers aguardam regulamentação para acessar benefícios fiscais Hoje 14:00",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária pode elevar custos e levar aeroportos a rever contratos Hoje 14:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Redata: empresas de data centers aguardam regulamentação para acessar benefícios fiscais Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80935/redata-empresas-aguardam-regras-para-obter-incentivos-fiscais/",
     "category": "Radar fiscal"
@@ -264,7 +294,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Projeto propõe reduzir IBS e CBS para serviços veterinários; veja quem pode ser beneficiado Hoje 16:00",
+    "title": "REFORMA TRIBUTÁRIA Projeto propõe reduzir IBS e CBS para serviços veterinários; veja quem pode ser beneficiado Ontem 16:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -274,17 +304,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA PEC sugere segundo ano de testes da CBS e adiamento da cobrança efetiva para 2028 Ontem 14:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ICMS: suspensão judicial Hoje 20:00",
+    "title": "REFORMA TRIBUTÁRIA IBS e CBS na base do ICMS: suspensão judicial Ontem 20:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80944/ibs-e-cbs-na-base-do-icms-tjsp-suspende-decisoes/",
     "category": "Radar fiscal"
@@ -294,9 +314,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresas perdem primeira rodada na Justiça contra inclusão de IBS e CBS na base do ICMS Ontem 18:00",
+    "title": "REFORMA TRIBUTÁRIA Empresas acionam a Justiça contra IBS e CBS na base de cálculo do ISS Hoje 09:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
     "category": "Radar fiscal"
   },
   {
@@ -304,7 +324,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Compra de produtor rural em 2027: o que o escritório precisa preparar antes de janeiro Hoje 19:30",
+    "title": "REFORMA TRIBUTÁRIA Compra de produtor rural em 2027: o que o escritório precisa preparar antes de janeiro Ontem 19:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/80916/credito-presumido-no-agro-exige-novos-controles/",
     "category": "Radar fiscal"
@@ -314,7 +334,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Calculadora de Tributos da Reforma Tributária ganha código aberto Hoje 09:30",
+    "title": "REFORMA TRIBUTÁRIA Calculadora de Tributos da Reforma Tributária ganha código aberto Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
     "category": "Radar fiscal"
@@ -324,17 +344,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA CBS e IBS nos serviços B2B: por que o impacto é nulo e como proteger seu lucro na negociação Ontem 20:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80887/reforma-tributaria-como-negociar-precos-em-2027/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Black Friday amplia desafios fiscais em meio à transição para a Reforma Tributária Hoje 20:30",
+    "title": "REFORMA TRIBUTÁRIA Black Friday amplia desafios fiscais em meio à transição para a Reforma Tributária Ontem 20:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/80938/black-friday-exige-preparo-fiscal-para-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -344,39 +354,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA A CBS de 2027 vai mexer no seu caixa antes de mexer no seu lucro Ontem 20:30",
+    "title": "REFORMA TRIBUTÁRIA Adiamento da CBS: esperar uma decisão não é motivo para deixar a preparação para depois Hoje 08:30",
     "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/80913/cbs-em-2027-como-se-preparar-para-o-impacto-no-caixa/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "RECICLAGEM DE VEÍCULOS Programa prevê benefício tributário para fabricantes que utilizarem créditos de reciclagem de veículos Ontem 17:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80905/reciclagem-de-veiculos-podera-gerar-creditos-para-reduzir-ipi-e-is/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PIS E COFINS STJ nega crédito de PIS/Cofins sobre pagamentos a trabalhadores intermediados pelo OGMO Ontem 12:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80897/stj-barra-credito-de-pis-cofins-sobre-mao-de-obra-portuaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "PGDAD-S Reforma Tributária altera regras de preenchimento do PGDAS-D para empresas do Simples Nacional Ontem 09:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/80892/pgdas-d-muda-em-2026-e-exige-atencao-dos-contadores/",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80870/adiamento-da-cbs-esperar-uma-decisao-nao-e-motivo-para-deixar-a-preparacao-para-depois/",
     "category": "Radar fiscal"
   },
   {
@@ -517,6 +497,26 @@
     "title": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
     "summary": "O Conselho Federal de Contabilidade (CFC) entregou nesta terça-feira (10) ao secretário especial da Receita Federal, Robinson Barreirinhas, uma manifestação técnica conjunta com a Fenacon, federação que representa empresas de contabilidade e assessoramento. O documento apresenta nove propostas para a transição da refor",
     "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "APURAÇÃO ASSISTIDA Receita Federal libera apuração assistida da reforma tributária para todas as empresas nesta semana Hoje 14:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "API DA CBS API da CBS: veja o que prevê a documentação técnica divulgada pela Receita Federal Hoje 09:05",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/80961/receita-publica-documentacao-da-api-de-apuracao-assistida-da-cbs/",
     "category": "Radar fiscal"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-18",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária",
+    "summary": "Tributação Reunião reforçou a atuação conjunta, o programa de conformidade tributária e a oferta de canais de orientação e suporte aos contribuintes durante a transição para o novo modelo. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "Receita Federal",
+    "level": "official",
+    "kind": "update",
+    "kind_label": "Atualização",
+    "title": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "summary": "Serviços Após o processamento dos pedidos, foram registradas mais de 657 mil solicitações pelo Simples Nacional e 1 milhão pelo regime regular do IBS e da CBS. tags: RTC",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+  },
+  {
     "date": "2026-11-17",
     "source": "Receita Federal",
     "level": "official",
@@ -38,6 +58,16 @@
     "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
     "summary": "Serviços Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses. tags: RTC",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
+  },
+  {
+    "date": "2026-11-13",
+    "source": "CGIBS",
+    "level": "official",
+    "kind": "normative",
+    "kind_label": "Ato conjunto",
+    "title": "ATO CONJUNTO RFB/CGIBS Nº 8, DE 13 DE NOVEMBRO DE 2026",
+    "summary": "Publicação normativa oficial do Comitê Gestor do IBS.",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202611/18223257-ato-conjunto-n-8-2026-dispensa-cnpj-pf-2028-e-tac-assinado-1.pdf"
   },
   {
     "date": "2026-11-12",

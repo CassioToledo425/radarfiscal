@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-21T01:50:51+00:00",
+  "updated_at": "2026-11-21T20:48:02+00:00",
   "sources": [
     {
       "name": "Receita Federal — Agenda Tributária",
       "level": "official",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria",
       "description": "Prazos, vencimentos e obrigações acessórias federais, com detalhamento por dia.",
-      "status": "ok"
+      "status": "error"
     },
     {
       "name": "Receita Federal — Reforma Tributária",

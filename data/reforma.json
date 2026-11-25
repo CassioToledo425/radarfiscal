@@ -325,26 +325,6 @@
     "level": "official",
     "kind": "update",
     "kind_label": "Atualização",
-    "title": "Guia Orientativo (PDF)",
-    "summary": "",
-    "url": "https://www.cgibs.gov.br/guia-orientativo-pdf"
-  },
-  {
-    "date": null,
-    "source": "CGIBS",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
-    "title": "Guia - Impactos Administrativos",
-    "summary": "Guia Orientativo (PDF) Painel Interativo",
-    "url": "https://www.cgibs.gov.br/guia-orientativo-para-impactos-administrativos-da-reforma-tributaria"
-  },
-  {
-    "date": null,
-    "source": "CGIBS",
-    "level": "official",
-    "kind": "update",
-    "kind_label": "Atualização",
     "title": "Editais de Chamamento Público",
     "summary": "",
     "url": "https://www.cgibs.gov.br/editais-de-chamamento-publico"

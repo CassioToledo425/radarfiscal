@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-27",
+    "source": "FENACON",
+    "level": "institutional",
+    "kind": "update",
+    "title": "27 de novembro de 2026 STJ instala Observatório da Reforma Tributária sobre o Consumo",
+    "summary": "",
+    "url": "https://fenacon.org.br/reforma-tributaria/stj-instala-observatorio-da-reforma-tributaria-sobre-o-consumo/",
+    "category": "Radar fiscal"
+  },
+  {
     "date": "2026-11-26",
     "source": "FENACON",
     "level": "institutional",
@@ -27,6 +37,46 @@
     "title": "26 de novembro de 2026 CGNFS-e informa: disponibilizado no ambiente de testes o Release 2 das evoluções da Nota Técnica 009",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/cgnfs-e-informa-disponibilizado-no-ambiente-de-testes-o-release-2-das-evolucoes-da-nota-tecnica-009/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-25",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA A Receita abriu o Piloto da CBS para todos. Mas tem um detalhe que pode pegar empresas de surpresa 25/11/2026 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/81161/piloto-da-cbs-empresas-ja-podem-testar-ferramentas/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-25",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "LUCRO PRESUMIDO LC 239/2026 no Lucro Presumido: acréscimo de 20% a partir de janeiro no IRPJ e de março na CSLL, no meio do trimestre 25/11/2026 19:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/81155/lucro-presumido-acrescimo-sobe-para-20-em-2027/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-25",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "COMPENSAÇÃO TRIBUTÁRIA RET e SCP: Receita delimita uso de créditos tributários em empreendimentos imobiliários 25/11/2026 15:45",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/81158/receita-limita-uso-de-creditos-tributarios-em-ret-e-scp/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": "2026-11-25",
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "AJUSTE FISCAL Ajuste fiscal pressiona empresas e pode chegar aos preços, avaliam tributaristas 25/11/2026 21:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/81122/ajuste-fiscal-pressiona-empresas-e-tem-alcance-limitado/",
     "category": "Radar fiscal"
   },
   {
@@ -77,16 +127,6 @@
     "title": "23 de novembro de 2026 Às vésperas da reforma tributária, escritórios contábeis têm apagão de mão de obra",
     "summary": "",
     "url": "https://fenacon.org.br/reforma-tributaria/as-vesperas-da-reforma-tributaria-escritorios-contabeis-tem-apagao-de-mao-de-obra/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": "2026-11-23",
-    "source": "FENACON",
-    "level": "institutional",
-    "kind": "update",
-    "title": "23 de novembro de 2026 Reforma Tributária pelo Brasil reúne profissionais e debate novas oportunidades em Belém",
-    "summary": "",
-    "url": "https://fenacon.org.br/noticias/reforma-tributaria-pelo-brasil-reune-profissionais-e-debate-novas-oportunidades-em-belem/",
     "category": "Radar fiscal"
   },
   {
@@ -184,7 +224,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Simples Nacional no ES: novo comunicado reinicia prazo para contestar exclusões Hoje 16:30",
+    "title": "SIMPLES NACIONAL Uma empresa registra os funcionários, a outra fatura. O CARF já decidiu o que acontece com esse esquema Ontem 19:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/81202/simples-nacional-carf-mira-empresas-que-dividem-folha/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "SIMPLES NACIONAL Simples Nacional no ES: novo comunicado reinicia prazo para contestar exclusões Ontem 16:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81207/simples-nacional-es-reabre-prazo-para-contestar-exclusao/",
     "category": "Radar fiscal"
@@ -194,7 +244,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "SIMPLES NACIONAL Receita Federal faz live hoje sobre novo PGDAS e mudanças no Simples Hoje 09:45",
+    "title": "SIMPLES NACIONAL Receita Federal faz live hoje sobre novo PGDAS e mudanças no Simples Ontem 09:45",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81183/novo-pgdas-receita-faz-live-hoje-sobre-reforma-tributaria/",
     "category": "Radar fiscal"
@@ -234,7 +284,17 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Setor produtivo contesta CBS de 11,3% do TCU e leva ao Senado estudos que indicam alíquota abaixo de 10% Hoje 09:15",
+    "title": "REGULARIZAÇÃO FISCAL Pará regulamenta Prorefis com redução de multas e juros; adesão começa nesta quinta-feira (26) Ontem 18:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/81212/para-regulamenta-prorefis-com-descontos-de-ate-100/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Setor produtivo contesta CBS de 11,3% do TCU e leva ao Senado estudos que indicam alíquota abaixo de 10% Ontem 09:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81180/aliquota-da-cbs-estudos-contestam-11-3-do-tcu-para-2027/",
     "category": "Radar fiscal"
@@ -244,7 +304,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Serviço para cliente estrangeiro: quando a operação é exportação no IBS e na CBS? Hoje 11:15",
+    "title": "REFORMA TRIBUTÁRIA Serviço para cliente estrangeiro: quando a operação é exportação no IBS e na CBS? Ontem 11:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81190/cliente-estrangeiro-nao-garante-exportacao-para-ibs-e-cbs/",
     "category": "Radar fiscal"
@@ -254,7 +314,27 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma tributária: confederações recorrem ao STF para adiar início da cobrança dos novos tributos em 2027 Hoje 09:30",
+    "title": "REFORMA TRIBUTÁRIA Segundo CGIBS, sem redução da sonegação a CBS chegaria a 12,3%; mas adoção do split payment pode ajudar a reduzir alíquota Ontem 22:00",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/noticias/81175/cbs-pode-ter-aliquota-de-12-3-sem-reduzir-sonegacao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária: o que o varejo e as franquias precisam rever antes de 2027 Ontem 20:30",
+    "summary": "",
+    "url": "https://www.contabeis.com.br/conteudo/artigos/81200/cbs-em-2027-como-varejistas-podem-preparar-a-gestao/",
+    "category": "Radar fiscal"
+  },
+  {
+    "date": null,
+    "source": "Portal Contábeis",
+    "level": "specialized",
+    "kind": "update",
+    "title": "REFORMA TRIBUTÁRIA Reforma tributária: confederações recorrem ao STF para adiar início da cobrança dos novos tributos em 2027 Ontem 09:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81184/entidades-pedem-adiamento-da-cobranca-da-reforma-tributaria-em-2027/",
     "category": "Radar fiscal"
@@ -264,7 +344,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e provisões contábeis: quando a incerteza tributária deve chegar às demonstrações financeiras? Hoje 13:30",
+    "title": "REFORMA TRIBUTÁRIA Reforma Tributária e provisões contábeis: quando a incerteza tributária deve chegar às demonstrações financeiras? Ontem 13:30",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/artigos/81198/reforma-tributaria-quando-reconhecer-provisoes/",
     "category": "Radar fiscal"
@@ -274,19 +354,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA Empresas incluem cláusulas para garantir adoção do split payment Hoje 14:00",
+    "title": "REFORMA TRIBUTÁRIA Empresas incluem cláusulas para garantir adoção do split payment Ontem 14:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81196/split-payment-empresas-revisam-contratos-para-garantir-creditos/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "REFORMA TRIBUTÁRIA A Receita abriu o Piloto da CBS para todos. Mas tem um detalhe que pode pegar empresas de surpresa Ontem 19:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/81161/piloto-da-cbs-empresas-ja-podem-testar-ferramentas/",
     "category": "Radar fiscal"
   },
   {
@@ -304,29 +374,9 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "NOTA FISCAL NF-e duplicada pode ser anulada com outra nota? Saiba como regularizar em São Paulo Ontem 15:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/81144/emitiu-nf-e-duplicada-em-sp-sefaz-proibe-anular-com-outra-nota/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "NFS-E NFS-e libera novas funções para testes de adequação à Reforma Tributária Hoje 09:00",
+    "title": "NFS-E NFS-e libera novas funções para testes de adequação à Reforma Tributária Ontem 09:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81181/nfs-e-libera-novas-funcoes-para-testes-da-reforma-tributaria/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "LUCRO PRESUMIDO LC 239/2026 no Lucro Presumido: acréscimo de 20% a partir de janeiro no IRPJ e de março na CSLL, no meio do trimestre Ontem 19:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/81155/lucro-presumido-acrescimo-sobe-para-20-em-2027/",
     "category": "Radar fiscal"
   },
   {
@@ -344,7 +394,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "GESTÃO FISCAL Sefaz-PI seleciona empresas para desenvolver ferramentas de monitoramento de riscos fiscais Hoje 17:00",
+    "title": "GESTÃO FISCAL Sefaz-PI seleciona empresas para desenvolver ferramentas de monitoramento de riscos fiscais Ontem 17:00",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81206/sefaz-pi-abre-edital-para-startups-com-investimento-de-ate-r-200-mil/",
     "category": "Radar fiscal"
@@ -421,16 +471,6 @@
   },
   {
     "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "COMPENSAÇÃO TRIBUTÁRIA RET e SCP: Receita delimita uso de créditos tributários em empreendimentos imobiliários Ontem 15:45",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/81158/receita-limita-uso-de-creditos-tributarios-em-ret-e-scp/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
     "source": "CFC",
     "level": "institutional",
     "kind": "update",
@@ -444,37 +484,7 @@
     "source": "Portal Contábeis",
     "level": "specialized",
     "kind": "update",
-    "title": "ARTIGO TRIBUTÁRIO Isenção do Imposto de Renda por moléstia grave exige requisitos específicos Ontem 13:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/artigos/81154/isencao-de-ir-por-doenca-grave-entenda-as-regras/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTE FISCAL Presidente do Senado afirma que vai conversar com líderes sobre novo ajuste fiscal Ontem 14:30",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/81147/senado-articula-apoio-para-continuidade-do-ajuste-fiscal-em-2026/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTE FISCAL Ajuste fiscal pressiona empresas e pode chegar aos preços, avaliam tributaristas Ontem 21:00",
-    "summary": "",
-    "url": "https://www.contabeis.com.br/conteudo/noticias/81122/ajuste-fiscal-pressiona-empresas-e-tem-alcance-limitado/",
-    "category": "Radar fiscal"
-  },
-  {
-    "date": null,
-    "source": "Portal Contábeis",
-    "level": "specialized",
-    "kind": "update",
-    "title": "AJUSTE FISCAL Ajuste fiscal muda benefícios tributários e compensações das empresas Hoje 16:15",
+    "title": "AJUSTE FISCAL Ajuste fiscal muda benefícios tributários e compensações das empresas Ontem 16:15",
     "summary": "",
     "url": "https://www.contabeis.com.br/conteudo/noticias/81205/lei-do-ajuste-fiscal-o-que-muda-para-as-empresas/",
     "category": "Radar fiscal"
